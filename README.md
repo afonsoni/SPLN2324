@@ -29,24 +29,24 @@ Calcular a word frequency de um texto
 
 ### Aula 2
 
-Ir para (Aula 2)[Aula2]
+Ir para [Aula 2](Aula2/TPC2/)
 
 Criar projeto wfreq, de modo a ser capaz de contar a frequencia de palavras de qualquer ficheiro
 
 ### Aula 3
 
-Ir para (Aula 3)[Aula3]
+Ir para [Aula 3](Aula3/TPC3/)
 
 Criação/atualização de um template jinja2 para o pyproject.toml
 
 ### Aula 4
 
-Ir para (Aula 4)[Aula4]
+Ir para [Aula 4](Aula4)
 
 ### Aula 5
 
-Ir para (Aula 5)[Aula5]
+Ir para [Aula 5](Aula5)
 
 ### Aula 6
 
-Ir para (Aula 6)[Aula6]
+Ir para [Aula 6](Aula6)
