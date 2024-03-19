@@ -23,25 +23,27 @@ O programa proposto permite um ensino orientado a casos o que facilita a motiva�
 
 ### Aula 1
 
-Ir para (Aula 1)[Aula1]
-
 Calcular a word frequency de um texto
+
+Ir para (Aula 1)[Aula1]
 
 ### Aula 2
 
-Ir para [Aula 2](Aula2/TPC2/)
-
 Criar projeto wfreq, de modo a ser capaz de contar a frequencia de palavras de qualquer ficheiro
+
+Ir para [Aula 2](Aula2/TPC2/)
 
 ### Aula 3
 
-Ir para [Aula 3](Aula3/TPC3/)
-
 Criação/atualização de um template jinja2 para o pyproject.toml
+
+Ir para [Aula 3](Aula3/TPC3/)
 
 ### Aula 4
 
-Ir para [Aula 4](Aula4)
+Análise de Sentimentos (com dados coletados do Twitter)
+
+Ir para [Aula 4](Aula4/TPC4/)
 
 ### Aula 5
 
