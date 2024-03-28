@@ -25,7 +25,7 @@ O programa proposto permite um ensino orientado a casos o que facilita a motiva√
 
 Calcular a word frequency de um texto
 
-Ir para (Aula 1)[Aula1]
+Ir para [Aula 1](Aula1/TPC1/)
 
 ### Aula 2
 

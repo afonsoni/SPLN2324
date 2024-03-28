@@ -1,0 +1,34 @@
+| PALAVRAS                ||| TIPO                    ||| LEMA                   | 
+| ----------------------- ||| ----------------------- ||| -----------------------| 
+| A                       ||| Determinante            ||| o                      | 
+| Universidade            ||| Nome próprio            ||| Universidade           | 
+| do                      ||| Preposição              ||| de o                   | 
+| Minho                   ||| Nome próprio            ||| Minho                  | 
+| é                       ||| Verbo auxiliar          ||| ser                    | 
+| uma                     ||| Determinante            ||| um                     | 
+| universidade            ||| Substantivo             ||| universidade           | 
+| pública                 ||| Adjetivo                ||| público                | 
+| portuguesa              ||| Adjetivo                ||| português              | 
+| ,                       ||| Pontuação               ||| ,                      | 
+| com                     ||| Preposição              ||| com                    | 
+| sede                    ||| Substantivo             ||| sede                   | 
+| em                      ||| Preposição              ||| em                     | 
+| Braga                   ||| Nome próprio            ||| Braga                  | 
+| e                       ||| Conjunção coordenativa  ||| e                      | 
+| um                      ||| Determinante            ||| um                     | 
+| polo                    ||| Substantivo             ||| polo                   | 
+| em                      ||| Preposição              ||| em                     | 
+| Guimarães               ||| Nome próprio            ||| Guimarães              | 
+| .                       ||| Pontuação               ||| .                      | 
+| Está                    ||| Verbo auxiliar          ||| estar                  | 
+| entre                   ||| Preposição              ||| entre                  | 
+| as                      ||| Determinante            ||| o                      | 
+| melhores                ||| Adjetivo                ||| bom                    | 
+| universidades           ||| Substantivo             ||| universidade           | 
+| do                      ||| Preposição              ||| de o                   | 
+| país                    ||| Substantivo             ||| país                   | 
+| .                       ||| Pontuação               ||| .                      | 
+| Universidade do Minho   ||| LOC                     ||| Universidade do Minho  | 
+| Braga                   ||| LOC                     ||| Braga                  | 
+| Guimarães               ||| LOC                     ||| Guimarães              | 
+| ----------------------- ||| ----------------------- ||| -----------------------| 
