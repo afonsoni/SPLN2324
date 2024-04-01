@@ -8,8 +8,8 @@ def read(filename):
     return textos
 
 # Ler os textos em português e inglês de seus respectivos arquivos
-PT = read('HP.txt')
-EN = read('HP_ingles.txt')
+PT = read('../HP.txt')
+EN = read('../HP_ingles.txt')
 
 
 

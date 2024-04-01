@@ -1,8 +1,18 @@
 import codecs
 
+# tokenizar o HP_I em frases
+import spacy
+import re
+
+from nltk.tokenize import sent_tokenize
+
+import os
+
+__version__ = "0.1.0"
+
 # criar dicionário sentilexpt com as palavras e respetivas polaridades
 def sentiLexFlexToDict():
-    fileName = "SentiLex-PT02/SentiLex-flex-PT02.txt"
+    fileName = "../SentiLex-PT02/SentiLex-flex-PT02.txt"
     inputFile = codecs.open(fileName,"rb","utf-8")
     pt_dict = {}
     # stopwords = ['depois', 'houvesse', 'estejamos', 'tenho', 'teremos', 'houvessem', 'tiver', 'elas', 'aquele', 'nas', 'eu', 'fosse', 'estivesse', 'das', 'seus', 'até', 'qual', 'esta', 'me', 'pelos', 'ele', 'sejamos', 'éramos', 'tem', 'teve', 'estivéssemos', 'esteve', 'lhes', 'estávamos', 'tivessem', 'haver', 'entre', 'seríamos', 'lhe', 'estavam', 'terá', 'não', 'houveria', 'tínhamos', 'quando', 'mais', 'houveríamos', 'dela', 'um', 'teria', 'só', 'nos', 'esteja', 'teus', 'hei', 'o', 'essas', 'houvera', 'estas', 'forem', 'tivemos', 'seja', 'somos', 'minha', 'para', 'nosso', 'houvéramos', 'os', 'tu', 'tua', 'teu', 'hajam', 'delas', 'aqueles', 'haja', 'há', 'tivermos', 'meu', 'foram', 'houver', 'minhas', 'sejam', 'pelas', 'houveram', 'havemos', 'eles', 'for', 'meus', 'eram', 'será', 'tinha', 'ela', 'estou', 'em', 'aquilo', 'as', 'nossos', 'deles', 'estiver', 'muito', 'quem', 'temos', 'tenham', 'pela', 'pelo', 'houvermos', 'de', 'dos', 'tém', 'do', 'fui', 'foi', 'à', 'era', 'estejam', 'estiverem', 'fomos', 'nossas', 'e', 'ao', 'ou', 'seriam', 'teríamos', 'tiveram', 'seria', 'tivesse', 'fora', 'aquela', 'estamos', 'hajamos', 'estivermos', 'são', 'que', 'tive', 'ser', 'esses', 'dele', 'estivessem', 'com', 'estes', 'por', 'também', 'você', 'houvéssemos', 'tenha', 'na', 'estive', 'estar', 'estivemos', 'tivéramos', 'fossem', 'isto', 'houverão', 'te', 'seu', 'houverá', 'teriam', 'houveremos', 'sem', 'é', 'houve', 'esse', 'mesmo', 'serão', 'uma', 'numa', 'nossa', 'suas', 'hão', 'nem', 'serei', 'terei', 'isso', 'formos', 'num', 'terão', 'sua', 'houvemos', 'aquelas', 'houverei', 'da', 'este', 'estiveram', 'vocês', 'tivera', 'vos', 'houveriam', 'nós', 'está', 'estão', 'seremos', 'como', 'no', 'se', 'estivéramos', 'tuas', 'às', 'aos', 'tenhamos', 'essa', 'estivera', 'tinham', 'tivéssemos', 'a', 'fôramos', 'sou', 'mas', 'tiverem', 'fôssemos', 'já', 'houverem']
@@ -26,12 +36,6 @@ def sentiLexFlexToDict():
 #print(sentiLexFlexToDict())
 
 
-# tokenizar o HP_I em frases
-import spacy
-import re
-
-from nltk.tokenize import sent_tokenize
-
 def custom_sent_tokenize(text):
     # Tokenize by newline characters
     sentences = re.split(r'\n', text)
@@ -40,24 +44,6 @@ def custom_sent_tokenize(text):
     for sentence in sentences:
         tokenized_sentences.extend(sent_tokenize(sentence))
     return tokenized_sentences
-
-frases = custom_sent_tokenize(open('./corpus/HP_I.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_II.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_III.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_IV.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_V.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_VI.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_VII.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_VIII.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_IX.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_X.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XI.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XII.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XIII.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XIV.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XV.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XVI.txt', 'r').read())
-frases = custom_sent_tokenize(open('./corpus/HP_XVII.txt', 'r').read())
 
 #frases = [
     #"Este filme é muito chato.",
@@ -97,29 +83,6 @@ def normalize(words):
     return words
 
 
-normalized = normalize(frases)
-
-# print(normalized)
-
-# verificar se existe uma palavra ou frase no dicionário sentilexpt na frase tokenizada
-
-import spacy
-
-# Carregar o modelo da língua portuguesa
-nlp = spacy.load("pt_core_news_lg")
-
-# Carregar o dicionário SentiLexFlex
-senti_lex_dict = sentiLexFlexToDict()
-
-matcher = spacy.matcher.Matcher(nlp.vocab)
-
-for palavra in senti_lex_dict.keys():
-    if ' ' in palavra:
-        pattern = []
-        for pal in palavra.split(' '):
-            pattern.append({"LOWER":pal})
-        matcher.add(palavra, [pattern])
-
 # Boosters positivos
 positive_boosters = ['muito', 'demais', 'bastante', 'mais', 'tão', 'tanto', 'quanto', 'quão' ]
 
@@ -131,6 +94,14 @@ exclamation_boosters= ['!']
 
 # Negadores
 negation_words = ['não', 'ninguém', 'num', 'nada', 'nenhum', 'nunca', 'jamais']
+
+# Carregar o modelo da língua portuguesa
+nlp = spacy.load("pt_core_news_lg")
+
+matcher = spacy.matcher.Matcher(nlp.vocab)
+
+# Carregar o dicionário SentiLexFlex
+senti_lex_dict = sentiLexFlexToDict()
 
 def calculate_polarity_and_save(normalized, output_file):
     # Polaridade total do texto
@@ -204,21 +175,58 @@ def calculate_polarity_and_save(normalized, output_file):
         f.write("Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.")
 
 
-import os
+def main():
 
-# Criar a pasta outputHP se não existir
-output_folder = "outputHP"
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
+    frases = custom_sent_tokenize(open('../corpus/HP_I.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_II.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_III.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_IV.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_V.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_VI.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_VII.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_VIII.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_IX.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_X.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XI.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XII.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XIII.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XIV.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XV.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XVI.txt', 'r').read())
+    frases = custom_sent_tokenize(open('../corpus/HP_XVII.txt', 'r').read())
 
-# Lista de arquivos HP
-hp_files = ['./corpus/HP_I.txt', './corpus/HP_II.txt', './corpus/HP_III.txt', './corpus/HP_IV.txt', './corpus/HP_V.txt', './corpus/HP_VI.txt', './corpus/HP_VII.txt', './corpus/HP_VIII.txt', './corpus/HP_IX.txt', './corpus/HP_X.txt', './corpus/HP_XI.txt', './corpus/HP_XII.txt', './corpus/HP_XIII.txt', './corpus/HP_XIV.txt', './corpus/HP_XV.txt', './corpus/HP_XVI.txt', './corpus/HP_XVII.txt']
-# Nome dos arquivos de saída
-output_files = ['output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt', 'output_HP_VII.txt', 'output_HP_VIII.txt', 'output_HP_IX.txt', 'output_HP_X.txt', 'output_HP_XI.txt', 'output_HP_XII.txt', 'output_HP_XIII.txt', 'output_HP_XIV.txt', 'output_HP_XV.txt', 'output_HP_XVI.txt', 'output_HP_XVII.txt']
 
-# Loop sobre cada arquivo HP
-for hp_file, output_file in zip(hp_files, output_files):
-    frases = custom_sent_tokenize(open(hp_file, 'r').read())
     normalized = normalize(frases)
-    output_path = os.path.join(output_folder, output_file)
-    calculate_polarity_and_save(normalized, output_path)
+
+    # print(normalized)
+
+    # verificar se existe uma palavra ou frase no dicionário sentilexpt na frase tokenizada
+
+    for palavra in senti_lex_dict.keys():
+        if ' ' in palavra:
+            pattern = []
+            for pal in palavra.split(' '):
+                pattern.append({"LOWER":pal})
+            matcher.add(palavra, [pattern])
+
+
+    # Criar a pasta outputHP se não existir
+    output_folder = "../outputHP"
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    # Lista de arquivos HP
+    hp_files = ['../corpus/HP_I.txt', '../corpus/HP_II.txt', '../corpus/HP_III.txt', '../corpus/HP_IV.txt', '../corpus/HP_V.txt', '../corpus/HP_VI.txt', '../corpus/HP_VII.txt', '../corpus/HP_VIII.txt', '../corpus/HP_IX.txt', '../corpus/HP_X.txt', '../corpus/HP_XI.txt', '../corpus/HP_XII.txt', '../corpus/HP_XIII.txt', '../corpus/HP_XIV.txt', '../corpus/HP_XV.txt', '../corpus/HP_XVI.txt', '../corpus/HP_XVII.txt']
+    # Nome dos arquivos de saída
+    output_files = ['output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt', 'output_HP_VII.txt', 'output_HP_VIII.txt', 'output_HP_IX.txt', 'output_HP_X.txt', 'output_HP_XI.txt', 'output_HP_XII.txt', 'output_HP_XIII.txt', 'output_HP_XIV.txt', 'output_HP_XV.txt', 'output_HP_XVI.txt', 'output_HP_XVII.txt']
+
+    # Loop sobre cada arquivo HP
+    for hp_file, output_file in zip(hp_files, output_files):
+        frases = custom_sent_tokenize(open(hp_file, 'r').read())
+        normalized = normalize(frases)
+        output_path = os.path.join(output_folder, output_file)
+        calculate_polarity_and_save(normalized, output_path)
+
+
+if __name__ == '__main__':
+    main()
