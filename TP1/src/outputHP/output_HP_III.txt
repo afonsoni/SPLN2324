@@ -1,0 +1,1546 @@
+as cartas de ninguém
+Sentence: 'as cartas de ninguém'
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: 0
+
+a fuga da boa constrictor do brasil valeu ao harry o maior castigo de sempre
+Sentence: 'a fuga da boa constrictor do brasil valeu ao harry o maior castigo de sempre'
+Polarity of the word 'boa': 1
+Polarity of the word 'castigo': 1
+Sum of sentence polarity: 2
+
+quando teve licença para sair da despensa já as férias de verão tinham começado já o dudley tinha partido a câmara de filmar destruído o aviãozinho de controlo remoto e atropelado da primeira vez em que experimentou a bicicleta de corrida a pobre senhora figg que atravessava a rua de muletas
+Sentence: 'quando teve licença para sair da despensa já as férias de verão tinham começado já o dudley tinha partido a câmara de filmar destruído o aviãozinho de controlo remoto e atropelado da primeira vez em que experimentou a bicicleta de corrida a pobre senhora figg que atravessava a rua de muletas'
+Polarity of the word 'partido': -1
+Polarity of the word 'destruído': 1
+Polarity of the word 'controlo': 1
+Polarity of the word 'atropelado': -1
+Polarity of the word 'corrida': -1
+Polarity of the word 'pobre': -1
+Sum of sentence polarity: -2
+
+harry estava satisfeito por as aulas terem acabado mas não havia como escapar ao grupo do dudley que ia lá a casa todos os dias
+Sentence: 'harry estava satisfeito por as aulas terem acabado mas não havia como escapar ao grupo do dudley que ia lá a casa todos os dias'
+Polarity of the word 'satisfeito': 1
+Polarity of the word 'acabado': -1
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+piers dennis malcolm e gordon eram todos grandes e estúpidos mas como dudley era o maior e o mais estúpido de todos liderava
+Sentence: 'piers dennis malcolm e gordon eram todos grandes e estúpidos mas como dudley era o maior e o mais estúpido de todos liderava'
+Polarity of the word 'estúpidos': -1
+Polarity of the word 'mais': -1
+Polarity of the word 'estúpido': -1
+Sum of sentence polarity: -3
+
+os outros alinhavam sempre no seu desporto preferido caça ao harry
+Sentence: 'os outros alinhavam sempre no seu desporto preferido caça ao harry'
+Polarity of the word 'preferido': 0
+Sum of sentence polarity: 0
+
+este era o motivo pelo qual harry passava o máximo tempo possível longe de casa a vaguear pelas ruas e a pensar no final das férias que lhe trazia pelo menos uma pequena luz ao fundo do túnel
+Sentence: 'este era o motivo pelo qual harry passava o máximo tempo possível longe de casa a vaguear pelas ruas e a pensar no final das férias que lhe trazia pelo menos uma pequena luz ao fundo do túnel'
+Polarity of the word 'vaguear': -1
+Polarity of the word 'menos': 0
+Sum of sentence polarity: -1
+
+quando chegasse o mês de setembro iria para o liceu e pela primeira vez na vida seria separado de dudley que já estava inscrito na antiga escola do tio vernon smeltings
+Sentence: 'quando chegasse o mês de setembro iria para o liceu e pela primeira vez na vida seria separado de dudley que já estava inscrito na antiga escola do tio vernon smeltings'
+Polarity of the word 'antiga': 0
+Sum of sentence polarity: 0
+
+pier polkiss ia também para lá
+Sentence: 'pier polkiss ia também para lá'
+Sum of sentence polarity: 0
+
+harry por sua vez ia para stonewall high a escola secundária de ensino especial o que divertia imensamente dudley
+Sentence: 'harry por sua vez ia para stonewall high a escola secundária de ensino especial o que divertia imensamente dudley'
+Polarity of the word 'especial': 1
+Sum of sentence polarity: 1
+
+ eles metem a cabeça dos caloiros dentro da sanita no primeiro dia de aulas lá em stonewall  disse ele ao harry  queres vir até lá acima para começar a praticar
+Sentence: ' eles metem a cabeça dos caloiros dentro da sanita no primeiro dia de aulas lá em stonewall  disse ele ao harry  queres vir até lá acima para começar a praticar'
+Sum of sentence polarity: 0
+
+ não obrigado  respondeu harry  a pobre sanita nunca teve nada tão nojento lá dentro como a tua cabeça podia ficar doente  e largou a correr antes que o dudley fosse capaz de perceber o que ele lhe tinha dito
+Sentence: ' não obrigado  respondeu harry  a pobre sanita nunca teve nada tão nojento lá dentro como a tua cabeça podia ficar doente  e largou a correr antes que o dudley fosse capaz de perceber o que ele lhe tinha dito'
+Polarity of the word 'não': -1
+Polarity of the word 'obrigado': -1
+Polarity of the word 'pobre': -1
+Polarity of the word 'nunca': -1
+Polarity of the word 'nada': -1
+Polarity of the word 'tão': -1
+Polarity of the word 'nojento': -1
+Polarity of the word 'doente': -1
+Polarity of the word 'capaz': 1
+Sum of sentence polarity: -7
+
+um dia em julho a tia petúnia levou dudley a londres para lhe comprar os uniformes para a escola deixando o harry em casa da senhora figg
+Sentence: 'um dia em julho a tia petúnia levou dudley a londres para lhe comprar os uniformes para a escola deixando o harry em casa da senhora figg'
+Polarity of the word 'uniformes': 0
+Sum of sentence polarity: 0
+
+as coisas não correram tão mal como de costume
+Sentence: 'as coisas não correram tão mal como de costume'
+Polarity of the word 'não': 0
+Polarity of the word 'tão': 0
+Sum of sentence polarity: 0
+
+a verdade é que ela tinha partido a perna por ter tropeçado num dos gatos e já não parecia gostar tanto deles como antes
+Sentence: 'a verdade é que ela tinha partido a perna por ter tropeçado num dos gatos e já não parecia gostar tanto deles como antes'
+Polarity of the word 'verdade': 1
+Polarity of the word 'partido': -1
+Polarity of the word 'num': 0
+Polarity of the word 'não': 0
+Polarity of the word 'gostar': 0
+Polarity of the word 'tanto': 0
+Sum of sentence polarity: 0
+
+deixou-o ver televisão e deu-lhe uma fatia de bolo de chocolate que devia ter anos de existência
+Sentence: 'deixou-o ver televisão e deu-lhe uma fatia de bolo de chocolate que devia ter anos de existência'
+Sum of sentence polarity: 0
+
+nessa noite dudley exibiu-se na sala para toda a família no seu uniforme novinho em folha
+Sentence: 'nessa noite dudley exibiu-se na sala para toda a família no seu uniforme novinho em folha'
+Polarity of the word 'uniforme': 0
+Sum of sentence polarity: 0
+
+os rapazes da smelting usavam casaca castanho-avermelhado calças tipo golfe cor-de-laranja e uns chapéus de palha duros e achatados
+Sentence: 'os rapazes da smelting usavam casaca castanho-avermelhado calças tipo golfe cor-de-laranja e uns chapéus de palha duros e achatados'
+Polarity of the word 'usavam': -1
+Polarity of the word 'duros': -1
+Polarity of the word 'achatados': -1
+Sum of sentence polarity: -3
+
+usavam também um pequeno bastão com que se espancavam uns aos outros quando os professores não estavam a olhar o que supostamente deveria dar-lhes experiência para a vida futura
+Sentence: 'usavam também um pequeno bastão com que se espancavam uns aos outros quando os professores não estavam a olhar o que supostamente deveria dar-lhes experiência para a vida futura'
+Polarity of the word 'usavam': -1
+Polarity of the word 'espancavam': 1
+Polarity of the word 'não': -1
+Polarity of the word 'experiência': 1
+Sum of sentence polarity: 0
+
+ao olhar para o dudley nas suas novas calças o tio vernon disse emocionado que nunca se sentira tão orgulhoso em toda a vida como naquele momento
+Sentence: 'ao olhar para o dudley nas suas novas calças o tio vernon disse emocionado que nunca se sentira tão orgulhoso em toda a vida como naquele momento'
+Polarity of the word 'nunca': 1
+Polarity of the word 'tão': -1
+Polarity of the word 'orgulhoso': -1
+Sum of sentence polarity: -1
+
+a tia petúnia desfez-se em lágrimas achando quase impossível que aquele fosse o seu dudleyzinho tão bonito e tão crescido que estava no seu novo uniforme
+Sentence: 'a tia petúnia desfez-se em lágrimas achando quase impossível que aquele fosse o seu dudleyzinho tão bonito e tão crescido que estava no seu novo uniforme'
+Polarity of the word 'quase': -1
+Polarity of the word 'impossível': -1
+Polarity of the word 'tão': 2
+Polarity of the word 'bonito': 1
+Polarity of the word 'tão': 1
+Polarity of the word 'crescido': 1
+Polarity of the word 'uniforme': 0
+Sum of sentence polarity: 3
+
+harry foi incapaz de abrir a boca
+Sentence: 'harry foi incapaz de abrir a boca'
+Polarity of the word 'incapaz': -1
+Sum of sentence polarity: -1
+
+receava que duas das suas costelas se tivessem partido com o tremendo esforço que estava a fazer para não se rir
+Sentence: 'receava que duas das suas costelas se tivessem partido com o tremendo esforço que estava a fazer para não se rir'
+Polarity of the word 'partido': -1
+Polarity of the word 'tremendo': -1
+Polarity of the word 'não': 0
+Sum of sentence polarity: -2
+
+no dia seguinte havia um cheiro nauseabundo na cozinha quando harry chegou para tomar o pequeno-almoço
+Sentence: 'no dia seguinte havia um cheiro nauseabundo na cozinha quando harry chegou para tomar o pequeno-almoço'
+Sum of sentence polarity: 0
+
+parecia vir de uma enorme bacia de metal que tinha algo de molho
+Sentence: 'parecia vir de uma enorme bacia de metal que tinha algo de molho'
+Sum of sentence polarity: 0
+
+foi espreitar
+Sentence: 'foi espreitar'
+Sum of sentence polarity: 0
+
+a bacia estava cheia de uma espécie de farrapos sujos que boiavam numa aguadilha verde
+Sentence: 'a bacia estava cheia de uma espécie de farrapos sujos que boiavam numa aguadilha verde'
+Polarity of the word 'sujos': -1
+Sum of sentence polarity: -1
+
+ o que é isto
+Sentence: ' o que é isto'
+Sum of sentence polarity: 0
+
+ perguntou à tia petúnia
+Sentence: ' perguntou à tia petúnia'
+Sum of sentence polarity: 0
+
+os lábios da tia comprimiram-se como sucedia sempre que ele lhe fazia alguma pergunta
+Sentence: 'os lábios da tia comprimiram-se como sucedia sempre que ele lhe fazia alguma pergunta'
+Sum of sentence polarity: 0
+
+ o teu novo uniforme  respondeu
+Sentence: ' o teu novo uniforme  respondeu'
+Polarity of the word 'uniforme': 0
+Sum of sentence polarity: 0
+
+harry voltou a olhar para a bacia
+Sentence: 'harry voltou a olhar para a bacia'
+Sum of sentence polarity: 0
+
+ ah!
+Sentence: ' ah!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ disse  não sabia que tinha de ser tão molhado
+Sentence: ' disse  não sabia que tinha de ser tão molhado'
+Polarity of the word 'não': 0
+Polarity of the word 'tão': 0
+Sum of sentence polarity: 0
+
+ não sejas estúpido  respondeu asperamente a tia petúnia
+Sentence: ' não sejas estúpido  respondeu asperamente a tia petúnia'
+Polarity of the word 'não': 1
+Polarity of the word 'estúpido': -1
+Sum of sentence polarity: 0
+
+ estou a tingir de verde algumas roupas usadas do dudley
+Sentence: ' estou a tingir de verde algumas roupas usadas do dudley'
+Sum of sentence polarity: 0
+
+vão parecer um uniforme igual a todos os outros
+Sentence: 'vão parecer um uniforme igual a todos os outros'
+Polarity of the word 'vão': -1
+Polarity of the word 'uniforme': 0
+Polarity of the word 'igual': 0
+Sum of sentence polarity: -1
+
+harry ficou com sérias dúvidas mas achou melhor não dizer nada
+Sentence: 'harry ficou com sérias dúvidas mas achou melhor não dizer nada'
+Polarity of the word 'sérias': 0
+Polarity of the word 'melhor': 0
+Polarity of the word 'não': 0
+Polarity of the word 'nada': 0
+Sum of sentence polarity: 0
+
+sentou-se à mesa e tentou não pensar na figura que ia fazer no dia seguinte em stonewall high  como se estivesse a usar pedaços de pêlo de elefante muito provavelmente
+Sentence: 'sentou-se à mesa e tentou não pensar na figura que ia fazer no dia seguinte em stonewall high  como se estivesse a usar pedaços de pêlo de elefante muito provavelmente'
+Polarity of the word 'não': 1
+Polarity of the word 'usar': -1
+Polarity of the word 'muito': 0
+Sum of sentence polarity: 0
+
+dudley e o tio vernon entraram ambos de nariz torcido por causa do cheiro do novo uniforme do harry
+Sentence: 'dudley e o tio vernon entraram ambos de nariz torcido por causa do cheiro do novo uniforme do harry'
+Polarity of the word 'torcido por': 0
+Polarity of the word 'uniforme': 0
+Sum of sentence polarity: 0
+
+o tio vernon abriu o jornal como de costume e dudlev bateu na mesa com o bastão dos smeltings que agora usava para todo o lado
+Sentence: 'o tio vernon abriu o jornal como de costume e dudlev bateu na mesa com o bastão dos smeltings que agora usava para todo o lado'
+Polarity of the word 'bateu': 1
+Polarity of the word 'usava': -1
+Sum of sentence polarity: 0
+
+ouviram o estalido da caixa do correio e as cartas a caírem no tapete fora da porta
+Sentence: 'ouviram o estalido da caixa do correio e as cartas a caírem no tapete fora da porta'
+Polarity of the word 'caírem': -1
+Sum of sentence polarity: -1
+
+ vai buscar o correio dudley  disse o tio vernon escondido pelo jornal
+Sentence: ' vai buscar o correio dudley  disse o tio vernon escondido pelo jornal'
+Polarity of the word 'escondido': -1
+Sum of sentence polarity: -1
+
+ o harry que vá!
+Sentence: ' o harry que vá!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ vai buscar o correio harry!
+Sentence: ' vai buscar o correio harry!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ o dudley que vá!
+Sentence: ' o dudley que vá!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ espicaça-o com o teu bastão dudley
+Sentence: ' espicaça-o com o teu bastão dudley'
+Sum of sentence polarity: 0
+
+harry evitando o bastão dos smeltings foi buscar o correio
+Sentence: 'harry evitando o bastão dos smeltings foi buscar o correio'
+Polarity of the word 'evitando': -1
+Sum of sentence polarity: -1
+
+estavam três coisas no tapete fora da porta um postal da irmã do tio vernon marge que estava a passar férias na ilha de wight um sobrescrito castanho que parecia ser uma conta para pagar e  uma carta para o harry
+Sentence: 'estavam três coisas no tapete fora da porta um postal da irmã do tio vernon marge que estava a passar férias na ilha de wight um sobrescrito castanho que parecia ser uma conta para pagar e  uma carta para o harry'
+Sum of sentence polarity: 0
+
+harry pegou-lhe e ficou a olhar espantado o coração a tremer como se quisesse saltar-lhe do peito
+Sentence: 'harry pegou-lhe e ficou a olhar espantado o coração a tremer como se quisesse saltar-lhe do peito'
+Polarity of the word 'tremer': -1
+Sum of sentence polarity: -1
+
+nunca ninguém em toda a sua vida lhe tinha escrito
+Sentence: 'nunca ninguém em toda a sua vida lhe tinha escrito'
+Polarity of the word 'nunca': 0
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: 0
+
+quem poderia ser
+Sentence: 'quem poderia ser'
+Sum of sentence polarity: 0
+
+não tinha amigos nem parentes  não era sócio da biblioteca e por isso também nunca recebera bilhetes desagradáveis a mandálo entregar os livros
+Sentence: 'não tinha amigos nem parentes  não era sócio da biblioteca e por isso também nunca recebera bilhetes desagradáveis a mandálo entregar os livros'
+Polarity of the word 'não': 1
+Polarity of the word 'amigos': 1
+Polarity of the word 'não': 1
+Polarity of the word 'nunca': 1
+Polarity of the word 'desagradáveis': -1
+Sum of sentence polarity: 3
+
+contudo ela ali estava uma carta com um endereço tão claro que não havia qualquer margem para dúvidas
+Sentence: 'contudo ela ali estava uma carta com um endereço tão claro que não havia qualquer margem para dúvidas'
+Polarity of the word 'tão': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+sr h potter despensa debaixo das escadas privet drive no 4 little whinging surrey
+Sentence: 'sr h potter despensa debaixo das escadas privet drive no 4 little whinging surrey'
+Sum of sentence polarity: 0
+
+o sobrescrito era pesado e espesso de uma espécie de pergaminho amarelado e a morada vinha escrita a tinta verde-esmeralda
+Sentence: 'o sobrescrito era pesado e espesso de uma espécie de pergaminho amarelado e a morada vinha escrita a tinta verde-esmeralda'
+Polarity of the word 'amarelado': -1
+Sum of sentence polarity: -1
+
+não trazia selo
+Sentence: 'não trazia selo'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+voltando o sobrescrito ao contrário com as mãos a tremer harry viu um selo de lacre cor de púrpura com um brasão onde podia distinguir-se um leão uma águia um texugo e uma serpente envolvendo a letra h
+Sentence: 'voltando o sobrescrito ao contrário com as mãos a tremer harry viu um selo de lacre cor de púrpura com um brasão onde podia distinguir-se um leão uma águia um texugo e uma serpente envolvendo a letra h'
+Polarity of the word 'tremer': -1
+Sum of sentence polarity: -1
+
+ despacha-te rapaz!
+Sentence: ' despacha-te rapaz!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ gritou o tio vernon da cozinha
+Sentence: ' gritou o tio vernon da cozinha'
+Sum of sentence polarity: 0
+
+ o que é que estás a fazer à procura de uma bomba no correio
+Sentence: ' o que é que estás a fazer à procura de uma bomba no correio'
+Sum of sentence polarity: 0
+
+ e riu-se da sua própria piada
+Sentence: ' e riu-se da sua própria piada'
+Polarity of the word 'piada': -1
+Sum of sentence polarity: -1
+
+harry voltou à cozinha olhando ainda para a carta que trazia na mão
+Sentence: 'harry voltou à cozinha olhando ainda para a carta que trazia na mão'
+Sum of sentence polarity: 0
+
+entregou ao tio a conta e o postal sentou-se e começou lentamente a abrir o sobrescrito amarelo
+Sentence: 'entregou ao tio a conta e o postal sentou-se e começou lentamente a abrir o sobrescrito amarelo'
+Polarity of the word 'amarelo': -1
+Sum of sentence polarity: -1
+
+o tio vernon rasgou num gesto repentino a carta da conta e leu em poucos segundos o postal
+Sentence: 'o tio vernon rasgou num gesto repentino a carta da conta e leu em poucos segundos o postal'
+Polarity of the word 'num': 0
+Sum of sentence polarity: 0
+
+ a marge está doente  comunicou à tia petúnia  comeu por lá um molusco esquisito
+Sentence: ' a marge está doente  comunicou à tia petúnia  comeu por lá um molusco esquisito'
+Polarity of the word 'doente': -1
+Polarity of the word 'esquisito': -1
+Sum of sentence polarity: -2
+
+ pai!
+Sentence: ' pai!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ disse o dudley sem perder tempo  pai o harry recebeu qualquer coisa!
+Sentence: ' disse o dudley sem perder tempo  pai o harry recebeu qualquer coisa!'
+Polarity of the word 'perder': -1
+Sum of sentence polarity: -2
+ (with exclamation booster)
+
+harry estava a desdobrar a carta que estava escrita no mesmo tipo de pergaminho do envelope quando esta lhe foi arrancada das mãos pelo tio vernon
+Sentence: 'harry estava a desdobrar a carta que estava escrita no mesmo tipo de pergaminho do envelope quando esta lhe foi arrancada das mãos pelo tio vernon'
+Polarity of the word 'arrancada': 0
+Sum of sentence polarity: 0
+
+ essa carta é minha!
+Sentence: ' essa carta é minha!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ gritou ele tentando recuperála
+Sentence: ' gritou ele tentando recuperála'
+Sum of sentence polarity: 0
+
+ e quem iria escrever-te
+Sentence: ' e quem iria escrever-te'
+Sum of sentence polarity: 0
+
+ perguntou sarcasticamente o tio vernon agitando a carta numa das mãos e deitando-lhe uma vista de olhos
+Sentence: ' perguntou sarcasticamente o tio vernon agitando a carta numa das mãos e deitando-lhe uma vista de olhos'
+Sum of sentence polarity: 0
+
+o seu rosto passou de vermelho a verde mais depressa do que as luzes de um semáforo
+Sentence: 'o seu rosto passou de vermelho a verde mais depressa do que as luzes de um semáforo'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+e não parou por aí
+Sentence: 'e não parou por aí'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+alguns segundos mais tarde estava de um verde-pálido cor de papas de aveia fora do prazo de validade
+Sentence: 'alguns segundos mais tarde estava de um verde-pálido cor de papas de aveia fora do prazo de validade'
+Polarity of the word 'mais': 1
+Polarity of the word 'validade': 1
+Sum of sentence polarity: 2
+
+ p p petúnia  chamou quase sem conseguir respirar
+Sentence: ' p p petúnia  chamou quase sem conseguir respirar'
+Polarity of the word 'quase': 0
+Sum of sentence polarity: 0
+
+dudley tentou agarrar a carta para a ler mas o tio vernon segurava-a bem alto fora do seu alcance
+Sentence: 'dudley tentou agarrar a carta para a ler mas o tio vernon segurava-a bem alto fora do seu alcance'
+Polarity of the word 'alto': 0
+Sum of sentence polarity: 0
+
+a tia petúnia pegou-lhe cheia de curiosidade e leu a primeira linha
+Sentence: 'a tia petúnia pegou-lhe cheia de curiosidade e leu a primeira linha'
+Sum of sentence polarity: 0
+
+por momentos pareceu que ia desmaiar fez um estranho ruído com a garganta
+Sentence: 'por momentos pareceu que ia desmaiar fez um estranho ruído com a garganta'
+Polarity of the word 'estranho': -1
+Polarity of the word 'ruído': -1
+Sum of sentence polarity: -2
+
+ vernon!
+Sentence: ' vernon!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+virgem santíssima vernon!
+Sentence: 'virgem santíssima vernon!'
+Polarity of the word 'santíssima': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+olharam um para o outro como se se tivessem esquecido de que harry e dudley ainda estavam presentes
+Sentence: 'olharam um para o outro como se se tivessem esquecido de que harry e dudley ainda estavam presentes'
+Polarity of the word 'esquecido': -1
+Polarity of the word 'presentes': 1
+Sum of sentence polarity: 0
+
+dudley que não estava habituado a ser ignorado deu ao pai uma forte pancada na cabeça com o bastão dos smeltings
+Sentence: 'dudley que não estava habituado a ser ignorado deu ao pai uma forte pancada na cabeça com o bastão dos smeltings'
+Polarity of the word 'não': -1
+Polarity of the word 'ignorado': 0
+Polarity of the word 'forte': 1
+Sum of sentence polarity: 0
+
+ quero ler a carta  disse bem alto
+Sentence: ' quero ler a carta  disse bem alto'
+Polarity of the word 'alto': 0
+Sum of sentence polarity: 0
+
+ quero lêla  bradou o harry furioso como se dissesse ela é minha
+Sentence: ' quero lêla  bradou o harry furioso como se dissesse ela é minha'
+Polarity of the word 'furioso': -1
+Sum of sentence polarity: -1
+
+ saiam daqui os dois  resmungou o tio vernon voltando a meter a carta no sobrescrito
+Sentence: ' saiam daqui os dois  resmungou o tio vernon voltando a meter a carta no sobrescrito'
+Sum of sentence polarity: 0
+
+harry não se moveu
+Sentence: 'harry não se moveu'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ quero a minha carta!
+Sentence: ' quero a minha carta!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ gritou
+Sentence: ' gritou'
+Sum of sentence polarity: 0
+
+ deixa-me vêla  exigiu o dudley
+Sentence: ' deixa-me vêla  exigiu o dudley'
+Sum of sentence polarity: 0
+
+ fora  rosnou o tio vernon e levou os dois harry e dudley pelo pescoço até ao vestíbulo fechando com força a porta da cozinha
+Sentence: ' fora  rosnou o tio vernon e levou os dois harry e dudley pelo pescoço até ao vestíbulo fechando com força a porta da cozinha'
+Polarity of the word 'rosnou': -1
+Sum of sentence polarity: -1
+
+harry e dudley iniciaram de imediato uma briga acesa mas silenciosa sobre quem encostaria o ouvido ao buraco da fechadura
+Sentence: 'harry e dudley iniciaram de imediato uma briga acesa mas silenciosa sobre quem encostaria o ouvido ao buraco da fechadura'
+Polarity of the word 'briga': -1
+Polarity of the word 'acesa': 0
+Polarity of the word 'silenciosa': 0
+Polarity of the word 'ouvido': 0
+Sum of sentence polarity: -1
+
+dudley venceu por isso harry com os óculos pendurados numa das orelhas deitou-se no chão para ouvir pela fenda entre a porta e o soalho
+Sentence: 'dudley venceu por isso harry com os óculos pendurados numa das orelhas deitou-se no chão para ouvir pela fenda entre a porta e o soalho'
+Polarity of the word 'venceu': 1
+Polarity of the word 'pendurados': -1
+Sum of sentence polarity: 0
+
+ vernon  dizia a tia petúnia numa voz trémula  olha para a morada como é que eles sabem onde ele dorme
+Sentence: ' vernon  dizia a tia petúnia numa voz trémula  olha para a morada como é que eles sabem onde ele dorme'
+Polarity of the word 'trémula': -1
+Sum of sentence polarity: -1
+
+será que andam a vigiar a casa
+Sentence: 'será que andam a vigiar a casa'
+Sum of sentence polarity: 0
+
+ a vigiar a espiar talvez a seguirem-nos  respondeu precipitadamente e entredentes o tio vernon
+Sentence: ' a vigiar a espiar talvez a seguirem-nos  respondeu precipitadamente e entredentes o tio vernon'
+Sum of sentence polarity: 0
+
+ mas o que é que vamos fazer vernon
+Sentence: ' mas o que é que vamos fazer vernon'
+Sum of sentence polarity: 0
+
+deveremos responder
+Sentence: 'deveremos responder'
+Sum of sentence polarity: 0
+
+dizer-lhes que não queremos
+Sentence: 'dizer-lhes que não queremos'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+harry podia ver pela fresta os sapatos brilhantes do tio de um lado para o outro da cozinha
+Sentence: 'harry podia ver pela fresta os sapatos brilhantes do tio de um lado para o outro da cozinha'
+Polarity of the word 'brilhantes': 1
+Sum of sentence polarity: 1
+
+ não  disse por fim
+Sentence: ' não  disse por fim'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ não
+Sentence: ' não'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+vamos ignorar esta carta
+Sentence: 'vamos ignorar esta carta'
+Polarity of the word 'ignorar': 0
+Sum of sentence polarity: 0
+
+se não tiverem resposta sim o melhor é não lhes dar resposta nenhuma
+Sentence: 'se não tiverem resposta sim o melhor é não lhes dar resposta nenhuma'
+Polarity of the word 'não': 0
+Polarity of the word 'melhor': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ mas
+Sentence: ' mas'
+Sum of sentence polarity: 0
+
+ não quero ter um deles em casa petúnia!
+Sentence: ' não quero ter um deles em casa petúnia!'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+não jurámos quando ficámos com o garoto que poríamos fim a esse perigoso disparate
+Sentence: 'não jurámos quando ficámos com o garoto que poríamos fim a esse perigoso disparate'
+Polarity of the word 'não': 1
+Polarity of the word 'garoto': -1
+Polarity of the word 'perigoso': -1
+Polarity of the word 'disparate': -1
+Sum of sentence polarity: -2
+
+nessa noite quando voltou do trabalho o tio vernon fez uma coisa que nunca tinha feito antes foi visitar o harry à despensa
+Sentence: 'nessa noite quando voltou do trabalho o tio vernon fez uma coisa que nunca tinha feito antes foi visitar o harry à despensa'
+Polarity of the word 'nunca': 0
+Sum of sentence polarity: 0
+
+ onde está a minha carta
+Sentence: ' onde está a minha carta'
+Sum of sentence polarity: 0
+
+ perguntou ele no momento em que o tio apareceu à porta  quem foi que me escreveu
+Sentence: ' perguntou ele no momento em que o tio apareceu à porta  quem foi que me escreveu'
+Sum of sentence polarity: 0
+
+ ninguém
+Sentence: ' ninguém'
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: 0
+
+vinha dirigida a ti por engano  disse o tio vernon sinteticamente
+Sentence: 'vinha dirigida a ti por engano  disse o tio vernon sinteticamente'
+Polarity of the word 'engano': -1
+Sum of sentence polarity: -1
+
+ achei melhor queimála
+Sentence: ' achei melhor queimála'
+Polarity of the word 'melhor': 0
+Sum of sentence polarity: 0
+
+ não era um engano  disse o harry furioso  vinha para a minha despensa
+Sentence: ' não era um engano  disse o harry furioso  vinha para a minha despensa'
+Polarity of the word 'não': 1
+Polarity of the word 'engano': -1
+Polarity of the word 'furioso': -1
+Sum of sentence polarity: -1
+
+ silêncio!
+Sentence: ' silêncio!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ gritou o tio vernon fazendo que com o susto algumas aranhas caíssem do tecto
+Sentence: ' gritou o tio vernon fazendo que com o susto algumas aranhas caíssem do tecto'
+Polarity of the word 'susto': -1
+Polarity of the word 'caíssem': -1
+Sum of sentence polarity: -2
+
+respirou fundo várias vezes e depois com um sorriso forçado que quase parecia doloroso disse
+Sentence: 'respirou fundo várias vezes e depois com um sorriso forçado que quase parecia doloroso disse'
+Polarity of the word 'forçado': -1
+Polarity of the word 'quase': 0
+Sum of sentence polarity: -1
+
+ er sim harry acerca da despensa eu e a tua tia temos estado a pensar e estás a ficar grande de mais para este espaço
+Sentence: ' er sim harry acerca da despensa eu e a tua tia temos estado a pensar e estás a ficar grande de mais para este espaço'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+achámos que seria melhor para ti mudar s para o segundo quarto do dudley
+Sentence: 'achámos que seria melhor para ti mudar s para o segundo quarto do dudley'
+Polarity of the word 'melhor': 0
+Sum of sentence polarity: 0
+
+ porquê
+Sentence: ' porquê'
+Sum of sentence polarity: 0
+
+ perguntou harry
+Sentence: ' perguntou harry'
+Sum of sentence polarity: 0
+
+ não faças perguntas  disse bruscamente o tio  leva as tuas coisas para cima
+Sentence: ' não faças perguntas  disse bruscamente o tio  leva as tuas coisas para cima'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+a casa dos dursleys tinha quatro quartos de cama
+Sentence: 'a casa dos dursleys tinha quatro quartos de cama'
+Sum of sentence polarity: 0
+
+o do tio vernon e da tia petúnia o quarto de hóspedes onde ficava geralmente a tia marge irmã do tio vernon um onde o dudley dormia e outro onde guardava todos os brinquedos e coisas que não cabiam no de dormir
+Sentence: 'o do tio vernon e da tia petúnia o quarto de hóspedes onde ficava geralmente a tia marge irmã do tio vernon um onde o dudley dormia e outro onde guardava todos os brinquedos e coisas que não cabiam no de dormir'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+bastou a harry subir uma vez a escada para transportar todos os seus haveres da despensa para este quarto
+Sentence: 'bastou a harry subir uma vez a escada para transportar todos os seus haveres da despensa para este quarto'
+Sum of sentence polarity: 0
+
+sentou-se na cama e olhou em volta
+Sentence: 'sentou-se na cama e olhou em volta'
+Sum of sentence polarity: 0
+
+quase tudo ali estava partido
+Sentence: 'quase tudo ali estava partido'
+Polarity of the word 'quase': 1
+Polarity of the word 'partido': -1
+Sum of sentence polarity: 0
+
+a câmara de vídeo que só tinha alguns meses de existência estava em cima de um pequeno carro de assalto com que o dudley atropelara o cão do vizinho do lado
+Sentence: 'a câmara de vídeo que só tinha alguns meses de existência estava em cima de um pequeno carro de assalto com que o dudley atropelara o cão do vizinho do lado'
+Polarity of the word 'assalto': -1
+Polarity of the word 'atropelara': -1
+Sum of sentence polarity: -2
+
+a um canto estava a primeira televisão que lhe tinham oferecido na qual ele enfiara um pé no dia em que cancelaram o seu programa preferido
+Sentence: 'a um canto estava a primeira televisão que lhe tinham oferecido na qual ele enfiara um pé no dia em que cancelaram o seu programa preferido'
+Polarity of the word 'oferecido': -1
+Polarity of the word 'preferido': 0
+Sum of sentence polarity: -1
+
+havia também uma enorme gaiola que tivera em tempos um papagaio que o dudley trocara na escola por uma verdadeira espingarda de pressão de ar que estava agora sobre uma das prateleiras com a extremidade entortada porque se sentara um dia em cima dela
+Sentence: 'havia também uma enorme gaiola que tivera em tempos um papagaio que o dudley trocara na escola por uma verdadeira espingarda de pressão de ar que estava agora sobre uma das prateleiras com a extremidade entortada porque se sentara um dia em cima dela'
+Polarity of the word 'verdadeira': 1
+Polarity of the word 'entortada': -1
+Sum of sentence polarity: 0
+
+as outras prateleiras estavam cheias de livros e eram as únicas coisas em todo o quarto que pareciam nunca ter sido tocadas
+Sentence: 'as outras prateleiras estavam cheias de livros e eram as únicas coisas em todo o quarto que pareciam nunca ter sido tocadas'
+Polarity of the word 'nunca': 1
+Polarity of the word 'tocadas': -1
+Sum of sentence polarity: 0
+
+do andar de baixo ouvia-se a voz do dudley a discutir com a mãe  não o quero ali preciso daquele quarto tira-o de lá
+Sentence: 'do andar de baixo ouvia-se a voz do dudley a discutir com a mãe  não o quero ali preciso daquele quarto tira-o de lá'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+harry suspirou e esticou-se em cima da cama
+Sentence: 'harry suspirou e esticou-se em cima da cama'
+Sum of sentence polarity: 0
+
+um dia antes teria dado tudo para poder estar naquele lugar
+Sentence: 'um dia antes teria dado tudo para poder estar naquele lugar'
+Polarity of the word 'dado': 0
+Sum of sentence polarity: 0
+
+agora preferia ter a sua carta e dormir de novo na despensa em vez de ter aquele quarto sem ter a carta
+Sentence: 'agora preferia ter a sua carta e dormir de novo na despensa em vez de ter aquele quarto sem ter a carta'
+Polarity of the word 'preferia': 0
+Sum of sentence polarity: 0
+
+na manhã seguinte ao pequeno-almoço estavam todos muito calados
+Sentence: 'na manhã seguinte ao pequeno-almoço estavam todos muito calados'
+Polarity of the word 'muito': 0
+Polarity of the word 'calados': 0
+Sum of sentence polarity: 0
+
+o dudley ainda manifestava efeitos do choque
+Sentence: 'o dudley ainda manifestava efeitos do choque'
+Polarity of the word 'choque': -1
+Sum of sentence polarity: -1
+
+tinha gritado batido no pai com o bastão dos smeltings fingido adoecer dado pontapés à mãe e atirado o cágado para o tecto da estufa sem conseguir que lhe devolvessem o quarto
+Sentence: 'tinha gritado batido no pai com o bastão dos smeltings fingido adoecer dado pontapés à mãe e atirado o cágado para o tecto da estufa sem conseguir que lhe devolvessem o quarto'
+Polarity of the word 'batido': -1
+Polarity of the word 'fingido': -1
+Polarity of the word 'dado': 0
+Sum of sentence polarity: -2
+
+harry lembrava-se de que na véspera àquela mesma hora tinha recebido a carta e pensava amargamente que devia têla aberto no vestíbulo
+Sentence: 'harry lembrava-se de que na véspera àquela mesma hora tinha recebido a carta e pensava amargamente que devia têla aberto no vestíbulo'
+Polarity of the word 'aberto': 1
+Sum of sentence polarity: 1
+
+o tio vernon e a tia petúnia não paravam de olhar um para o outro com um ar sombrio
+Sentence: 'o tio vernon e a tia petúnia não paravam de olhar um para o outro com um ar sombrio'
+Polarity of the word 'não': 1
+Polarity of the word 'sombrio': -1
+Sum of sentence polarity: 0
+
+quando chegou o correio o tio vernon que parecia estar a ser simpático com o harry mandou o dudley buscálo
+Sentence: 'quando chegou o correio o tio vernon que parecia estar a ser simpático com o harry mandou o dudley buscálo'
+Polarity of the word 'simpático': 1
+Sum of sentence polarity: 1
+
+ouviram-no a bater em todas as coisas com o bastão dos smeltings até chegar à entrada
+Sentence: 'ouviram-no a bater em todas as coisas com o bastão dos smeltings até chegar à entrada'
+Polarity of the word 'bater': 1
+Sum of sentence polarity: 1
+
+a seguir gritou  há outra!
+Sentence: 'a seguir gritou  há outra!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+senhor h potter quarto mais pequeno da casa privet drive e
+Sentence: 'senhor h potter quarto mais pequeno da casa privet drive e'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+com um grito abafado o tio vernon deu um salto na cadeira e desceu as escadas a correr seguido por harry
+Sentence: 'com um grito abafado o tio vernon deu um salto na cadeira e desceu as escadas a correr seguido por harry'
+Polarity of the word 'abafado': -1
+Sum of sentence polarity: -1
+
+teve de atirar o filho ao chão para conseguir arrancar-lhe a carta o que foi dificultado pelo facto de harry lhe ter agarrado o pescoço por detrás
+Sentence: 'teve de atirar o filho ao chão para conseguir arrancar-lhe a carta o que foi dificultado pelo facto de harry lhe ter agarrado o pescoço por detrás'
+Polarity of the word 'dificultado': 1
+Polarity of the word 'agarrado': -1
+Sum of sentence polarity: 0
+
+depois de alguns momentos de lata e confusão durante a qual todos levaram com o bastão dos smeltings o tio vernon levantou-se com a carta na mão e respirando com alguma dificuldade
+Sentence: 'depois de alguns momentos de lata e confusão durante a qual todos levaram com o bastão dos smeltings o tio vernon levantou-se com a carta na mão e respirando com alguma dificuldade'
+Polarity of the word 'lata': -1
+Polarity of the word 'confusão': -1
+Sum of sentence polarity: -2
+
+ vai para a despensa quero dizer para o quarto  ordenou ao harry
+Sentence: ' vai para a despensa quero dizer para o quarto  ordenou ao harry'
+Sum of sentence polarity: 0
+
+ dudley sai daqui
+Sentence: ' dudley sai daqui'
+Sum of sentence polarity: 0
+
+harry deu voltas e voltas no seu novo quarto
+Sentence: 'harry deu voltas e voltas no seu novo quarto'
+Sum of sentence polarity: 0
+
+alguém sabia que ele se mudara da despensa para ali e parecia ter também conhecimento de que ele não recebera a primeira carta
+Sentence: 'alguém sabia que ele se mudara da despensa para ali e parecia ter também conhecimento de que ele não recebera a primeira carta'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+assim sendo era bem provável que tentasse escrever-lhe de novo
+Sentence: 'assim sendo era bem provável que tentasse escrever-lhe de novo'
+Sum of sentence polarity: 0
+
+e desta vez havia que tomar precauções para que a carta lhe chegasse às mãos
+Sentence: 'e desta vez havia que tomar precauções para que a carta lhe chegasse às mãos'
+Sum of sentence polarity: 0
+
+tinha um plano
+Sentence: 'tinha um plano'
+Sum of sentence polarity: 0
+
+o despertador que fora consertado tocou às seis na manhã seguinte
+Sentence: 'o despertador que fora consertado tocou às seis na manhã seguinte'
+Polarity of the word 'consertado': 1
+Sum of sentence polarity: 1
+
+harry desligou-o rapidamente e vestiu-se em silêncio
+Sentence: 'harry desligou-o rapidamente e vestiu-se em silêncio'
+Sum of sentence polarity: 0
+
+não podia acordar os dursleys
+Sentence: 'não podia acordar os dursleys'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+desceu a!
+Sentence: 'desceu a!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+escadas sem acender nenhuma luz
+Sentence: 'escadas sem acender nenhuma luz'
+Sum of sentence polarity: 0
+
+ia esperar pelo carteiro na esquina da privet drive e recolher as cartas para o número 4 em primeiro lugar
+Sentence: 'ia esperar pelo carteiro na esquina da privet drive e recolher as cartas para o número 4 em primeiro lugar'
+Sum of sentence polarity: 0
+
+o coração batia-lhe enquanto se arrastava vagarosamente no escuro em direcção à porta da rua
+Sentence: 'o coração batia-lhe enquanto se arrastava vagarosamente no escuro em direcção à porta da rua'
+Polarity of the word 'escuro': -1
+Sum of sentence polarity: -1
+
+aaaaaaaahhhh!!
+Sentence: 'aaaaaaaahhhh!!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+!
+Sentence: '!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+harry foi pelos ares
+Sentence: 'harry foi pelos ares'
+Polarity of the word 'foi pelos ares': -1
+Sum of sentence polarity: -1
+
+acabava de chocar com uma coisa grande e húmida que estava no tapete uma coisa viva!
+Sentence: 'acabava de chocar com uma coisa grande e húmida que estava no tapete uma coisa viva!'
+Polarity of the word 'chocar': -1
+Polarity of the word 'viva': 1
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+as luzes acenderam-se no andar de cima e harry apercebeu-se de que a coisa grande e húmida era a cara do tio vernon que tinha dormido no tapete dentro de um saco-cama para se assegurar de que harry não faria precisamente aquilo que se lembrara de fazer
+Sentence: 'as luzes acenderam-se no andar de cima e harry apercebeu-se de que a coisa grande e húmida era a cara do tio vernon que tinha dormido no tapete dentro de um saco-cama para se assegurar de que harry não faria precisamente aquilo que se lembrara de fazer'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+gritou com ele durante quase meia hora e depois mandou-o preparar uma chávena de chá
+Sentence: 'gritou com ele durante quase meia hora e depois mandou-o preparar uma chávena de chá'
+Polarity of the word 'quase': 0
+Sum of sentence polarity: 0
+
+harry arrastou-se infelicíssimo até à cozinha e quando regressou o correio já estava no colo do tio vernon
+Sentence: 'harry arrastou-se infelicíssimo até à cozinha e quando regressou o correio já estava no colo do tio vernon'
+Sum of sentence polarity: 0
+
+harry pôde distinguir perfeitamente três cartas escritas a tinta verde
+Sentence: 'harry pôde distinguir perfeitamente três cartas escritas a tinta verde'
+Sum of sentence polarity: 0
+
+ eu quero
+Sentence: ' eu quero'
+Sum of sentence polarity: 0
+
+ começou por dizer mas o tio estava a rasgálas em mil pedacinhos mesmo à frente do seu nariz
+Sentence: ' começou por dizer mas o tio estava a rasgálas em mil pedacinhos mesmo à frente do seu nariz'
+Sum of sentence polarity: 0
+
+nesse dia o tio vernon não foi trabalhar
+Sentence: 'nesse dia o tio vernon não foi trabalhar'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ficou em casa e fechou com pregos a caixa do correio
+Sentence: 'ficou em casa e fechou com pregos a caixa do correio'
+Sum of sentence polarity: 0
+
+ vês
+Sentence: ' vês'
+Sum of sentence polarity: 0
+
+ explicou à tia petúnia pelo meio de um monte de pregos  se eles não poderem entregálas acabarão por desistir
+Sentence: ' explicou à tia petúnia pelo meio de um monte de pregos  se eles não poderem entregálas acabarão por desistir'
+Polarity of the word 'não': 1
+Polarity of the word 'desistir': -1
+Sum of sentence polarity: 0
+
+ não tenho tanta certeza assim de que isso resulte vernon
+Sentence: ' não tenho tanta certeza assim de que isso resulte vernon'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ ora a cabeça daquela gente funciona de um modo estranho petúnia
+Sentence: ' ora a cabeça daquela gente funciona de um modo estranho petúnia'
+Polarity of the word 'estranho': -1
+Sum of sentence polarity: -1
+
+eles não são como nós  disse o tio vernon tentando pregar um prego com o pedaço de bolo de frutas que a tia petúnia acabara de lhe trazer
+Sentence: 'eles não são como nós  disse o tio vernon tentando pregar um prego com o pedaço de bolo de frutas que a tia petúnia acabara de lhe trazer'
+Polarity of the word 'não': -1
+Polarity of the word 'são': 1
+Sum of sentence polarity: 0
+
+na sexta-feira chegaram doze cartas para o harry
+Sentence: 'na sexta-feira chegaram doze cartas para o harry'
+Sum of sentence polarity: 0
+
+como não podiam entrar na caixa do correio foram metidas por debaixo da porta outras introduzidas pelas frinchas laterais e algumas empurradas pela pequena janela da casa de banho do rés-do-chão
+Sentence: 'como não podiam entrar na caixa do correio foram metidas por debaixo da porta outras introduzidas pelas frinchas laterais e algumas empurradas pela pequena janela da casa de banho do rés-do-chão'
+Polarity of the word 'não': 1
+Polarity of the word 'metidas': -1
+Sum of sentence polarity: 0
+
+o tio vernon voltou a ficar em casa
+Sentence: 'o tio vernon voltou a ficar em casa'
+Sum of sentence polarity: 0
+
+depois de queimar todas as cartas foi buscar um martelo e pregos e pregou tábuas nas portas de tal modo que ninguém podia sair
+Sentence: 'depois de queimar todas as cartas foi buscar um martelo e pregos e pregou tábuas nas portas de tal modo que ninguém podia sair'
+Polarity of the word 'queimar': 1
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: 1
+
+enquanto trabalhava ia cantarolando entredentes o tiptoe through the tulips em bicos de pés entre as túlipas e saltava sempre que ouvia um pequeno barulho
+Sentence: 'enquanto trabalhava ia cantarolando entredentes o tiptoe through the tulips em bicos de pés entre as túlipas e saltava sempre que ouvia um pequeno barulho'
+Sum of sentence polarity: 0
+
+no sábado as coisas começaram a fugir por completo ao seu controlo
+Sentence: 'no sábado as coisas começaram a fugir por completo ao seu controlo'
+Polarity of the word 'fugir': -1
+Polarity of the word 'controlo': 1
+Sum of sentence polarity: 0
+
+vinte e quatro cartas endereçadas ao harry conseguiram entrar lá em casa embrulhadas e escondidas nas duas dúzias de ovos que o leiteiro entregou bastante confuso à tia petúnia através da janela da sala
+Sentence: 'vinte e quatro cartas endereçadas ao harry conseguiram entrar lá em casa embrulhadas e escondidas nas duas dúzias de ovos que o leiteiro entregou bastante confuso à tia petúnia através da janela da sala'
+Polarity of the word 'embrulhadas': -1
+Polarity of the word 'escondidas': -1
+Polarity of the word 'bastante': -1
+Polarity of the word 'confuso': -1
+Sum of sentence polarity: -4
+
+enquanto o tio vernon fazia chamadas telefónicas em grande exaltação para a repartição dos correios tentando encontrar alguém com quem implicar a tia petúnia triturava as cartas na 123 como se fossem carne para picar
+Sentence: 'enquanto o tio vernon fazia chamadas telefónicas em grande exaltação para a repartição dos correios tentando encontrar alguém com quem implicar a tia petúnia triturava as cartas na 123 como se fossem carne para picar'
+Polarity of the word 'chamadas': 0
+Sum of sentence polarity: 0
+
+ quem diabo é que quer tanto falar contigo
+Sentence: ' quem diabo é que quer tanto falar contigo'
+Polarity of the word 'tanto': 0
+Sum of sentence polarity: 0
+
+ perguntava o dudley no meio de um enorme espanto
+Sentence: ' perguntava o dudley no meio de um enorme espanto'
+Sum of sentence polarity: 0
+
+no domingo de manhã o tio vernon sentou-se à mesa do pequeno-almoço com um ar cansado e adoentado mas apesar de tudo satisfeito
+Sentence: 'no domingo de manhã o tio vernon sentou-se à mesa do pequeno-almoço com um ar cansado e adoentado mas apesar de tudo satisfeito'
+Polarity of the word 'cansado': -1
+Polarity of the word 'adoentado': -1
+Polarity of the word 'satisfeito': 1
+Sum of sentence polarity: -1
+
+ felizmente ao domingo não há correio  recordou-lhes enquanto espalhava o doce nos jornais
+Sentence: ' felizmente ao domingo não há correio  recordou-lhes enquanto espalhava o doce nos jornais'
+Polarity of the word 'não': -1
+Polarity of the word 'doce': 1
+Sum of sentence polarity: 0
+
+ não há as estuporadas cartas hoje
+Sentence: ' não há as estuporadas cartas hoje'
+Polarity of the word 'não': 1
+Polarity of the word 'estuporadas': -1
+Sum of sentence polarity: 0
+
+mal acabara de pronunciar esta frase algo caiu pela chaminé da cozinha batendo-lhe bruscamente na nuca e no momento a seguir trinta ou quarenta cartas tombaram ruidosamente como uma chuva de balas pela chaminé abaixo
+Sentence: 'mal acabara de pronunciar esta frase algo caiu pela chaminé da cozinha batendo-lhe bruscamente na nuca e no momento a seguir trinta ou quarenta cartas tombaram ruidosamente como uma chuva de balas pela chaminé abaixo'
+Polarity of the word 'caiu': -1
+Sum of sentence polarity: -1
+
+os dursleys desviaram-se mas harry deu um enorme salto na tentativa de agarrar alguma
+Sentence: 'os dursleys desviaram-se mas harry deu um enorme salto na tentativa de agarrar alguma'
+Sum of sentence polarity: 0
+
+ fora!
+Sentence: ' fora!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+fora daqui!
+Sentence: 'fora daqui!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+o tio vernon agarrou harry pelo cinto das calças e atirou-o para o vestíbulo
+Sentence: 'o tio vernon agarrou harry pelo cinto das calças e atirou-o para o vestíbulo'
+Sum of sentence polarity: 0
+
+quando a tia petúnia e dudley baixaram os braços com que protegiam o rosto e a cabeça o tio vernon bateu com a porta
+Sentence: 'quando a tia petúnia e dudley baixaram os braços com que protegiam o rosto e a cabeça o tio vernon bateu com a porta'
+Polarity of the word 'bateu': 1
+Sum of sentence polarity: 1
+
+cá fora ouviam-se as cartas que continuavam a entrar a jorros pela sala batendo fortemente contra as paredes e o soalho
+Sentence: 'cá fora ouviam-se as cartas que continuavam a entrar a jorros pela sala batendo fortemente contra as paredes e o soalho'
+Polarity of the word 'batendo': 1
+Sum of sentence polarity: 1
+
+ está decidido  disse o tio vernon tentando falar com toda a calma mas arrancando ao mesmo tempo tufos de bigode
+Sentence: ' está decidido  disse o tio vernon tentando falar com toda a calma mas arrancando ao mesmo tempo tufos de bigode'
+Polarity of the word 'decidido': 1
+Polarity of the word 'calma': 1
+Sum of sentence polarity: 2
+
+ quero-vos a todos aqui dentro de cinco minutos prontos para sair
+Sentence: ' quero-vos a todos aqui dentro de cinco minutos prontos para sair'
+Sum of sentence polarity: 0
+
+vamos para fora
+Sentence: 'vamos para fora'
+Sum of sentence polarity: 0
+
+arrumem algumas coisas e nada de perguntas!
+Sentence: 'arrumem algumas coisas e nada de perguntas!'
+Polarity of the word 'arrumem': 1
+Polarity of the word 'nada': 0
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+parecia tão perigoso com metade do bigode arrancado que ninguém se atreveu a abrir a boca
+Sentence: 'parecia tão perigoso com metade do bigode arrancado que ninguém se atreveu a abrir a boca'
+Polarity of the word 'tão': -1
+Polarity of the word 'perigoso': -1
+Polarity of the word 'arrancado': 0
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: -2
+
+dez minutos mais tarde tinham conseguido sair através das portas trancadas com tábuas e estavam todos no carro seguindo na direcção da auto-estrada
+Sentence: 'dez minutos mais tarde tinham conseguido sair através das portas trancadas com tábuas e estavam todos no carro seguindo na direcção da auto-estrada'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+o dudley fungava no assento de trás porque o pai lhe dera um caldo na cabeça por ele estar a atrasálos a todos tentando meter no saco de desporto a televisão o vídeo e o computador
+Sentence: 'o dudley fungava no assento de trás porque o pai lhe dera um caldo na cabeça por ele estar a atrasálos a todos tentando meter no saco de desporto a televisão o vídeo e o computador'
+Sum of sentence polarity: 0
+
+fizeram quilómetros e quilómetros
+Sentence: 'fizeram quilómetros e quilómetros'
+Sum of sentence polarity: 0
+
+nem a tia petúnia ousava perguntar ao marido para onde iam
+Sentence: 'nem a tia petúnia ousava perguntar ao marido para onde iam'
+Sum of sentence polarity: 0
+
+de vez em quando o tio vernon dava a volta e tomava a direcção contrária
+Sentence: 'de vez em quando o tio vernon dava a volta e tomava a direcção contrária'
+Sum of sentence polarity: 0
+
+ despistálos despistálos  resmungava sempre que fazia aquilo
+Sentence: ' despistálos despistálos  resmungava sempre que fazia aquilo'
+Sum of sentence polarity: 0
+
+não pararam para comer nem para beber durante o dia inteiro
+Sentence: 'não pararam para comer nem para beber durante o dia inteiro'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+à noitinha o dudley estava de péssimo humor
+Sentence: 'à noitinha o dudley estava de péssimo humor'
+Polarity of the word 'péssimo': -1
+Sum of sentence polarity: -1
+
+nunca passara um dia tão mau em toda a sua vida
+Sentence: 'nunca passara um dia tão mau em toda a sua vida'
+Polarity of the word 'nunca': 1
+Polarity of the word 'tão': -1
+Polarity of the word 'mau': -1
+Sum of sentence polarity: -1
+
+tinha fome perdera cinco programas de televisão que queria ver e nunca tinha estado tanto tempo sem destruir um extraterrestre num dos seus jogos de computador
+Sentence: 'tinha fome perdera cinco programas de televisão que queria ver e nunca tinha estado tanto tempo sem destruir um extraterrestre num dos seus jogos de computador'
+Polarity of the word 'fome': -1
+Polarity of the word 'perdera': -1
+Polarity of the word 'nunca': -1
+Polarity of the word 'tanto': 1
+Polarity of the word 'destruir': 1
+Polarity of the word 'num': 0
+Sum of sentence polarity: -1
+
+finalmente o tio vernon parou à porta de um hotelzinho sombrio à entrada de uma grande cidade
+Sentence: 'finalmente o tio vernon parou à porta de um hotelzinho sombrio à entrada de uma grande cidade'
+Polarity of the word 'sombrio': -1
+Sum of sentence polarity: -1
+
+dudley e harry dividiram o mesmo quarto de duas camas com lençóis húmidos e a cheirar a mofo
+Sentence: 'dudley e harry dividiram o mesmo quarto de duas camas com lençóis húmidos e a cheirar a mofo'
+Polarity of the word 'cheirar a mofo': -1
+Sum of sentence polarity: -1
+
+dudley ressonou mas harry ficou acordado sentado no peitoril da janela a olhar para baixo para as luzes dos carros que passavam e a pensar
+Sentence: 'dudley ressonou mas harry ficou acordado sentado no peitoril da janela a olhar para baixo para as luzes dos carros que passavam e a pensar'
+Polarity of the word 'acordado': 0
+Sum of sentence polarity: 0
+
+no dia seguinte ao pequeno-almoço comeram corn flakes e torradas com tomate frio de conserva e tinham todos terminado no momento em que a dona do hotel se aproximou da mesa
+Sentence: 'no dia seguinte ao pequeno-almoço comeram corn flakes e torradas com tomate frio de conserva e tinham todos terminado no momento em que a dona do hotel se aproximou da mesa'
+Polarity of the word 'frio': -1
+Sum of sentence polarity: -1
+
+ peço imensa desculpa mas algum dos senhores é o senhor h potter
+Sentence: ' peço imensa desculpa mas algum dos senhores é o senhor h potter'
+Sum of sentence polarity: 0
+
+é que acabo de receber uma centena de cartas destas na minha secretária
+Sentence: 'é que acabo de receber uma centena de cartas destas na minha secretária'
+Sum of sentence polarity: 0
+
+a senhora mostrou uma das cartas para que pudessem ler o endereço escrito a tinta verde
+Sentence: 'a senhora mostrou uma das cartas para que pudessem ler o endereço escrito a tinta verde'
+Sum of sentence polarity: 0
+
+senhor h potter quarto 1 7 hotel railview cokeworth
+Sentence: 'senhor h potter quarto 1 7 hotel railview cokeworth'
+Sum of sentence polarity: 0
+
+harry fez um gesto no sentido de pegar na carta mas o tio vernon agarrou-lhe no braço e fêlo baixar a mão
+Sentence: 'harry fez um gesto no sentido de pegar na carta mas o tio vernon agarrou-lhe no braço e fêlo baixar a mão'
+Sum of sentence polarity: 0
+
+a senhora ficou a olhar espantada
+Sentence: 'a senhora ficou a olhar espantada'
+Sum of sentence polarity: 0
+
+ eu trato disso  afirmou o tio vernon levantando-se rapidamente e saindo atrás dela da sala de jantar
+Sentence: ' eu trato disso  afirmou o tio vernon levantando-se rapidamente e saindo atrás dela da sala de jantar'
+Sum of sentence polarity: 0
+
+ não seria melhor voltarmos para casa querido
+Sentence: ' não seria melhor voltarmos para casa querido'
+Polarity of the word 'não': -1
+Polarity of the word 'melhor': 0
+Polarity of the word 'querido': 1
+Sum of sentence polarity: 0
+
+ sugeriu timidamente a tia petúnia algumas horas mais tarde mas o tio vernon pareceu nem ter ouvido as suas palavras
+Sentence: ' sugeriu timidamente a tia petúnia algumas horas mais tarde mas o tio vernon pareceu nem ter ouvido as suas palavras'
+Polarity of the word 'mais': 0
+Polarity of the word 'ouvido': 0
+Sum of sentence polarity: 0
+
+ninguém sabia ao certo qual era a ideia dele
+Sentence: 'ninguém sabia ao certo qual era a ideia dele'
+Polarity of the word 'ninguém': -1
+Polarity of the word 'certo': 1
+Sum of sentence polarity: 0
+
+levou-os até ao meio da floresta saiu olhou em volta abanou a cabeça voltou ao carro e continuou a conduzir
+Sentence: 'levou-os até ao meio da floresta saiu olhou em volta abanou a cabeça voltou ao carro e continuou a conduzir'
+Polarity of the word 'abanou': 1
+Sum of sentence polarity: 1
+
+fez o mesmo no meio de um campo cultivado a meio de uma ponte e no topo de um imenso parque de estacionamento
+Sentence: 'fez o mesmo no meio de um campo cultivado a meio de uma ponte e no topo de um imenso parque de estacionamento'
+Polarity of the word 'cultivado': 1
+Sum of sentence polarity: 1
+
+ o pai enlouqueceu não enlouqueceu
+Sentence: ' o pai enlouqueceu não enlouqueceu'
+Polarity of the word 'enlouqueceu': 1
+Polarity of the word 'não': -1
+Polarity of the word 'enlouqueceu': 1
+Sum of sentence polarity: 1
+
+ perguntou nessa tarde o dudley à tia petúnia
+Sentence: ' perguntou nessa tarde o dudley à tia petúnia'
+Sum of sentence polarity: 0
+
+o tio vernon tinha estacionado o carro na costa deixara-os fechados lá dentro e desaparecera
+Sentence: 'o tio vernon tinha estacionado o carro na costa deixara-os fechados lá dentro e desaparecera'
+Polarity of the word 'fechados': -1
+Sum of sentence polarity: -1
+
+começou a chover
+Sentence: 'começou a chover'
+Sum of sentence polarity: 0
+
+enormes pingos de chuva batiam no tejadilho do carro
+Sentence: 'enormes pingos de chuva batiam no tejadilho do carro'
+Polarity of the word 'batiam': 1
+Sum of sentence polarity: 1
+
+dudley choramingava
+Sentence: 'dudley choramingava'
+Polarity of the word 'choramingava': -1
+Sum of sentence polarity: -1
+
+ hoje é segunda-feira  dizia ele à mãe
+Sentence: ' hoje é segunda-feira  dizia ele à mãe'
+Sum of sentence polarity: 0
+
+ há o show do grande humberto quero ir para qualquer lado onde haja televisão
+Sentence: ' há o show do grande humberto quero ir para qualquer lado onde haja televisão'
+Sum of sentence polarity: 0
+
+segunda-feira
+Sentence: 'segunda-feira'
+Sum of sentence polarity: 0
+
+aquilo lembrava ao harry qualquer coisa
+Sentence: 'aquilo lembrava ao harry qualquer coisa'
+Sum of sentence polarity: 0
+
+se era de facto segunda-feira  e geralmente o dudley nunca se enganava nos dias por causa da televisão  então no dia seguinte terça-feira era o seu aniversário
+Sentence: 'se era de facto segunda-feira  e geralmente o dudley nunca se enganava nos dias por causa da televisão  então no dia seguinte terça-feira era o seu aniversário'
+Polarity of the word 'nunca': 1
+Polarity of the word 'enganava': -1
+Sum of sentence polarity: 0
+
+harry ia fazer onze anos
+Sentence: 'harry ia fazer onze anos'
+Sum of sentence polarity: 0
+
+é claro que os seus aniversários não costumavam ser propriamente divertidos  no ano passado os dursleys tinham-lhe oferecido um cabide para pendurar o casaco e um par de peúgas velhas do tio vernon
+Sentence: 'é claro que os seus aniversários não costumavam ser propriamente divertidos  no ano passado os dursleys tinham-lhe oferecido um cabide para pendurar o casaco e um par de peúgas velhas do tio vernon'
+Polarity of the word 'não': 1
+Polarity of the word 'divertidos': 1
+Polarity of the word 'passado': -1
+Polarity of the word 'oferecido': -1
+Polarity of the word 'velhas': -1
+Sum of sentence polarity: -1
+
+mesmo assim não é todos os dias que se faz onze anos
+Sentence: 'mesmo assim não é todos os dias que se faz onze anos'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+o tio estava de volta e vinha sorridente
+Sentence: 'o tio estava de volta e vinha sorridente'
+Polarity of the word 'sorridente': 1
+Sum of sentence polarity: 1
+
+trazia consigo um pacote grande e estreito e não respondeu à tia petúnia quando esta lhe perguntou o que tinha comprado
+Sentence: 'trazia consigo um pacote grande e estreito e não respondeu à tia petúnia quando esta lhe perguntou o que tinha comprado'
+Polarity of the word 'não': 1
+Polarity of the word 'comprado': -1
+Sum of sentence polarity: 0
+
+ descobri o lugar ideal!
+Sentence: ' descobri o lugar ideal!'
+Polarity of the word 'ideal': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ disse
+Sentence: ' disse'
+Sum of sentence polarity: 0
+
+ vamos lá toca a sair todos!
+Sentence: ' vamos lá toca a sair todos!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+estava um frio de enregelar fora do carro
+Sentence: 'estava um frio de enregelar fora do carro'
+Polarity of the word 'frio': -1
+Sum of sentence polarity: -1
+
+o tio vernon apontou para uma coisa que parecia um caminho de rocha direito ao mar
+Sentence: 'o tio vernon apontou para uma coisa que parecia um caminho de rocha direito ao mar'
+Polarity of the word 'direito': 1
+Sum of sentence polarity: 1
+
+encarrapitada em cima de um rochedo ainda distante estava a cabana mais miserável que imaginar se pode
+Sentence: 'encarrapitada em cima de um rochedo ainda distante estava a cabana mais miserável que imaginar se pode'
+Polarity of the word 'distante': -1
+Polarity of the word 'mais': -1
+Polarity of the word 'miserável': -1
+Sum of sentence polarity: -3
+
+uma coisa era certa ali não havia televisão
+Sentence: 'uma coisa era certa ali não havia televisão'
+Polarity of the word 'certa': 1
+Polarity of the word 'não': 0
+Sum of sentence polarity: 1
+
+ as previsões são de tempestade para esta noite!
+Sentence: ' as previsões são de tempestade para esta noite!'
+Polarity of the word 'são': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ disse o tio vernon jovialmente batendo as palmas
+Sentence: ' disse o tio vernon jovialmente batendo as palmas'
+Polarity of the word 'batendo': 1
+Sum of sentence polarity: 1
+
+ e este senhor aceitou alugar-nos o barco para irmos até lá!
+Sentence: ' e este senhor aceitou alugar-nos o barco para irmos até lá!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+um velhote sem dentes aproximou-se vagarosamente apontando com um sorriso perverso para um velho barco a remos que boiava na água acinzentada
+Sentence: 'um velhote sem dentes aproximou-se vagarosamente apontando com um sorriso perverso para um velho barco a remos que boiava na água acinzentada'
+Polarity of the word 'velhote': -1
+Polarity of the word 'perverso': -1
+Polarity of the word 'velho': -1
+Sum of sentence polarity: -3
+
+ já fui comprar algumas provisões  disse o tio vernon  portanto todos a bordo!
+Sentence: ' já fui comprar algumas provisões  disse o tio vernon  portanto todos a bordo!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+estava demasiado frio dentro do barco
+Sentence: 'estava demasiado frio dentro do barco'
+Polarity of the word 'frio': -1
+Sum of sentence polarity: -1
+
+os salpicos gélidos da água do mar e a chuva molharam-lhes o pescoço e as costas e um vento frio fustigou-lhes o rosto
+Sentence: 'os salpicos gélidos da água do mar e a chuva molharam-lhes o pescoço e as costas e um vento frio fustigou-lhes o rosto'
+Polarity of the word 'gélidos': -1
+Polarity of the word 'frio': -1
+Sum of sentence polarity: -2
+
+a viagem pareceu ter demorado horas até que chegaram à rocha onde o tio vernon escorregando e deslizando lhes indicou o caminho para a cabana em ruínas
+Sentence: 'a viagem pareceu ter demorado horas até que chegaram à rocha onde o tio vernon escorregando e deslizando lhes indicou o caminho para a cabana em ruínas'
+Polarity of the word 'demorado': -1
+Polarity of the word 'escorregando': -1
+Sum of sentence polarity: -2
+
+o interior da cabana era um susto
+Sentence: 'o interior da cabana era um susto'
+Polarity of the word 'susto': -1
+Sum of sentence polarity: -1
+
+cheirava intensamente a algas podres o vento assobiava pelas fendas das paredes de madeira e o fogão estava húmido e sem lenha
+Sentence: 'cheirava intensamente a algas podres o vento assobiava pelas fendas das paredes de madeira e o fogão estava húmido e sem lenha'
+Polarity of the word 'podres': -1
+Sum of sentence polarity: -1
+
+a cabana tinha apenas dois quartos
+Sentence: 'a cabana tinha apenas dois quartos'
+Polarity of the word 'apenas': 0
+Sum of sentence polarity: 0
+
+as provisões do tio vernon afinal eram apenas um pacote de batatas fritas para cada um e quatro bananas
+Sentence: 'as provisões do tio vernon afinal eram apenas um pacote de batatas fritas para cada um e quatro bananas'
+Polarity of the word 'apenas': 2
+Polarity of the word 'fritas': -1
+Polarity of the word 'bananas': -1
+Sum of sentence polarity: 0
+
+tentou acender a lareira mas as embalagens vazias das batatas fritas deitaram fumo e apagaram-se de imediato
+Sentence: 'tentou acender a lareira mas as embalagens vazias das batatas fritas deitaram fumo e apagaram-se de imediato'
+Polarity of the word 'vazias': -1
+Polarity of the word 'fritas': -1
+Sum of sentence polarity: -2
+
+ davam jeito agora aquelas cartas todas hein
+Sentence: ' davam jeito agora aquelas cartas todas hein'
+Sum of sentence polarity: 0
+
+ disse alegremente
+Sentence: ' disse alegremente'
+Sum of sentence polarity: 0
+
+estava cheio de boa disposição
+Sentence: 'estava cheio de boa disposição'
+Polarity of the word 'boa disposição': 1
+Sum of sentence polarity: 1
+
+pensava obviamente que ninguém conseguiria encontrálos ali no meio da tempestade para lhes entregar o correio
+Sentence: 'pensava obviamente que ninguém conseguiria encontrálos ali no meio da tempestade para lhes entregar o correio'
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: 0
+
+harry partilhava da mesma opinião apesar de isso não o alegrar de modo algum
+Sentence: 'harry partilhava da mesma opinião apesar de isso não o alegrar de modo algum'
+Polarity of the word 'não': -1
+Polarity of the word 'alegrar': 1
+Sum of sentence polarity: 0
+
+quando anoiteceu a anunciada tempestade estoirou em volta deles
+Sentence: 'quando anoiteceu a anunciada tempestade estoirou em volta deles'
+Sum of sentence polarity: 0
+
+as ondas enormes conseguiram encharcar as paredes da choupana e um vento feroz agitava com grande ruído as janelas imundas
+Sentence: 'as ondas enormes conseguiram encharcar as paredes da choupana e um vento feroz agitava com grande ruído as janelas imundas'
+Polarity of the word 'feroz': -1
+Polarity of the word 'ruído': -1
+Polarity of the word 'imundas': -1
+Sum of sentence polarity: -3
+
+a tia petúnia descobriu alguns cobertores no segundo quarto e fez uma cama para o dudley no velho sofá roído pela traça e carcomido pelo tempo
+Sentence: 'a tia petúnia descobriu alguns cobertores no segundo quarto e fez uma cama para o dudley no velho sofá roído pela traça e carcomido pelo tempo'
+Polarity of the word 'velho': -1
+Polarity of the word 'roído': -1
+Polarity of the word 'carcomido': -1
+Sum of sentence polarity: -3
+
+ela e o tio vernon ficaram no quarto ao lado uma divisão húmida e grumosa marcada nas paredes e no soalho pela força das ondas e o harry ficou à vontade para procurar o bocado de chão menos duro e embrulhar-se no cobertor mais ralo e esfarrapado
+Sentence: 'ela e o tio vernon ficaram no quarto ao lado uma divisão húmida e grumosa marcada nas paredes e no soalho pela força das ondas e o harry ficou à vontade para procurar o bocado de chão menos duro e embrulhar-se no cobertor mais ralo e esfarrapado'
+Polarity of the word 'menos': 2
+Polarity of the word 'duro': -1
+Polarity of the word 'mais': -1
+Polarity of the word 'esfarrapado': -1
+Sum of sentence polarity: -1
+
+a tempestade tornava-se cada vez mais violenta à medida que a noite avançava
+Sentence: 'a tempestade tornava-se cada vez mais violenta à medida que a noite avançava'
+Polarity of the word 'mais': -1
+Polarity of the word 'violenta': -1
+Sum of sentence polarity: -2
+
+harry com o estômago revoltado com fome tiritava e deva voltas e reviravoltas tentando encontrar a melhor posição
+Sentence: 'harry com o estômago revoltado com fome tiritava e deva voltas e reviravoltas tentando encontrar a melhor posição'
+Polarity of the word 'revoltado': 0
+Polarity of the word 'fome': -1
+Polarity of the word 'melhor': 0
+Sum of sentence polarity: -1
+
+o ressonar dos dursleys era abafado pela trovoada que começou perto da meia-noite
+Sentence: 'o ressonar dos dursleys era abafado pela trovoada que começou perto da meia-noite'
+Polarity of the word 'abafado': -1
+Sum of sentence polarity: -1
+
+o ponteiro luminoso do relógio do dudley tombado na beira do sofá no seu pulso gordo permitia-lhe ver que dentro de dez minutos faria onze anos
+Sentence: 'o ponteiro luminoso do relógio do dudley tombado na beira do sofá no seu pulso gordo permitia-lhe ver que dentro de dez minutos faria onze anos'
+Polarity of the word 'luminoso': 1
+Polarity of the word 'tombado': -1
+Polarity of the word 'gordo': -1
+Sum of sentence polarity: -1
+
+ficou a olhar fixamente e a ver aproximar-se o seu aniversário perguntando a si próprio se os dursleys se lembrariam e onde estaria a pessoa que lhe tinha escrito todas aquelas cartas
+Sentence: 'ficou a olhar fixamente e a ver aproximar-se o seu aniversário perguntando a si próprio se os dursleys se lembrariam e onde estaria a pessoa que lhe tinha escrito todas aquelas cartas'
+Sum of sentence polarity: 0
+
+faltavam cinco minutos
+Sentence: 'faltavam cinco minutos'
+Sum of sentence polarity: 0
+
+harry ouviu um barulho lá fora
+Sentence: 'harry ouviu um barulho lá fora'
+Sum of sentence polarity: 0
+
+desejou que não fosse o tecto a ruir embora ficasse mais quentinho se isso acontecesse
+Sentence: 'desejou que não fosse o tecto a ruir embora ficasse mais quentinho se isso acontecesse'
+Polarity of the word 'não': 0
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+faltavam quatro minutos
+Sentence: 'faltavam quatro minutos'
+Sum of sentence polarity: 0
+
+talvez a casa em privet drive estivesse tão cheia de cartas quando voltassem que lhe fosse possível roubar uma
+Sentence: 'talvez a casa em privet drive estivesse tão cheia de cartas quando voltassem que lhe fosse possível roubar uma'
+Polarity of the word 'tão': -1
+Polarity of the word 'roubar': -1
+Sum of sentence polarity: -2
+
+faltavam três minutos
+Sentence: 'faltavam três minutos'
+Sum of sentence polarity: 0
+
+seria o mar a bater na rocha daquela maneira
+Sentence: 'seria o mar a bater na rocha daquela maneira'
+Polarity of the word 'bater': 1
+Polarity of the word 'maneira': 1
+Sum of sentence polarity: 2
+
+e faltavam dois minutos que barulho que parecia de pés seria aquele
+Sentence: 'e faltavam dois minutos que barulho que parecia de pés seria aquele'
+Sum of sentence polarity: 0
+
+estaria a rocha a desagregar-se
+Sentence: 'estaria a rocha a desagregar-se'
+Sum of sentence polarity: 0
+
+faltava um minuto para ele completar onze anos
+Sentence: 'faltava um minuto para ele completar onze anos'
+Sum of sentence polarity: 0
+
+trinta segundos vinte dez nove  e se acordasse o dudley só para o chatear
+Sentence: 'trinta segundos vinte dez nove  e se acordasse o dudley só para o chatear'
+Polarity of the word 'chatear': 0
+Sum of sentence polarity: 0
+
+ três dois um
+Sentence: ' três dois um'
+Sum of sentence polarity: 0
+
+booooom
+Sentence: 'booooom'
+Sum of sentence polarity: 0
+
+toda a cabana estremeceu
+Sentence: 'toda a cabana estremeceu'
+Sum of sentence polarity: 0
+
+harry deu um salto e ficou a olhar
+Sentence: 'harry deu um salto e ficou a olhar'
+Sum of sentence polarity: 0
+
+alguém estava lá fora a bater à porta
+Sentence: 'alguém estava lá fora a bater à porta'
+Polarity of the word 'bater': 1
+Sum of sentence polarity: 1
+
+Total Polarity: -65
+
+Total Words: 331
+
+Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.

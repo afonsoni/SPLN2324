@@ -42,6 +42,11 @@ def custom_sent_tokenize(text):
     return tokenized_sentences
 
 frases = custom_sent_tokenize(open('./corpus/HP_I.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_II.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_III.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_IV.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_V.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_VI.txt', 'r').read())
 
 #frases = [
     #"Este filme é muito chato.",
@@ -116,7 +121,7 @@ exclamation_boosters= ['!']
 # Negadores
 negation_words = ['não', 'ninguém', 'num', 'nada', 'nenhum', 'nunca', 'jamais']
 
-def calculate_polarity(normalized):
+def calculate_polarity_and_save(normalized, output_file):
     # Polaridade total do texto
     total_polarity = 0
     total_words = 0
@@ -126,60 +131,62 @@ def calculate_polarity(normalized):
     total_positive = 0
     total_negative = 0
     # Calcular a polaridade de cada frase
-    for sentence in normalized:
-        doc = nlp(sentence)
-        # Apply matcher on the doc
-        matches = matcher(doc)
-        with doc.retokenize() as retokenizer:
-            for _, start, end in matches:
-                span = doc[start:end]
-                retokenizer.merge(span)
-        print(doc.text)
-        sentence_polarity = 0  # Inicializar a polaridade da frase
-        print(f"Sentence: '{sentence}'")
-        exclamation = False
-        # stopwords = ['houvesse', 'houvessem', 'elas', 'aquele', 'eu', 'qual', 'esta', 'ele', 'lhes', 'haver', 'lhe', 'houveria', 'quando', 'houveríamos', 'dela', 'só', 'hei', 'essas', 'houvera', 'estas', 'nosso', 'houvéramos', 'tu', 'teu', 'hajam', 'delas', 'aqueles', 'haja', 'há', 'meu', 'houver', 'minhas', 'houveram', 'havemos', 'eles', 'ela', 'aquilo', 'deles', 'houvermos', 'tém', 'nossas', 'ou', 'aquela', 'hajamos', 'esses', 'dele', 'estes', 'também', 'você', 'houvéssemos', 'isto', 'houverão', 'houverá', 'houveremos', 'houve', 'esse', 'suas', 'hão', 'isso', 'houvemos', 'aquelas', 'houverei', 'este', 'vocês', 'houveriam', 'tuas', 'essa', 'já', 'houverem']
-        for i, token in enumerate(doc):
-            if token.text in exclamation_boosters:
-                exclamation = True
-            if token.text in senti_lex_dict.keys() or token.text in (positive_boosters + negative_boosters + negation_words):
-                word_polarity = 0  # Inicializar a polaridade da palavra
-                # verificar se é um booster positivo ou negativo e a polaridade à sua direita
-                if token.text in positive_boosters:
-                    for j in range(i+1,len(doc)):
-                        if doc[j].text in senti_lex_dict.keys():
-                            total_positive_boosters += 1
-                            word_polarity += int(senti_lex_dict[doc[j].text.lower()])
-                elif token.text in negative_boosters:
-                    for j in range(i+1,len(doc)):
-                        if doc[j].text in senti_lex_dict.keys():
-                            total_negative_boosters += 1
-                            word_polarity -= int(senti_lex_dict[doc[j].text.lower()])
-                elif token.text in negation_words:
-                    for j in range(i+1,len(doc)):
-                        if doc[j].text in senti_lex_dict.keys():
-                            total_negations += 1
-                            word_polarity = int(senti_lex_dict[doc[j].text.lower()]) * -1
-                elif token.text in senti_lex_dict:
-                    word_polarity = int(senti_lex_dict[token.text])
-                    if int(senti_lex_dict[token.text]) > 0:
-                        total_positive += 1
-                    elif int(senti_lex_dict[token.text]) < 0:
-                        total_negative += 1
-                sentence_polarity += word_polarity
-                total_words += 1
-                print(f"Polarity of the word '{token.text}': {word_polarity}")
-        if exclamation:
-            if sentence_polarity < 0 : sentence_polarity -= 1
-            elif sentence_polarity > 0 : sentence_polarity +=1    
-        total_polarity += sentence_polarity
-        print(f"Sum of sentence polarity: {sentence_polarity}")
-        if exclamation:
-            print(" (with exclamation booster)")
-        print("\n")
-    print(f"Total Polarity: {total_polarity}\n")
-    print(f"Total Words: {total_words}\n")
-    print(contribution_to_polarity(total_positive, total_negative, total_negations, total_positive_boosters, total_negative_boosters))
+    with open(output_file, 'w') as f:
+        for sentence in normalized:
+            doc = nlp(sentence)
+            # Apply matcher on the doc
+            matches = matcher(doc)
+            with doc.retokenize() as retokenizer:
+                for _, start, end in matches:
+                    span = doc[start:end]
+                    retokenizer.merge(span)
+            f.write(f"{doc.text}\n")
+            sentence_polarity = 0  # Inicializar a polaridade da frase
+            f.write(f"Sentence: '{sentence}'\n")
+            exclamation = False
+            # stopwords = ['houvesse', 'houvessem', 'elas', 'aquele', 'eu', 'qual', 'esta', 'ele', 'lhes', 'haver', 'lhe', 'houveria', 'quando', 'houveríamos', 'dela', 'só', 'hei', 'essas', 'houvera', 'estas', 'nosso', 'houvéramos', 'tu', 'teu', 'hajam', 'delas', 'aqueles', 'haja', 'há', 'meu', 'houver', 'minhas', 'houveram', 'havemos', 'eles', 'ela', 'aquilo', 'deles', 'houvermos', 'tém', 'nossas', 'ou', 'aquela', 'hajamos', 'esses', 'dele', 'estes', 'também', 'você', 'houvéssemos', 'isto', 'houverão', 'houverá', 'houveremos', 'houve', 'esse', 'suas', 'hão', 'isso', 'houvemos', 'aquelas', 'houverei', 'este', 'vocês', 'houveriam', 'tuas', 'essa', 'já', 'houverem']
+            for i, token in enumerate(doc):
+                if token.text in exclamation_boosters:
+                    exclamation = True
+                if token.text in senti_lex_dict.keys() or token.text in (positive_boosters + negative_boosters + negation_words):
+                    word_polarity = 0  # Inicializar a polaridade da palavra
+                    # verificar se é um booster positivo ou negativo e a polaridade à sua direita
+                    if token.text in positive_boosters:
+                        for j in range(i+1,len(doc)):
+                            if doc[j].text in senti_lex_dict.keys():
+                                total_positive_boosters += 1
+                                word_polarity += int(senti_lex_dict[doc[j].text.lower()])
+                    elif token.text in negative_boosters:
+                        for j in range(i+1,len(doc)):
+                            if doc[j].text in senti_lex_dict.keys():
+                                total_negative_boosters += 1
+                                word_polarity -= int(senti_lex_dict[doc[j].text.lower()])
+                    elif token.text in negation_words:
+                        for j in range(i+1,len(doc)):
+                            if doc[j].text in senti_lex_dict.keys():
+                                total_negations += 1
+                                word_polarity = int(senti_lex_dict[doc[j].text.lower()]) * -1
+                    elif token.text in senti_lex_dict:
+                        word_polarity = int(senti_lex_dict[token.text])
+                        if int(senti_lex_dict[token.text]) > 0:
+                            total_positive += 1
+                        elif int(senti_lex_dict[token.text]) < 0:
+                            total_negative += 1
+                    sentence_polarity += word_polarity
+                    total_words += 1
+                    f.write(f"Polarity of the word '{token.text}': {word_polarity}\n")
+            if exclamation:
+                if sentence_polarity < 0 : sentence_polarity -= 1
+                elif sentence_polarity > 0 : sentence_polarity +=1    
+            total_polarity += sentence_polarity
+            f.write(f"Sum of sentence polarity: {sentence_polarity}\n")
+            if exclamation:
+                f.write(" (with exclamation booster)\n")
+            f.write("\n")
+        f.write(f"Total Polarity: {total_polarity}\n\n")
+        f.write(f"Total Words: {total_words}\n\n")
+        f.write(contribution_to_polarity(total_positive, total_negative, total_negations, total_positive_boosters, total_negative_boosters))
+
 
 def contribution_to_polarity(positive, negative, negations, positive_boosters, negative_boosters):
     print(f"Total Positive Words: {positive}\n")
@@ -189,72 +196,21 @@ def contribution_to_polarity(positive, negative, negations, positive_boosters, n
     print(f"Total Negative Boosters: {negative_boosters}\n")
     return "Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada."
 
+import os
 
-# def calculate_polarity(normalized):
-#     # Polaridade total do texto
-#     total_polarity = 0
-#     # Calcular a polaridade de cada frase
-#     for sentence in normalized:
-#         doc = nlp(sentence)
-#         # Apply matcher on the doc
-#         matches = matcher(doc)
-#         with doc.retokenize() as retokenizer:
-#             for _, start, end in matches:
-#                 span = doc[start:end]
-#                 retokenizer.merge(span)
-#         print(doc.text)
-#         sentence_polarity = 0  # Inicializar a polaridade da frase
-#         print(f"Sentence: '{sentence}'")
+# Criar a pasta outputHP se não existir
+output_folder = "outputHP"
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
 
-#         # Variáveis de controle para negadores e boosters
-#         negation_flag = False
-#         positive_booster_flag = False
-#         negative_booster_flag = False
-#         exclamation = False
+# Lista de arquivos HP
+hp_files = ['./corpus/HP_I.txt', './corpus/HP_II.txt', './corpus/HP_III.txt', './corpus/HP_IV.txt', './corpus/HP_V.txt', './corpus/HP_VI.txt']
+# Nome dos arquivos de saída
+output_files = ['output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt']
 
-#         for i, token in enumerate(doc):
-#             word_polarity = 0  # Inicializar a polaridade da palavra
-#             # Verificar se é um negador
-#             if token.text in negation_words:
-#                 negation_flag = True
-#             # Verificar se é booster positivo
-#             if token.text in positive_boosters:
-#                 positive_booster_flag = True
-#             # Verificar se é booster negativo
-#             if token.text in negative_boosters:
-#                 negative_booster_flag = True
-#             # Verificar se é um exclamation
-#             if token.text in exclamation_boosters:
-#                 exclamation = True
-
-#             # Caso encontre uma palavra no sintilex e tinha um negation antes inverte a polaridade dessa palavra
-#             if negation_flag and token.text.lower() in senti_lex_dict:
-#                 word_polarity = int(senti_lex_dict[token.text.lower()]) * -1
-#                 negation_flag = False  # Reiniciar a flag após inverter a polaridade
-
-#             # Caso encontre uma palavra no sintilex e tinha um booster positivo antes duplica a polaridade dessa palavra
-#             elif positive_booster_flag and token.text.lower() in senti_lex_dict:
-#                 word_polarity = int(senti_lex_dict[token.text.lower()]) * 2
-#                 positive_booster_flag = False  # Reiniciar a flag após inverter a polaridade
-
-#             # Caso encontre uma palavra no sintilex e tinha um booster negativo antes passa para metade a polaridade dessa palavra
-#             elif negative_booster_flag and token.text.lower() in senti_lex_dict:
-#                 word_polarity = int(senti_lex_dict[token.text.lower()] ) * 0.5
-#                 negative_booster_flag = False  # Reiniciar a flag após inverter a polaridade
-
-#             elif token.text in senti_lex_dict:
-#                 word_polarity = int(senti_lex_dict[token.text])
-#             sentence_polarity += word_polarity
-#             print(f"Polarity of the word '{token.text}': {word_polarity}")
-#         # Se houver um booster de exclamação na frase, ajustar a polaridade da frase
-#         if exclamation:
-#             if sentence_polarity < 0:
-#                 sentence_polarity -= 1
-#             elif sentence_polarity > 0:
-#                 sentence_polarity += 1
-#         total_polarity += sentence_polarity
-#         print(f"Sum of sentence polarity: {sentence_polarity}\n")
-
-#     print(f"Total Polarity: {total_polarity}\n")
-
-calculate_polarity(normalized)
+# Loop sobre cada arquivo HP
+for hp_file, output_file in zip(hp_files, output_files):
+    frases = custom_sent_tokenize(open(hp_file, 'r').read())
+    normalized = normalize(frases)
+    output_path = os.path.join(output_folder, output_file)
+    calculate_polarity_and_save(normalized, output_path)
