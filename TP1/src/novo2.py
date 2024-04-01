@@ -196,16 +196,13 @@ def calculate_polarity_and_save(normalized, output_file):
             f.write("\n")
         f.write(f"Total Polarity: {total_polarity}\n\n")
         f.write(f"Total Words: {total_words}\n\n")
-        f.write(contribution_to_polarity(total_positive, total_negative, total_negations, total_positive_boosters, total_negative_boosters))
+        f.write(f"Total Positive Words: {total_positive}\n")
+        f.write(f"Total Negative Words: {total_negative}\n")
+        f.write(f"Total Negations: {total_negations}\n")
+        f.write(f"Total Positive Boosters: {total_positive_boosters}\n")
+        f.write(f"Total Negative Boosters: {total_negative_boosters}\n")
+        f.write("Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.")
 
-
-def contribution_to_polarity(positive, negative, negations, positive_boosters, negative_boosters):
-    print(f"Total Positive Words: {positive}\n")
-    print(f"Total Negative Words: {negative}\n")
-    print(f"Total Negations: {negations}\n")
-    print(f"Total Positive Boosters: {positive_boosters}\n")
-    print(f"Total Negative Boosters: {negative_boosters}\n")
-    return "Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada."
 
 import os
 
