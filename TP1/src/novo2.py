@@ -47,6 +47,17 @@ frases = custom_sent_tokenize(open('./corpus/HP_III.txt', 'r').read())
 frases = custom_sent_tokenize(open('./corpus/HP_IV.txt', 'r').read())
 frases = custom_sent_tokenize(open('./corpus/HP_V.txt', 'r').read())
 frases = custom_sent_tokenize(open('./corpus/HP_VI.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_VII.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_VIII.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_IX.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_X.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XI.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XII.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XIII.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XIV.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XV.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XVI.txt', 'r').read())
+frases = custom_sent_tokenize(open('./corpus/HP_XVII.txt', 'r').read())
 
 #frases = [
     #"Este filme é muito chato.",
@@ -204,9 +215,9 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 # Lista de arquivos HP
-hp_files = ['./corpus/HP_I.txt', './corpus/HP_II.txt', './corpus/HP_III.txt', './corpus/HP_IV.txt', './corpus/HP_V.txt', './corpus/HP_VI.txt']
+hp_files = ['./corpus/HP_I.txt', './corpus/HP_II.txt', './corpus/HP_III.txt', './corpus/HP_IV.txt', './corpus/HP_V.txt', './corpus/HP_VI.txt', './corpus/HP_VII.txt', './corpus/HP_VIII.txt', './corpus/HP_IX.txt', './corpus/HP_X.txt', './corpus/HP_XI.txt', './corpus/HP_XII.txt', './corpus/HP_XIII.txt', './corpus/HP_XIV.txt', './corpus/HP_XV.txt', './corpus/HP_XVI.txt', './corpus/HP_XVII.txt']
 # Nome dos arquivos de saída
-output_files = ['output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt']
+output_files = ['output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt', 'output_HP_VII.txt', 'output_HP_VIII.txt', 'output_HP_IX.txt', 'output_HP_X.txt', 'output_HP_XI.txt', 'output_HP_XII.txt', 'output_HP_XIII.txt', 'output_HP_XIV.txt', 'output_HP_XV.txt', 'output_HP_XVI.txt', 'output_HP_XVII.txt']
 
 # Loop sobre cada arquivo HP
 for hp_file, output_file in zip(hp_files, output_files):

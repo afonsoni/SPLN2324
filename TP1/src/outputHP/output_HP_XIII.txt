@@ -1,0 +1,1429 @@
+nicolas flamel
+Sentence: 'nicolas flamel'
+Sum of sentence polarity: 0
+
+dumbledore convencera harry a não voltar a procurar o espelho dos invisíveis
+Sentence: 'dumbledore convencera harry a não voltar a procurar o espelho dos invisíveis'
+Polarity of the word 'não': 1
+Polarity of the word 'invisíveis': -1
+Sum of sentence polarity: 0
+
+portanto durante o resto das férias de natal o manto da invisibilidade ficou dobrado no fundo da mala de harry
+Sentence: 'portanto durante o resto das férias de natal o manto da invisibilidade ficou dobrado no fundo da mala de harry'
+Sum of sentence polarity: 0
+
+ele bem tentava esquecer e que tinha visto naquele espelho mas não era capaz
+Sentence: 'ele bem tentava esquecer e que tinha visto naquele espelho mas não era capaz'
+Polarity of the word 'não': -1
+Polarity of the word 'capaz': 1
+Sum of sentence polarity: 0
+
+começou a ter pesadelos
+Sentence: 'começou a ter pesadelos'
+Sum of sentence polarity: 0
+
+sonhava sempre com os pais a desaparecerem numa explosão de luz verde enquanto uma voz aguda se ria às gargalhadas
+Sentence: 'sonhava sempre com os pais a desaparecerem numa explosão de luz verde enquanto uma voz aguda se ria às gargalhadas'
+Polarity of the word 'aguda': 0
+Sum of sentence polarity: 0
+
+ estás a ver que o dumbledore tinha razão o espelho podia levar-te à loucura  disse o ron quando ele lhe contou aqueles sonhos
+Sentence: ' estás a ver que o dumbledore tinha razão o espelho podia levar-te à loucura  disse o ron quando ele lhe contou aqueles sonhos'
+Polarity of the word 'loucura': -1
+Sum of sentence polarity: -1
+
+hermione que regressou um dia antes do começo das aulas viu as coisas de uma perspectiva diferente
+Sentence: 'hermione que regressou um dia antes do começo das aulas viu as coisas de uma perspectiva diferente'
+Polarity of the word 'diferente': 0
+Sum of sentence polarity: 0
+
+ficou horrorizada com a ideia do harry andar três noites a fio a vaguear pela escola e se o filch te tivesse apanhado e desapontada por ele não ter descoberto pelo menos quem era o flamel
+Sentence: 'ficou horrorizada com a ideia do harry andar três noites a fio a vaguear pela escola e se o filch te tivesse apanhado e desapontada por ele não ter descoberto pelo menos quem era o flamel'
+Polarity of the word 'vaguear': -1
+Polarity of the word 'apanhado': -1
+Polarity of the word 'desapontada': -1
+Polarity of the word 'não': 0
+Polarity of the word 'menos': 0
+Sum of sentence polarity: -3
+
+tinham perdido praticamente a esperança de encontrar flamel num dos livros da biblioteca apesar de harry continuar a ter a certeza de que tinha lido o nome dele em qualquer lado
+Sentence: 'tinham perdido praticamente a esperança de encontrar flamel num dos livros da biblioteca apesar de harry continuar a ter a certeza de que tinha lido o nome dele em qualquer lado'
+Polarity of the word 'perdido': -1
+Polarity of the word 'num': 0
+Sum of sentence polarity: -1
+
+mal as aulas começaram recomeçou o sistema de visitas rápidas à biblioteca entre uma aula e outra
+Sentence: 'mal as aulas começaram recomeçou o sistema de visitas rápidas à biblioteca entre uma aula e outra'
+Polarity of the word 'rápidas': 1
+Sum of sentence polarity: 1
+
+o tempo de que harry dispunha era agora bastante reduzido devido ao recomeço dos treinos de quidditch
+Sentence: 'o tempo de que harry dispunha era agora bastante reduzido devido ao recomeço dos treinos de quidditch'
+Polarity of the word 'bastante': -1
+Polarity of the word 'reduzido': -1
+Sum of sentence polarity: -2
+
+o wood estava a exigir cada vez mais da equipa
+Sentence: 'o wood estava a exigir cada vez mais da equipa'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+nem a chuva infindável que viera substituir a neve conseguira quebrar-lhe o animo
+Sentence: 'nem a chuva infindável que viera substituir a neve conseguira quebrar-lhe o animo'
+Polarity of the word 'animo': 1
+Sum of sentence polarity: 1
+
+os weasleys queixavam-se de que ele estava a ficar fanático mas harry estava com wood
+Sentence: 'os weasleys queixavam-se de que ele estava a ficar fanático mas harry estava com wood'
+Sum of sentence polarity: 0
+
+se ganhassem o próximo jogo contra os hufflepuff ultrapassariam os slytherin como equipa vencedora campeonato pela primeira vez em sete anos
+Sentence: 'se ganhassem o próximo jogo contra os hufflepuff ultrapassariam os slytherin como equipa vencedora campeonato pela primeira vez em sete anos'
+Polarity of the word 'ganhassem': 1
+Polarity of the word 'ultrapassariam': 1
+Polarity of the word 'vencedora': 1
+Sum of sentence polarity: 3
+
+além querer vencer harry descobriu que tinha menos pesadelo quando chegava à cama bastante cansado dos treinos
+Sentence: 'além querer vencer harry descobriu que tinha menos pesadelo quando chegava à cama bastante cansado dos treinos'
+Polarity of the word 'vencer': 1
+Polarity of the word 'menos': 1
+Polarity of the word 'bastante': -1
+Polarity of the word 'cansado': -1
+Sum of sentence polarity: 0
+
+foi então que durante um treino particularmente molhado e cheio de lama o wood lhes deu aquela péssima notícia
+Sentence: 'foi então que durante um treino particularmente molhado e cheio de lama o wood lhes deu aquela péssima notícia'
+Polarity of the word 'péssima': -1
+Sum of sentence polarity: -1
+
+tinha acabado de ralhar com os weasleys que na brincadeira não paravam de se bombardear um ao outro fingindo cair das vassouras
+Sentence: 'tinha acabado de ralhar com os weasleys que na brincadeira não paravam de se bombardear um ao outro fingindo cair das vassouras'
+Polarity of the word 'acabado': -1
+Polarity of the word 'ralhar': 0
+Polarity of the word 'não': 1
+Polarity of the word 'bombardear': 1
+Polarity of the word 'fingindo': -1
+Polarity of the word 'cair': -1
+Sum of sentence polarity: -1
+
+ vocês parem imediatamente de criar confusão!
+Sentence: ' vocês parem imediatamente de criar confusão!'
+Polarity of the word 'confusão': -1
+Sum of sentence polarity: -2
+ (with exclamation booster)
+
+ gritou
+Sentence: ' gritou'
+Sum of sentence polarity: 0
+
+ é esse tipo de coisa que pode levar-nos a perder o campeonato!
+Sentence: ' é esse tipo de coisa que pode levar-nos a perder o campeonato!'
+Polarity of the word 'perder': -1
+Sum of sentence polarity: -2
+ (with exclamation booster)
+
+o snape vai arbitrar desta vez e pode agarrar-se a qualquer coisa para retirar pontos ao gryffindor!
+Sentence: 'o snape vai arbitrar desta vez e pode agarrar-se a qualquer coisa para retirar pontos ao gryffindor!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+george weasley caiu mesmo da vassoura ao ouvir esta palavras
+Sentence: 'george weasley caiu mesmo da vassoura ao ouvir esta palavras'
+Polarity of the word 'caiu': -1
+Sum of sentence polarity: -1
+
+ snape vai arbitrar
+Sentence: ' snape vai arbitrar'
+Sum of sentence polarity: 0
+
+ balbuciou com a boca cheia de lama
+Sentence: ' balbuciou com a boca cheia de lama'
+Sum of sentence polarity: 0
+
+ mas ele nunca arbitrou um jogo de quidditch não vai ser justo connosco se ultrapassarmos o slytherin
+Sentence: ' mas ele nunca arbitrou um jogo de quidditch não vai ser justo connosco se ultrapassarmos o slytherin'
+Polarity of the word 'nunca': -1
+Polarity of the word 'não': -1
+Polarity of the word 'justo': 1
+Polarity of the word 'ultrapassarmos': 1
+Sum of sentence polarity: 0
+
+o resto do clube pôs-se ao lado de george protestando
+Sentence: 'o resto do clube pôs-se ao lado de george protestando'
+Sum of sentence polarity: 0
+
+ não é por minha culpa  disse o wood
+Sentence: ' não é por minha culpa  disse o wood'
+Polarity of the word 'não': 0
+Polarity of the word 'culpa': 0
+Sum of sentence polarity: 0
+
+ mas temos de garantir um jogo tão limpo que o snape não tenha qualquer motivo para implicar connosco
+Sentence: ' mas temos de garantir um jogo tão limpo que o snape não tenha qualquer motivo para implicar connosco'
+Polarity of the word 'tão': 1
+Polarity of the word 'limpo': 1
+Polarity of the word 'não': 0
+Sum of sentence polarity: 2
+
+estava tudo muito bem pensou harry mas ele tinha outra razão para não querer o snape por perto enquanto jogava quidditch
+Sentence: 'estava tudo muito bem pensou harry mas ele tinha outra razão para não querer o snape por perto enquanto jogava quidditch'
+Polarity of the word 'muito': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+o resto dos jogadores juntou-se para falar no final do treino mas harry foi direito à sala comum dos gryffindor onde encontrou o ron e a hermione a jogarem xadrez
+Sentence: 'o resto dos jogadores juntou-se para falar no final do treino mas harry foi direito à sala comum dos gryffindor onde encontrou o ron e a hermione a jogarem xadrez'
+Polarity of the word 'direito': 1
+Sum of sentence polarity: 1
+
+era o único jogo em que hermione costumava perder o que segundo ron lhe fazia muito bem
+Sentence: 'era o único jogo em que hermione costumava perder o que segundo ron lhe fazia muito bem'
+Polarity of the word 'perder': -1
+Polarity of the word 'muito': 0
+Sum of sentence polarity: -1
+
+ não falem comigo agora  disse o ron quando harry se sentou ao lado dele  preciso de concentração  mas ao ver a expressão do amigo perguntou  o que é que se passa estás com um aspecto horrível
+Sentence: ' não falem comigo agora  disse o ron quando harry se sentou ao lado dele  preciso de concentração  mas ao ver a expressão do amigo perguntou  o que é que se passa estás com um aspecto horrível'
+Polarity of the word 'não': 1
+Polarity of the word 'amigo': 1
+Polarity of the word 'horrível': -1
+Sum of sentence polarity: 1
+
+baixinho para que ninguém mais ouvisse harry contou-lhes a súbita e sinistra intenção do snape de arbitrar o jogo de quidditch
+Sentence: 'baixinho para que ninguém mais ouvisse harry contou-lhes a súbita e sinistra intenção do snape de arbitrar o jogo de quidditch'
+Polarity of the word 'ninguém': 1
+Polarity of the word 'mais': -1
+Polarity of the word 'sinistra': -1
+Sum of sentence polarity: -1
+
+ não jogues  disse hermione de imediato
+Sentence: ' não jogues  disse hermione de imediato'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ diz que estás doente  lembrou o ron
+Sentence: ' diz que estás doente  lembrou o ron'
+Polarity of the word 'doente': -1
+Sum of sentence polarity: -1
+
+ finge que partiste uma perna  sugeriu hermione
+Sentence: ' finge que partiste uma perna  sugeriu hermione'
+Polarity of the word 'finge': -1
+Sum of sentence polarity: -1
+
+ parte mesmo uma perna  aconselhou o ron
+Sentence: ' parte mesmo uma perna  aconselhou o ron'
+Sum of sentence polarity: 0
+
+ não posso  disse o harry
+Sentence: ' não posso  disse o harry'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ não há nenhum seeker suplente
+Sentence: ' não há nenhum seeker suplente'
+Polarity of the word 'não': 0
+Polarity of the word 'nenhum': 0
+Sum of sentence polarity: 0
+
+se eu lhes faltar os gryffindor não poderão jogar
+Sentence: 'se eu lhes faltar os gryffindor não poderão jogar'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+nesse momento o neville entrou de roldão na sala comum
+Sentence: 'nesse momento o neville entrou de roldão na sala comum'
+Sum of sentence polarity: 0
+
+todos se perguntaram como é que ele conseguira subir pelo buraco do retrato uma vez que trazia as pernas presas uma à outra com aquilo que identificaram de imediato como sendo o feitiço das pernas amarradas
+Sentence: 'todos se perguntaram como é que ele conseguira subir pelo buraco do retrato uma vez que trazia as pernas presas uma à outra com aquilo que identificaram de imediato como sendo o feitiço das pernas amarradas'
+Polarity of the word 'presas': -1
+Polarity of the word 'feitiço': -1
+Polarity of the word 'amarradas': -1
+Sum of sentence polarity: -3
+
+devia ter tido de saltar como um coelho durante todo o caminho até chegar à torre dos gryffindor
+Sentence: 'devia ter tido de saltar como um coelho durante todo o caminho até chegar à torre dos gryffindor'
+Sum of sentence polarity: 0
+
+todos se partiram a rir com excepção de hermione que sem perder tempo pôs em prática a contra magia
+Sentence: 'todos se partiram a rir com excepção de hermione que sem perder tempo pôs em prática a contra magia'
+Polarity of the word 'perder': -1
+Polarity of the word 'prática': 1
+Sum of sentence polarity: 0
+
+as pernas do neville afastaram-se e ele pôs-se de pé a tremer
+Sentence: 'as pernas do neville afastaram-se e ele pôs-se de pé a tremer'
+Polarity of the word 'tremer': -1
+Sum of sentence polarity: -1
+
+ o que é que aconteceu
+Sentence: ' o que é que aconteceu'
+Sum of sentence polarity: 0
+
+ perguntou-lhe hermione ajudando-o a sentar-se junto de harry e ron
+Sentence: ' perguntou-lhe hermione ajudando-o a sentar-se junto de harry e ron'
+Sum of sentence polarity: 0
+
+ o malfoy  disse o neville a tremer
+Sentence: ' o malfoy  disse o neville a tremer'
+Polarity of the word 'tremer': -1
+Sum of sentence polarity: -1
+
+ encontrei-o fora da biblioteca
+Sentence: ' encontrei-o fora da biblioteca'
+Sum of sentence polarity: 0
+
+disse que andava à procura de alguém em quem praticar
+Sentence: 'disse que andava à procura de alguém em quem praticar'
+Sum of sentence polarity: 0
+
+ vai já ter com a professora mc_gonagall e comunica-lhe isso  disse hermione peremptoriamente
+Sentence: ' vai já ter com a professora mc_gonagall e comunica-lhe isso  disse hermione peremptoriamente'
+Sum of sentence polarity: 0
+
+neville fez que não com a cabeça
+Sentence: 'neville fez que não com a cabeça'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ não quero mais problemas  sussurrou
+Sentence: ' não quero mais problemas  sussurrou'
+Polarity of the word 'não': 1
+Polarity of the word 'mais': -1
+Polarity of the word 'problemas': -1
+Sum of sentence polarity: -1
+
+ tens de o enfrentar neville!
+Sentence: ' tens de o enfrentar neville!'
+Polarity of the word 'enfrentar': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ aconselhou o ron
+Sentence: ' aconselhou o ron'
+Sum of sentence polarity: 0
+
+ ele está habituado a passar por cima de toda a gente mas não é por isso que vamos deitar-nos no chão e facilitar-lhe a vida
+Sentence: ' ele está habituado a passar por cima de toda a gente mas não é por isso que vamos deitar-nos no chão e facilitar-lhe a vida'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ não precisas de me dizer que eu não sou suficientemente corajoso para estar nos gryffindor
+Sentence: ' não precisas de me dizer que eu não sou suficientemente corajoso para estar nos gryffindor'
+Polarity of the word 'não': -1
+Polarity of the word 'não': -1
+Polarity of the word 'corajoso': 1
+Sum of sentence polarity: -1
+
+o malfoy já m o disse  balbuciou o neville
+Sentence: 'o malfoy já m o disse  balbuciou o neville'
+Sum of sentence polarity: 0
+
+harry meteu a mão no bolso da capa retirou de lá um sapo de chocolate o último da caixa que a hermione lhe oferecera no natal e deu-o ao neville que parecia ir começar a chorar
+Sentence: 'harry meteu a mão no bolso da capa retirou de lá um sapo de chocolate o último da caixa que a hermione lhe oferecera no natal e deu-o ao neville que parecia ir começar a chorar'
+Polarity of the word 'chorar': -1
+Sum of sentence polarity: -1
+
+ tu vales mais do que doze malfoys  disse o harry
+Sentence: ' tu vales mais do que doze malfoys  disse o harry'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+ o chapéu seleccionador escolheu-te para os gryffindor ou não
+Sentence: ' o chapéu seleccionador escolheu-te para os gryffindor ou não'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+e onde é que está o malfoy
+Sentence: 'e onde é que está o malfoy'
+Sum of sentence polarity: 0
+
+nos nojentos slytherin
+Sentence: 'nos nojentos slytherin'
+Polarity of the word 'nojentos': -1
+Sum of sentence polarity: -1
+
+os lábios do neville esboçaram um ténue sorriso enquanto desembrulhava o sapo
+Sentence: 'os lábios do neville esboçaram um ténue sorriso enquanto desembrulhava o sapo'
+Sum of sentence polarity: 0
+
+ obrigado harry acho que me vou deitar
+Sentence: ' obrigado harry acho que me vou deitar'
+Polarity of the word 'obrigado': -1
+Sum of sentence polarity: -1
+
+queres este cromo
+Sentence: 'queres este cromo'
+Polarity of the word 'cromo': -1
+Sum of sentence polarity: -1
+
+tu fazes colecção não fazes
+Sentence: 'tu fazes colecção não fazes'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+enquanto o neville se afastava harry olhou para o cromo do feiticeiro famoso
+Sentence: 'enquanto o neville se afastava harry olhou para o cromo do feiticeiro famoso'
+Polarity of the word 'afastava': 0
+Polarity of the word 'cromo': -1
+Polarity of the word 'famoso': 1
+Sum of sentence polarity: 0
+
+ o dumbledore de novo  disse
+Sentence: ' o dumbledore de novo  disse'
+Sum of sentence polarity: 0
+
+ foi o primeiro que eu
+Sentence: ' foi o primeiro que eu'
+Sum of sentence polarity: 0
+
+estremeceu os olhos fixos na parte de trás do cromo
+Sentence: 'estremeceu os olhos fixos na parte de trás do cromo'
+Polarity of the word 'cromo': -1
+Sum of sentence polarity: -1
+
+em seguida olhou para ron e hermione
+Sentence: 'em seguida olhou para ron e hermione'
+Sum of sentence polarity: 0
+
+ encontrei-o!
+Sentence: ' encontrei-o!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ murmurou
+Sentence: ' murmurou'
+Sum of sentence polarity: 0
+
+ encontrei o flamel!
+Sentence: ' encontrei o flamel!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+eu disse-vos que tinha lido sobre ele no comboio quando vinha para cá  ouçam isto o professor dumbledore é particularmente famoso por ter derrotado o mago negro grindelwald em 1945 pela descoberta de doze utilizações para o sangue de dragão e pelo seu trabalho alquímico juntamente com o seu colega nicolas flamel!
+Sentence: 'eu disse-vos que tinha lido sobre ele no comboio quando vinha para cá  ouçam isto o professor dumbledore é particularmente famoso por ter derrotado o mago negro grindelwald em 1945 pela descoberta de doze utilizações para o sangue de dragão e pelo seu trabalho alquímico juntamente com o seu colega nicolas flamel!'
+Polarity of the word 'famoso': 1
+Polarity of the word 'derrotado': 1
+Polarity of the word 'mago': 1
+Sum of sentence polarity: 4
+ (with exclamation booster)
+
+hermione deu dois saltos de contente
+Sentence: 'hermione deu dois saltos de contente'
+Polarity of the word 'contente': 1
+Sum of sentence polarity: 1
+
+não se mostrava tão entusiasmada desde o dia em que recebera a nota do seu primeiro trabalho de casa
+Sentence: 'não se mostrava tão entusiasmada desde o dia em que recebera a nota do seu primeiro trabalho de casa'
+Polarity of the word 'não': 0
+Polarity of the word 'tão': 0
+Sum of sentence polarity: 0
+
+ fiquem aí  disse ela e correu pelas escadas acima até à camarata das raparigas
+Sentence: ' fiquem aí  disse ela e correu pelas escadas acima até à camarata das raparigas'
+Sum of sentence polarity: 0
+
+harry e ron mal tiveram tempo de trocar um olhar de espanto e já ela estava de volta com um enorme livro nas mãos
+Sentence: 'harry e ron mal tiveram tempo de trocar um olhar de espanto e já ela estava de volta com um enorme livro nas mãos'
+Polarity of the word 'livro': 0
+Sum of sentence polarity: 0
+
+ nunca me lembrei de procurar aqui!
+Sentence: ' nunca me lembrei de procurar aqui!'
+Polarity of the word 'nunca': 0
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ murmurou excitada  trouxe-o da biblioteca há umas semanas porque me pareceu uma coisa leve para ir lendo aos bocadinhos
+Sentence: ' murmurou excitada  trouxe-o da biblioteca há umas semanas porque me pareceu uma coisa leve para ir lendo aos bocadinhos'
+Polarity of the word 'excitada': 0
+Polarity of the word 'leve': 0
+Sum of sentence polarity: 0
+
+ leve
+Sentence: ' leve'
+Polarity of the word 'leve': 0
+Sum of sentence polarity: 0
+
+ disse o ron
+Sentence: ' disse o ron'
+Sum of sentence polarity: 0
+
+mas hermione mandou-o ficar quieto e começou a procurar nervosamente em todas as páginas resmungando sozinha
+Sentence: 'mas hermione mandou-o ficar quieto e começou a procurar nervosamente em todas as páginas resmungando sozinha'
+Polarity of the word 'quieto': 0
+Sum of sentence polarity: 0
+
+por fim encontrou aquilo de que estava à procura
+Sentence: 'por fim encontrou aquilo de que estava à procura'
+Sum of sentence polarity: 0
+
+ eu sabia
+Sentence: ' eu sabia'
+Sum of sentence polarity: 0
+
+eu sabia!
+Sentence: 'eu sabia!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ já podemos falar
+Sentence: ' já podemos falar'
+Sum of sentence polarity: 0
+
+ perguntou o ron mas ela nem lhe deu resposta
+Sentence: ' perguntou o ron mas ela nem lhe deu resposta'
+Sum of sentence polarity: 0
+
+ nicolas flamel  leu dramaticamente  é o único autor conhecido da pedra filosofal!
+Sentence: ' nicolas flamel  leu dramaticamente  é o único autor conhecido da pedra filosofal!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+a frase não teve o impacte que ela esperava
+Sentence: 'a frase não teve o impacte que ela esperava'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ a pedra quê
+Sentence: ' a pedra quê'
+Sum of sentence polarity: 0
+
+ perguntaram o dois ao mesmo tempo
+Sentence: ' perguntaram o dois ao mesmo tempo'
+Sum of sentence polarity: 0
+
+ oh francamente vocês não lêem nada
+Sentence: ' oh francamente vocês não lêem nada'
+Polarity of the word 'não': 0
+Polarity of the word 'nada': 0
+Sum of sentence polarity: 0
+
+vejam aqui
+Sentence: 'vejam aqui'
+Sum of sentence polarity: 0
+
+pôs-lhes o livro na frente e harry ron leram
+Sentence: 'pôs-lhes o livro na frente e harry ron leram'
+Polarity of the word 'livro': 0
+Sum of sentence polarity: 0
+
+o antigo estudo da alquimia relaciona-se com a construção da pedra filosofal uma substância lendária com poderes fabulosos
+Sentence: 'o antigo estudo da alquimia relaciona-se com a construção da pedra filosofal uma substância lendária com poderes fabulosos'
+Polarity of the word 'antigo': 0
+Polarity of the word 'lendária': 1
+Polarity of the word 'fabulosos': 1
+Sum of sentence polarity: 2
+
+a pedra transforma qualquer metal em ouro puro
+Sentence: 'a pedra transforma qualquer metal em ouro puro'
+Polarity of the word 'puro': 1
+Sum of sentence polarity: 1
+
+produz também o elixir da vida que tornará imortal aquele que o beber
+Sentence: 'produz também o elixir da vida que tornará imortal aquele que o beber'
+Polarity of the word 'imortal': 1
+Sum of sentence polarity: 1
+
+tem havido muitas referências à pedra filosofal ao longo dos séculos mas a única que de facto existe pertence ao senhor nicolas flamel que festejou o ano passado o seu 665o aniversário e que leva uma vida tranquila em devon com a sua mulher perenelle de 658 anos
+Sentence: 'tem havido muitas referências à pedra filosofal ao longo dos séculos mas a única que de facto existe pertence ao senhor nicolas flamel que festejou o ano passado o seu 665o aniversário e que leva uma vida tranquila em devon com a sua mulher perenelle de 658 anos'
+Polarity of the word 'passado': -1
+Polarity of the word 'tranquila': 1
+Sum of sentence polarity: 0
+
+ estão a ver
+Sentence: ' estão a ver'
+Sum of sentence polarity: 0
+
+ disse hermione quando harry e ron terminaram
+Sentence: ' disse hermione quando harry e ron terminaram'
+Sum of sentence polarity: 0
+
+ o cão deve estar a guardar a pedra filosofal do flamel
+Sentence: ' o cão deve estar a guardar a pedra filosofal do flamel'
+Sum of sentence polarity: 0
+
+aposto que ele pediu ao dumbledore que tomasse conta dela não só porque são amigos mas também porque devia calcular que alguém andava a tentar roubála
+Sentence: 'aposto que ele pediu ao dumbledore que tomasse conta dela não só porque são amigos mas também porque devia calcular que alguém andava a tentar roubála'
+Polarity of the word 'não': -1
+Polarity of the word 'são': 1
+Polarity of the word 'amigos': 1
+Sum of sentence polarity: 1
+
+por isso quis a pedra fora de gringotts!
+Sentence: 'por isso quis a pedra fora de gringotts!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ uma pedra que faz ouro e nos impede de morrer  disse o harry
+Sentence: ' uma pedra que faz ouro e nos impede de morrer  disse o harry'
+Sum of sentence polarity: 0
+
+ não admira que o snape ande atrás dela!
+Sentence: ' não admira que o snape ande atrás dela!'
+Polarity of the word 'não': 0
+Polarity of the word 'admira': 0
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+qualquer um andaria
+Sentence: 'qualquer um andaria'
+Sum of sentence polarity: 0
+
+ e não admira que não conseguíssemos encontrar flamel no estudo dos novos desenvolvimentos da feitiçaria disse o ron
+Sentence: ' e não admira que não conseguíssemos encontrar flamel no estudo dos novos desenvolvimentos da feitiçaria disse o ron'
+Polarity of the word 'não': 0
+Polarity of the word 'admira': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ ele não é propriamente novo com se centos e sessenta e cinco anos de idade!
+Sentence: ' ele não é propriamente novo com se centos e sessenta e cinco anos de idade!'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+na manhã seguinte na aula de defesa contra as artes das trevas enquanto tiravam apontamentos sobre as diferentes maneiras de tratar as dentadas dos lobisomens harry e ron discutiam ainda o que cada um deles feria se tivessem uma pedra filosofal
+Sentence: 'na manhã seguinte na aula de defesa contra as artes das trevas enquanto tiravam apontamentos sobre as diferentes maneiras de tratar as dentadas dos lobisomens harry e ron discutiam ainda o que cada um deles feria se tivessem uma pedra filosofal'
+Polarity of the word 'diferentes': 0
+Polarity of the word 'maneiras': 1
+Polarity of the word 'feria': 0
+Sum of sentence polarity: 1
+
+só quando ron disse que comprava uma equipa de quidditch só para ele é que harry voltou a lembrar-se do snape e do jogo que o esperava
+Sentence: 'só quando ron disse que comprava uma equipa de quidditch só para ele é que harry voltou a lembrar-se do snape e do jogo que o esperava'
+Sum of sentence polarity: 0
+
+ eu vou jogar  disse ele ao ron e à hermione
+Sentence: ' eu vou jogar  disse ele ao ron e à hermione'
+Sum of sentence polarity: 0
+
+ se não o fizer todos os slytherin vão ficar a pensar que tenho medo de enfrentar o snape
+Sentence: ' se não o fizer todos os slytherin vão ficar a pensar que tenho medo de enfrentar o snape'
+Polarity of the word 'não': -1
+Polarity of the word 'vão': -1
+Polarity of the word 'medo': -1
+Polarity of the word 'enfrentar': 1
+Sum of sentence polarity: -2
+
+vou mostrar-lhes
+Sentence: 'vou mostrar-lhes'
+Sum of sentence polarity: 0
+
+acabam-se-lhes logo os sorrisinhos todos se ganharmos o jogo
+Sentence: 'acabam-se-lhes logo os sorrisinhos todos se ganharmos o jogo'
+Polarity of the word 'ganharmos': 1
+Sum of sentence polarity: 1
+
+ desde que não tenhamos que te trazer de rastos estádio  disse hermione
+Sentence: ' desde que não tenhamos que te trazer de rastos estádio  disse hermione'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+à medida que o jogo se aproximava harry ia ficando cada vez mais nervoso apesar de não dizer nada ao ron nem à hermione
+Sentence: 'à medida que o jogo se aproximava harry ia ficando cada vez mais nervoso apesar de não dizer nada ao ron nem à hermione'
+Polarity of the word 'mais': -1
+Polarity of the word 'nervoso': -1
+Polarity of the word 'não': 0
+Polarity of the word 'nada': 0
+Sum of sentence polarity: -2
+
+o resto da equipa também não estava propriamente calma
+Sentence: 'o resto da equipa também não estava propriamente calma'
+Polarity of the word 'não': -1
+Polarity of the word 'calma': 1
+Sum of sentence polarity: 0
+
+a ideia de vencer os slytherin no campeonato de clubes era maravilhosa havia sete anos que ninguém conseguia fazêlo mas será que iam ter essa oportunidade com um árbitro tão parcial
+Sentence: 'a ideia de vencer os slytherin no campeonato de clubes era maravilhosa havia sete anos que ninguém conseguia fazêlo mas será que iam ter essa oportunidade com um árbitro tão parcial'
+Polarity of the word 'vencer': 1
+Polarity of the word 'maravilhosa': 1
+Polarity of the word 'ninguém': 0
+Polarity of the word 'tão': 0
+Sum of sentence polarity: 2
+
+harry não sabia se era imaginação sua ou não mas parecia estar sempre a dar de caras com o snape para onde quer que se dirigisse
+Sentence: 'harry não sabia se era imaginação sua ou não mas parecia estar sempre a dar de caras com o snape para onde quer que se dirigisse'
+Polarity of the word 'não': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+chegou a pensar se ele não andaria a segui-lo na tentativa de o encontrar a sós
+Sentence: 'chegou a pensar se ele não andaria a segui-lo na tentativa de o encontrar a sós'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+as aulas de poções estavam a transformar-se na tortura semanal
+Sentence: 'as aulas de poções estavam a transformar-se na tortura semanal'
+Polarity of the word 'tortura': 1
+Sum of sentence polarity: 1
+
+o snape era tão horroroso com o harry
+Sentence: 'o snape era tão horroroso com o harry'
+Polarity of the word 'tão': -1
+Polarity of the word 'horroroso': -1
+Sum of sentence polarity: -2
+
+será que ele descobrira que eles sabiam da pedra filosofal
+Sentence: 'será que ele descobrira que eles sabiam da pedra filosofal'
+Sum of sentence polarity: 0
+
+harry não via como tal seria possível contudo tinha por vezes a pavorosa sensação de que ele conseguia ler-lhes os pensamento
+Sentence: 'harry não via como tal seria possível contudo tinha por vezes a pavorosa sensação de que ele conseguia ler-lhes os pensamento'
+Polarity of the word 'não': 1
+Polarity of the word 'pavorosa': -1
+Sum of sentence polarity: 0
+
+harry sabia que quando na tarde seguinte ron e hermione lhe desejaram boa sorte antes de ele entrar para os vestiários nenhum deles tinha a certeza absoluta de voltar a vêlo vivo
+Sentence: 'harry sabia que quando na tarde seguinte ron e hermione lhe desejaram boa sorte antes de ele entrar para os vestiários nenhum deles tinha a certeza absoluta de voltar a vêlo vivo'
+Polarity of the word 'boa': 1
+Polarity of the word 'nenhum': -1
+Polarity of the word 'absoluta': 0
+Polarity of the word 'vivo': 1
+Sum of sentence polarity: 1
+
+e esse pensamento não era propriamente reconfortante
+Sentence: 'e esse pensamento não era propriamente reconfortante'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+harry quase não ouviu uma palavra do discurso de incentivo do wood enquanto vestia o traje de quidditch e pegava na sua nimbus dois mil
+Sentence: 'harry quase não ouviu uma palavra do discurso de incentivo do wood enquanto vestia o traje de quidditch e pegava na sua nimbus dois mil'
+Polarity of the word 'quase': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+enquanto isso ron e hermione tinham arranjado lugar nas bancadas ao lado do neville que não compreendia porque motivo eles estavam tão pálidos e preocupados nem porque se tinham lembrado de levar para o jogo as suas varinhas
+Sentence: 'enquanto isso ron e hermione tinham arranjado lugar nas bancadas ao lado do neville que não compreendia porque motivo eles estavam tão pálidos e preocupados nem porque se tinham lembrado de levar para o jogo as suas varinhas'
+Polarity of the word 'não': 1
+Polarity of the word 'tão': -2
+Polarity of the word 'pálidos': -1
+Polarity of the word 'preocupados': -1
+Sum of sentence polarity: -3
+
+do mesmo modo harry ignorava por completo que ron e hermione tinham andado a praticar às escondidas o feitiço das pernas amarradas ideia que lhes fora dada pelo modo como o malfoy o usara com neville e estavam agora prontos a pôlo em prática contra snape à primeira tentativa de este fazer mal ao harry
+Sentence: 'do mesmo modo harry ignorava por completo que ron e hermione tinham andado a praticar às escondidas o feitiço das pernas amarradas ideia que lhes fora dada pelo modo como o malfoy o usara com neville e estavam agora prontos a pôlo em prática contra snape à primeira tentativa de este fazer mal ao harry'
+Polarity of the word 'ignorava': 0
+Polarity of the word 'escondidas': -1
+Polarity of the word 'feitiço': -1
+Polarity of the word 'amarradas': -1
+Polarity of the word 'dada': 0
+Polarity of the word 'usara': -1
+Polarity of the word 'prática': 1
+Sum of sentence polarity: -3
+
+ não te esqueças é locomotor mortis  murmurou hermione enquanto o ron escondia a varinha dentro da manga
+Sentence: ' não te esqueças é locomotor mortis  murmurou hermione enquanto o ron escondia a varinha dentro da manga'
+Polarity of the word 'não': 1
+Polarity of the word 'escondia': -1
+Sum of sentence polarity: 0
+
+ eu sei  rabujou ele  não chateies
+Sentence: ' eu sei  rabujou ele  não chateies'
+Polarity of the word 'não': 0
+Polarity of the word 'chateies': 0
+Sum of sentence polarity: 0
+
+de novo no vestiário wood chamara harry à parte
+Sentence: 'de novo no vestiário wood chamara harry à parte'
+Sum of sentence polarity: 0
+
+ não quero pressionar-te potter mas se houve um dia em que agarrar a snitch fosse fundamental esse dia é hoje
+Sentence: ' não quero pressionar-te potter mas se houve um dia em que agarrar a snitch fosse fundamental esse dia é hoje'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+vê se consegues acabar o jogo antes que o snape favoreça demasiado os hufflepuff
+Sentence: 'vê se consegues acabar o jogo antes que o snape favoreça demasiado os hufflepuff'
+Polarity of the word 'favoreça': -1
+Sum of sentence polarity: -1
+
+ está lá fora a escola em peso!
+Sentence: ' está lá fora a escola em peso!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ disse fred weasley espreitando pela porta
+Sentence: ' disse fred weasley espreitando pela porta'
+Sum of sentence polarity: 0
+
+ até co escafandro até o dumbledore veio assistir!
+Sentence: ' até co escafandro até o dumbledore veio assistir!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+o coração de harry deu um salto
+Sentence: 'o coração de harry deu um salto'
+Sum of sentence polarity: 0
+
+ dumbledore
+Sentence: ' dumbledore'
+Sum of sentence polarity: 0
+
+ repetiu dirigindo-se à porta para ter a certeza
+Sentence: ' repetiu dirigindo-se à porta para ter a certeza'
+Sum of sentence polarity: 0
+
+era verdade aquela barba prateada não enganava ninguém
+Sentence: 'era verdade aquela barba prateada não enganava ninguém'
+Polarity of the word 'verdade': 1
+Polarity of the word 'não': 1
+Polarity of the word 'enganava': -1
+Polarity of the word 'ninguém': 0
+Sum of sentence polarity: 1
+
+harry teve vontade de rir bem alto tal foi o seu alívio
+Sentence: 'harry teve vontade de rir bem alto tal foi o seu alívio'
+Polarity of the word 'alto': 0
+Sum of sentence polarity: 0
+
+estava salvo
+Sentence: 'estava salvo'
+Polarity of the word 'salvo': 1
+Sum of sentence polarity: 1
+
+o snape não teria coragem de tentar fazer-lhe mal na presença do dumbledore
+Sentence: 'o snape não teria coragem de tentar fazer-lhe mal na presença do dumbledore'
+Polarity of the word 'não': -1
+Polarity of the word 'coragem': 1
+Sum of sentence polarity: 0
+
+talvez fosse por isso que tinha um ar tão mal-disposto enquanto as equipas entravam em campo
+Sentence: 'talvez fosse por isso que tinha um ar tão mal-disposto enquanto as equipas entravam em campo'
+Polarity of the word 'tão': 0
+Sum of sentence polarity: 0
+
+facto que o ron também notou
+Sentence: 'facto que o ron também notou'
+Sum of sentence polarity: 0
+
+ nunca vi o snape com um ar tão mesquinho  comentou ele com hermione
+Sentence: ' nunca vi o snape com um ar tão mesquinho  comentou ele com hermione'
+Polarity of the word 'nunca': 1
+Polarity of the word 'tão': -1
+Polarity of the word 'mesquinho': -1
+Sum of sentence polarity: -1
+
+ olha começaram outch!
+Sentence: ' olha começaram outch!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+alguém acabava de atingir ron na nuca
+Sentence: 'alguém acabava de atingir ron na nuca'
+Sum of sentence polarity: 0
+
+fora malfoy
+Sentence: 'fora malfoy'
+Sum of sentence polarity: 0
+
+ desculpa weasley não te vi
+Sentence: ' desculpa weasley não te vi'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+malfoy esboçou um largo sorriso irónico envolvendo o crabbe e o goyle
+Sentence: 'malfoy esboçou um largo sorriso irónico envolvendo o crabbe e o goyle'
+Polarity of the word 'irónico': -1
+Sum of sentence polarity: -1
+
+ gostava de saber quanto tempo o potter vai aguentar-se desta vez em cima da vassoura
+Sentence: ' gostava de saber quanto tempo o potter vai aguentar-se desta vez em cima da vassoura'
+Polarity of the word 'gostava': 0
+Polarity of the word 'quanto': 0
+Sum of sentence polarity: 0
+
+alguém quer apostar
+Sentence: 'alguém quer apostar'
+Sum of sentence polarity: 0
+
+weasley
+Sentence: 'weasley'
+Sum of sentence polarity: 0
+
+ron não lhe respondeu
+Sentence: 'ron não lhe respondeu'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+o snape tinha acabado de conceder aos hufflepuff um penálti porque o george weasley lhes arremessara uma bludger
+Sentence: 'o snape tinha acabado de conceder aos hufflepuff um penálti porque o george weasley lhes arremessara uma bludger'
+Polarity of the word 'acabado': -1
+Sum of sentence polarity: -1
+
+hermione que fazia figas no colo tinha os olhos fixos no harry que voava em círculos sobre o jogo como um falcão em busca da snitch
+Sentence: 'hermione que fazia figas no colo tinha os olhos fixos no harry que voava em círculos sobre o jogo como um falcão em busca da snitch'
+Sum of sentence polarity: 0
+
+ sabes como é que na minha opinião eles escolhem os jogadores para os gryffindor
+Sentence: ' sabes como é que na minha opinião eles escolhem os jogadores para os gryffindor'
+Sum of sentence polarity: 0
+
+ disse malfoy bem alto alguns minutos mais tarde enquanto snape concedia aos hufflepuff outro penálti sem motivo nenhum
+Sentence: ' disse malfoy bem alto alguns minutos mais tarde enquanto snape concedia aos hufflepuff outro penálti sem motivo nenhum'
+Polarity of the word 'alto': 0
+Polarity of the word 'mais': 0
+Polarity of the word 'nenhum': 0
+Sum of sentence polarity: 0
+
+ são as pessoas de quem eles têm pena
+Sentence: ' são as pessoas de quem eles têm pena'
+Polarity of the word 'são': 1
+Sum of sentence polarity: 1
+
+olha o potter que não tem pai nem mãe os weasley que não têm onde cair mortos
+Sentence: 'olha o potter que não tem pai nem mãe os weasley que não têm onde cair mortos'
+Polarity of the word 'não': 1
+Polarity of the word 'não': 1
+Polarity of the word 'cair': -1
+Polarity of the word 'mortos': -1
+Sum of sentence polarity: 0
+
+tu deverias estar lá também longbottom não tens miolos
+Sentence: 'tu deverias estar lá também longbottom não tens miolos'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+neville ficou vermelho como um pimentão mas voltou-se no lugar olhando malfoy bem nos olhos
+Sentence: 'neville ficou vermelho como um pimentão mas voltou-se no lugar olhando malfoy bem nos olhos'
+Sum of sentence polarity: 0
+
+ eu valho doze de ti  gaguejou
+Sentence: ' eu valho doze de ti  gaguejou'
+Sum of sentence polarity: 0
+
+malfoy crabbe e goyle rebolaram-se a rir mas o ron não querendo desviar os olhos do jogo disse  isso mesmo neville
+Sentence: 'malfoy crabbe e goyle rebolaram-se a rir mas o ron não querendo desviar os olhos do jogo disse  isso mesmo neville'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ longbottom se os miolos fossem ouro tu eras mais pobre do que o weasley e olha que ele já é mais pobre que a pobreza
+Sentence: ' longbottom se os miolos fossem ouro tu eras mais pobre do que o weasley e olha que ele já é mais pobre que a pobreza'
+Polarity of the word 'mais': -3
+Polarity of the word 'pobre': -1
+Polarity of the word 'mais': -2
+Polarity of the word 'pobre': -1
+Polarity of the word 'pobreza': -1
+Sum of sentence polarity: -8
+
+os nervos de ron estavam já em franja por causa de harry
+Sentence: 'os nervos de ron estavam já em franja por causa de harry'
+Polarity of the word 'nervos': -1
+Sum of sentence polarity: -1
+
+ estou a avisar-te malfoy
+Sentence: ' estou a avisar-te malfoy'
+Sum of sentence polarity: 0
+
+voltas a abrir a boca e eu
+Sentence: 'voltas a abrir a boca e eu'
+Sum of sentence polarity: 0
+
+ ron  disse subitamente hermione
+Sentence: ' ron  disse subitamente hermione'
+Sum of sentence polarity: 0
+
+ olha o harry!
+Sentence: ' olha o harry!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ o quê
+Sentence: ' o quê'
+Sum of sentence polarity: 0
+
+onde
+Sentence: 'onde'
+Sum of sentence polarity: 0
+
+harry fizera uma descida espectacular que merecera gritos e ovações de todo o público
+Sentence: 'harry fizera uma descida espectacular que merecera gritos e ovações de todo o público'
+Polarity of the word 'espectacular': 1
+Sum of sentence polarity: 1
+
+hermione pôs-se de pé com os dedos cruzados em frente da boca enquanto harry mergulhava direito ao chão como uma bala
+Sentence: 'hermione pôs-se de pé com os dedos cruzados em frente da boca enquanto harry mergulhava direito ao chão como uma bala'
+Polarity of the word 'direito': 1
+Sum of sentence polarity: 1
+
+ estás com sorte weasley
+Sentence: ' estás com sorte weasley'
+Sum of sentence polarity: 0
+
+o teu amigo deve ter avistado dez tostões no chão!
+Sentence: 'o teu amigo deve ter avistado dez tostões no chão!'
+Polarity of the word 'amigo': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ disse o malfoy
+Sentence: ' disse o malfoy'
+Sum of sentence polarity: 0
+
+ron deu um salto e antes que malfoy tivesse tido tempo de perceber o que se passava já estava em cima dele atirando-o ao chão
+Sentence: 'ron deu um salto e antes que malfoy tivesse tido tempo de perceber o que se passava já estava em cima dele atirando-o ao chão'
+Sum of sentence polarity: 0
+
+neville hesitou mas acabou por saltar pelas costas do assento para ir ajudar
+Sentence: 'neville hesitou mas acabou por saltar pelas costas do assento para ir ajudar'
+Sum of sentence polarity: 0
+
+ vá lá harry!
+Sentence: ' vá lá harry!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ gritava hermione saltando no lugar para ver melhor a velocidade com que harry descia direito a snape  não reparara sequer que o malfoy e o ron rebolavam pelo chão nem dera pelo tumulto e pelos gritos vindos do turbilhão de socos e murros entre o neville o crabbe e o goyle
+Sentence: ' gritava hermione saltando no lugar para ver melhor a velocidade com que harry descia direito a snape  não reparara sequer que o malfoy e o ron rebolavam pelo chão nem dera pelo tumulto e pelos gritos vindos do turbilhão de socos e murros entre o neville o crabbe e o goyle'
+Polarity of the word 'melhor': 0
+Polarity of the word 'direito': 1
+Polarity of the word 'não': 1
+Polarity of the word 'tumulto': -1
+Sum of sentence polarity: 1
+
+lá em cima no ar snape voltou a vassoura mesmo a tempo de ver algo escarlate passar por ele falhando por centímetros  no segundo seguinte harry tinha terminado o mergulho
+Sentence: 'lá em cima no ar snape voltou a vassoura mesmo a tempo de ver algo escarlate passar por ele falhando por centímetros  no segundo seguinte harry tinha terminado o mergulho'
+Polarity of the word 'falhando': -1
+Sum of sentence polarity: -1
+
+com o braço no ar vitorioso mostrava a snitch que tinha na mão
+Sentence: 'com o braço no ar vitorioso mostrava a snitch que tinha na mão'
+Polarity of the word 'vitorioso': 1
+Polarity of the word 'tinha na mão': 1
+Sum of sentence polarity: 2
+
+as bancadas quase vieram abaixo
+Sentence: 'as bancadas quase vieram abaixo'
+Polarity of the word 'quase': 0
+Sum of sentence polarity: 0
+
+era um recorde que nunca fora atingido jamais a snitch tinha sido agarrada em tão pouco tempo
+Sentence: 'era um recorde que nunca fora atingido jamais a snitch tinha sido agarrada em tão pouco tempo'
+Polarity of the word 'nunca': 1
+Polarity of the word 'jamais': 1
+Polarity of the word 'agarrada': -1
+Polarity of the word 'tão': 0
+Polarity of the word 'pouco': 0
+Sum of sentence polarity: 1
+
+ ron!
+Sentence: ' ron!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ron!
+Sentence: 'ron!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+onde estás
+Sentence: 'onde estás'
+Sum of sentence polarity: 0
+
+o jogo acabou!
+Sentence: 'o jogo acabou!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+o harry venceu!
+Sentence: 'o harry venceu!'
+Polarity of the word 'venceu': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ganhámos!
+Sentence: 'ganhámos!'
+Polarity of the word 'ganhámos': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+os gryffindor estão na frente!
+Sentence: 'os gryffindor estão na frente!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ gritava hermione dançando e abraçando a parvati patil que estava sentada na fila da frente
+Sentence: ' gritava hermione dançando e abraçando a parvati patil que estava sentada na fila da frente'
+Sum of sentence polarity: 0
+
+harry saltou da vassoura a centímetros do chão
+Sentence: 'harry saltou da vassoura a centímetros do chão'
+Sum of sentence polarity: 0
+
+mal podia acreditar
+Sentence: 'mal podia acreditar'
+Polarity of the word 'acreditar': 0
+Sum of sentence polarity: 0
+
+tinha conseguido
+Sentence: 'tinha conseguido'
+Sum of sentence polarity: 0
+
+o jogo terminara
+Sentence: 'o jogo terminara'
+Sum of sentence polarity: 0
+
+durara apenas cinco minutos
+Sentence: 'durara apenas cinco minutos'
+Polarity of the word 'apenas': 0
+Sum of sentence polarity: 0
+
+quando os gryffindor começaram a encher o campo harry viu snape aterrar perto dele pálido e de lábios cerrados  harry sentiu então uma mão no ombro e olhou para o rosto sorridente de dumbledore
+Sentence: 'quando os gryffindor começaram a encher o campo harry viu snape aterrar perto dele pálido e de lábios cerrados  harry sentiu então uma mão no ombro e olhou para o rosto sorridente de dumbledore'
+Polarity of the word 'pálido': -1
+Polarity of the word 'cerrados': 0
+Polarity of the word 'sorridente': 1
+Sum of sentence polarity: 0
+
+ muito bem  disse dumbledore baixinho para que só harry pudesse ouvir
+Sentence: ' muito bem  disse dumbledore baixinho para que só harry pudesse ouvir'
+Polarity of the word 'muito': 0
+Sum of sentence polarity: 0
+
+ é bom ver que não ficaste perturbado por aquele espelho e que tens trabalhado a sério
+Sentence: ' é bom ver que não ficaste perturbado por aquele espelho e que tens trabalhado a sério'
+Polarity of the word 'bom': 1
+Polarity of the word 'não': 0
+Polarity of the word 'perturbado': 1
+Polarity of the word 'sério': 0
+Sum of sentence polarity: 2
+
+excelente!
+Sentence: 'excelente!'
+Polarity of the word 'excelente': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+snape cuspiu causticamente para o chão
+Sentence: 'snape cuspiu causticamente para o chão'
+Sum of sentence polarity: 0
+
+pouco depois harry saiu sozinho do vestiário para guardar a nimbas dois mil no barrado das vassouras
+Sentence: 'pouco depois harry saiu sozinho do vestiário para guardar a nimbas dois mil no barrado das vassouras'
+Polarity of the word 'pouco': 1
+Polarity of the word 'barrado': -1
+Sum of sentence polarity: 0
+
+não se lembrava de alguma vez ter estado tão feliz
+Sentence: 'não se lembrava de alguma vez ter estado tão feliz'
+Polarity of the word 'não': -1
+Polarity of the word 'tão': 1
+Polarity of the word 'feliz': 1
+Sum of sentence polarity: 1
+
+fizera algo de que podia a partir de agora orgulhar-se  ninguém voltaria a dizer-lhe que só era famoso pelo nome que tinha
+Sentence: 'fizera algo de que podia a partir de agora orgulhar-se  ninguém voltaria a dizer-lhe que só era famoso pelo nome que tinha'
+Polarity of the word 'ninguém': -1
+Polarity of the word 'famoso': 1
+Sum of sentence polarity: 0
+
+o ar do anoitecer nunca lhe parecera tão doce e agradável
+Sentence: 'o ar do anoitecer nunca lhe parecera tão doce e agradável'
+Polarity of the word 'nunca': -1
+Polarity of the word 'tão': 2
+Polarity of the word 'doce': 1
+Polarity of the word 'agradável': 1
+Sum of sentence polarity: 3
+
+caminhou sobre a relva macia revivendo aqueles momentos de uma hora antes os gryffindor a correrem para o levantar em ombros o ron e a hermione lá longe aos saltos o ron vibrando de alegria apesar de ter o nariz todo a sangrar
+Sentence: 'caminhou sobre a relva macia revivendo aqueles momentos de uma hora antes os gryffindor a correrem para o levantar em ombros o ron e a hermione lá longe aos saltos o ron vibrando de alegria apesar de ter o nariz todo a sangrar'
+Polarity of the word 'macia': 0
+Polarity of the word 'alegria': 1
+Sum of sentence polarity: 1
+
+chegou ao barracão encostou-se à porta de madeira e olhou para cima para hogwarts com as suas janelas avermelhadas pelo pôr do sol
+Sentence: 'chegou ao barracão encostou-se à porta de madeira e olhou para cima para hogwarts com as suas janelas avermelhadas pelo pôr do sol'
+Polarity of the word 'avermelhadas': 0
+Sum of sentence polarity: 0
+
+gryffindor a liderar
+Sentence: 'gryffindor a liderar'
+Sum of sentence polarity: 0
+
+ele conseguira ia mostrar ao snape
+Sentence: 'ele conseguira ia mostrar ao snape'
+Sum of sentence polarity: 0
+
+e por falar em snape
+Sentence: 'e por falar em snape'
+Sum of sentence polarity: 0
+
+uma silhueta encarapuçada desceu sorrateiramente os degraus da frente do castelo
+Sentence: 'uma silhueta encarapuçada desceu sorrateiramente os degraus da frente do castelo'
+Sum of sentence polarity: 0
+
+não querendo obviamente ser visto avançou tão rápido quanto lhe foi possível em direcção à floresta proibida
+Sentence: 'não querendo obviamente ser visto avançou tão rápido quanto lhe foi possível em direcção à floresta proibida'
+Polarity of the word 'não': -1
+Polarity of the word 'tão': 1
+Polarity of the word 'rápido': 1
+Polarity of the word 'quanto': 0
+Sum of sentence polarity: 1
+
+a vitória foi-se apagando da mente de harry enquanto o observava
+Sentence: 'a vitória foi-se apagando da mente de harry enquanto o observava'
+Polarity of the word 'vitória': 1
+Polarity of the word 'apagando': 1
+Polarity of the word 'mente': -1
+Sum of sentence polarity: 1
+
+reconheceu o coxear daquela silhueta
+Sentence: 'reconheceu o coxear daquela silhueta'
+Sum of sentence polarity: 0
+
+o snape a esgueirar-se para a floresta proibida enquanto todos os outros estavam a jantar  o que é que se passaria
+Sentence: 'o snape a esgueirar-se para a floresta proibida enquanto todos os outros estavam a jantar  o que é que se passaria'
+Sum of sentence polarity: 0
+
+harry saltou de novo para a nimbas dois mil e arrancou
+Sentence: 'harry saltou de novo para a nimbas dois mil e arrancou'
+Sum of sentence polarity: 0
+
+deslizando silenciosamente por sobre o castelo viu snape entrar na floresta a correr
+Sentence: 'deslizando silenciosamente por sobre o castelo viu snape entrar na floresta a correr'
+Sum of sentence polarity: 0
+
+seguiu-o
+Sentence: 'seguiu-o'
+Sum of sentence polarity: 0
+
+as árvores eram tão espessas que ele não conseguia vislumbrálo
+Sentence: 'as árvores eram tão espessas que ele não conseguia vislumbrálo'
+Polarity of the word 'tão': 0
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+voou em círculos cada vez mais baixos tocando os ramos cimeiros das árvores até que ouviu vozes
+Sentence: 'voou em círculos cada vez mais baixos tocando os ramos cimeiros das árvores até que ouviu vozes'
+Polarity of the word 'mais': 0
+Sum of sentence polarity: 0
+
+planou em direcção a elas e em seguida aterrou sem fazer baralho no alto de uma faia
+Sentence: 'planou em direcção a elas e em seguida aterrou sem fazer baralho no alto de uma faia'
+Polarity of the word 'baralho': 0
+Polarity of the word 'alto': 0
+Sum of sentence polarity: 0
+
+trepou com todo o cuidado ao longo das pernadas bem agarrado à vassoura tentando espreitar através das folhas
+Sentence: 'trepou com todo o cuidado ao longo das pernadas bem agarrado à vassoura tentando espreitar através das folhas'
+Polarity of the word 'cuidado': 1
+Polarity of the word 'agarrado': -1
+Sum of sentence polarity: 0
+
+lá em baixo numa espécie de clareira cheia de sombras estava snape mas não se encontrava sozinho
+Sentence: 'lá em baixo numa espécie de clareira cheia de sombras estava snape mas não se encontrava sozinho'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+quirrell fazia-lhe companhia
+Sentence: 'quirrell fazia-lhe companhia'
+Sum of sentence polarity: 0
+
+harry não conseguia ver o olhar dele mas gaguejava como nunca
+Sentence: 'harry não conseguia ver o olhar dele mas gaguejava como nunca'
+Polarity of the word 'não': 0
+Polarity of the word 'nunca': 0
+Sum of sentence polarity: 0
+
+esticou-se tentando perceber as suas palavras
+Sentence: 'esticou-se tentando perceber as suas palavras'
+Sum of sentence polarity: 0
+
+ nnnão sssssei ppporque quis encccontrar-se ccomigo logo aqqqui severus
+Sentence: ' nnnão sssssei ppporque quis encccontrar-se ccomigo logo aqqqui severus'
+Sum of sentence polarity: 0
+
+ oh!
+Sentence: ' oh!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+porque se trata de uma conversa em particular  disse snape na sua voz gelada
+Sentence: 'porque se trata de uma conversa em particular  disse snape na sua voz gelada'
+Polarity of the word 'gelada': -1
+Sum of sentence polarity: -1
+
+ ao fim e ao cabo os estudantes não devem saber da pedra filosofal
+Sentence: ' ao fim e ao cabo os estudantes não devem saber da pedra filosofal'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+harry inclinou-se para a frente
+Sentence: 'harry inclinou-se para a frente'
+Sum of sentence polarity: 0
+
+o quirrell gaguejava e snape interrompeu-o
+Sentence: 'o quirrell gaguejava e snape interrompeu-o'
+Sum of sentence polarity: 0
+
+ já conseguiu descobrir o meio de passarmos por aquela besta do cão do hagrid
+Sentence: ' já conseguiu descobrir o meio de passarmos por aquela besta do cão do hagrid'
+Polarity of the word 'besta': -1
+Sum of sentence polarity: -1
+
+ mmmas ssseverus eu
+Sentence: ' mmmas ssseverus eu'
+Sum of sentence polarity: 0
+
+ você não me quer ter como inimigo
+Sentence: ' você não me quer ter como inimigo'
+Polarity of the word 'não': 1
+Polarity of the word 'inimigo': -1
+Sum of sentence polarity: 0
+
+ou quer quirrell
+Sentence: 'ou quer quirrell'
+Sum of sentence polarity: 0
+
+ disse o snapç dando um passa em direcção a ele
+Sentence: ' disse o snapç dando um passa em direcção a ele'
+Sum of sentence polarity: 0
+
+ eu não sei o que vvvocê
+Sentence: ' eu não sei o que vvvocê'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ sabe muito bem o que eu quero dizer
+Sentence: ' sabe muito bem o que eu quero dizer'
+Polarity of the word 'muito': 0
+Sum of sentence polarity: 0
+
+um mocho piou tão alto que harry quase caiu da árvore abaixo
+Sentence: 'um mocho piou tão alto que harry quase caiu da árvore abaixo'
+Polarity of the word 'tão': -1
+Polarity of the word 'alto': 0
+Polarity of the word 'quase': 1
+Polarity of the word 'caiu': -1
+Sum of sentence polarity: -1
+
+equilibrou-se a tempo de ouvir o snape dizer  o seu bocadinho de hocus pocus
+Sentence: 'equilibrou-se a tempo de ouvir o snape dizer  o seu bocadinho de hocus pocus'
+Sum of sentence polarity: 0
+
+estou à espera
+Sentence: 'estou à espera'
+Sum of sentence polarity: 0
+
+ m as eu não sssei
+Sentence: ' m as eu não sssei'
+Polarity of the word 'não': 0
+Sum of sentence polarity: 0
+
+ muito bem  cortou snape
+Sentence: ' muito bem  cortou snape'
+Polarity of the word 'muito': 0
+Sum of sentence polarity: 0
+
+ vamos voltar a ter uma conversinha muito em breve quando você tiver tido tempo de repensar e decidir a quem quer ser leal
+Sentence: ' vamos voltar a ter uma conversinha muito em breve quando você tiver tido tempo de repensar e decidir a quem quer ser leal'
+Polarity of the word 'muito': 1
+Polarity of the word 'leal': 1
+Sum of sentence polarity: 2
+
+lançou o manto sobre a cabeça e desapareceu da clareira estava a escurecer muito rapidamente mas harry ainda conseguiu ver o quirrell imóvel como que petrificado
+Sentence: 'lançou o manto sobre a cabeça e desapareceu da clareira estava a escurecer muito rapidamente mas harry ainda conseguiu ver o quirrell imóvel como que petrificado'
+Polarity of the word 'muito': -2
+Polarity of the word 'imóvel': -1
+Polarity of the word 'petrificado': -1
+Sum of sentence polarity: -4
+
+ harry onde é que tens estado
+Sentence: ' harry onde é que tens estado'
+Sum of sentence polarity: 0
+
+ perguntou hermione na sua voz aguda
+Sentence: ' perguntou hermione na sua voz aguda'
+Polarity of the word 'aguda': 0
+Sum of sentence polarity: 0
+
+ ganhámos!
+Sentence: ' ganhámos!'
+Polarity of the word 'ganhámos': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ganhámos!
+Sentence: 'ganhámos!'
+Polarity of the word 'ganhámos': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ganhámos!
+Sentence: 'ganhámos!'
+Polarity of the word 'ganhámos': 1
+Sum of sentence polarity: 2
+ (with exclamation booster)
+
+ gritava o ron dando palmadas nas costas do amigo
+Sentence: ' gritava o ron dando palmadas nas costas do amigo'
+Polarity of the word 'amigo': 1
+Sum of sentence polarity: 1
+
+ deixei o malfoy com um olho negro e o neville bateu-se sozinho contra o crabbe e o goyle!
+Sentence: ' deixei o malfoy com um olho negro e o neville bateu-se sozinho contra o crabbe e o goyle!'
+Sum of sentence polarity: 0
+ (with exclamation booster)
+
+ele ainda está magoado mas a madame pomfrey diz que vai ficar bem  e falando em mostrar aos slytherin
+Sentence: 'ele ainda está magoado mas a madame pomfrey diz que vai ficar bem  e falando em mostrar aos slytherin'
+Polarity of the word 'magoado': -1
+Sum of sentence polarity: -1
+
+estava toda a gente à tua espera na sala comum
+Sentence: 'estava toda a gente à tua espera na sala comum'
+Sum of sentence polarity: 0
+
+estamos a festejar o fred e o george fanaram uns bolos e umas coisas das cozinhas
+Sentence: 'estamos a festejar o fred e o george fanaram uns bolos e umas coisas das cozinhas'
+Sum of sentence polarity: 0
+
+ esqueçam isso agora  disse harry sem fôlego
+Sentence: ' esqueçam isso agora  disse harry sem fôlego'
+Sum of sentence polarity: 0
+
+ vamos procurar uma sala vazia
+Sentence: ' vamos procurar uma sala vazia'
+Polarity of the word 'vazia': -1
+Sum of sentence polarity: -1
+
+esperem só até ouvirem o que tenho para vos contar
+Sentence: 'esperem só até ouvirem o que tenho para vos contar'
+Sum of sentence polarity: 0
+
+harry assegurou-se de que o peeves não estava lá dentro antes de fechar a porta atrás de si e em seguida contou-lhes o que tinha visto e ouvido
+Sentence: 'harry assegurou-se de que o peeves não estava lá dentro antes de fechar a porta atrás de si e em seguida contou-lhes o que tinha visto e ouvido'
+Polarity of the word 'não': 0
+Polarity of the word 'ouvido': 0
+Sum of sentence polarity: 0
+
+ portanto estávamos certos é a pedra filosofa e o snape está a tentar obrigar o quirrell a ajudálo a roubála
+Sentence: ' portanto estávamos certos é a pedra filosofa e o snape está a tentar obrigar o quirrell a ajudálo a roubála'
+Polarity of the word 'certos': 1
+Sum of sentence polarity: 1
+
+perguntou-lhe se ele sabia como passar pelo fluffy e disse qualquer coisa sobre o hocus pocus do quirrell  suponho que deve haver outras coisas a guardar a pedra além do fluffy encantamentos provavelmente e o quirrell deve ter feito um feitiço qualquer contra as artes das trevas de que o snape precisa para conseguir passar
+Sentence: 'perguntou-lhe se ele sabia como passar pelo fluffy e disse qualquer coisa sobre o hocus pocus do quirrell  suponho que deve haver outras coisas a guardar a pedra além do fluffy encantamentos provavelmente e o quirrell deve ter feito um feitiço qualquer contra as artes das trevas de que o snape precisa para conseguir passar'
+Polarity of the word 'feitiço': -1
+Sum of sentence polarity: -1
+
+ queres com isso dizer que a pedra só está a salvo enquanto o quirrell fizer frente ao snape
+Sentence: ' queres com isso dizer que a pedra só está a salvo enquanto o quirrell fizer frente ao snape'
+Polarity of the word 'salvo': 1
+Sum of sentence polarity: 1
+
+ perguntou alarmada hermione
+Sentence: ' perguntou alarmada hermione'
+Sum of sentence polarity: 0
+
+ ela vai sair dali na próxima terça-feira  lembrou o ron
+Sentence: ' ela vai sair dali na próxima terça-feira  lembrou o ron'
+Sum of sentence polarity: 0
+
+Total Polarity: -2
+
+Total Words: 297
+
+Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.
