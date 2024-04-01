@@ -3086,4 +3086,9 @@ Total Polarity: -49
 
 Total Words: 606
 
+Total Positive Words: 119
+Total Negative Words: 169
+Total Negations: 79
+Total Positive Boosters: 63
+Total Negative Boosters: 5
 Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.
