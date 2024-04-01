@@ -15,6 +15,7 @@ language = 'portuguese'
 #Criando a lista de stopwords
 stopwords = stopwords.words(language)
 stopwords = list(set(stopwords))
+print(stopwords)
 
 def remove_stopwords(words):
     """Remover as Stopwords das palavras tokenizadas"""
