@@ -43,11 +43,7 @@ def main():
         "jinja2",
         "vaderSentiment",
         "spacy",
-        "nltk",
-        "codecs",
-        "json",
-        "os",
-        "re"
+        "nltk"
     ]
 
     [project.scripts]
