@@ -46,6 +46,7 @@ def main():
         "vaderSentiment",
         "spacy",
         "nltk",
+        "matplotlib",
         "pt_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.7.0/pt_core_news_lg-3.7.0-py3-none-any.whl"
     ]
 
