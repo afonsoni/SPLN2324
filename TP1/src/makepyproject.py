@@ -9,14 +9,14 @@ from glob import glob
 import json
 import os
 
-__version__ = "0.1.0"
+__version__ = "0.0.1"
 
 def main():
     name = "sentilexpt"
 
     v = jjcli.qx(f"grep name '{name}'.py")
     print('debug',len(v))
-    version = "0.1.0"
+    version = "0.0.1"
 
     pp = jinja2.Template('''
     [build-system]
@@ -26,7 +26,9 @@ def main():
     [project]
     name = "{{ name }}"
     authors = [
-        {name = "{{ author1 }}", email = "{{ email1 }}"},
+        {% for author in authors %}
+        {name = "{{author.name}}", email = "{{author.email}}"},
+        {% endfor %}
     ]
 
     version = "{{ version }}"
@@ -43,7 +45,8 @@ def main():
         "jinja2",
         "vaderSentiment",
         "spacy",
-        "nltk"
+        "nltk",
+        "pt_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.7.0/pt_core_news_lg-3.7.0-py3-none-any.whl"
     ]
 
     [project.scripts]
@@ -60,17 +63,9 @@ def main():
     # Load metadata from METADATA.json
     with open(metadata_path, 'r') as file:
         data = json.load(file)
-        autor1 = data.get("name1", "")
-        email1 = data.get("email1", "")
-        numero1 = data.get("number1", "")
-        autor2 = data.get("name2", "")
-        email2 = data.get("email2", "")
-        numero2 = data.get("number2", "")
-        autor3 = data.get("name3", "")
-        email3 = data.get("email3", "")
-        numero3 = data.get("number3", "")
+        authors = data["authors"]
 
-    out = pp.render({"version":version, "name":name, "author1":autor1, "author2":autor2, "author3":autor3, "email1":email1, "email2":email2, "email3":email3, "number1":numero1, "number2":numero2, "number3":numero3})
+    out = pp.render({"version":version, "name":name, "authors":authors})
     print("debug",out)
     
     # Write generated output to pyproject.toml

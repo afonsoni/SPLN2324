@@ -12,11 +12,16 @@ import os
 __version__ = "0.0.1"
 
 def main():
-    nodes = glob('*.py')
-    if len(nodes)>=1:
-        name = nodes[0].replace('.py', '')
+    #project name
+    modes = glob("*.py")
+    if len(modes)==1:
+        name = modes[0].replace(".py","")
+    elif len(modes)>1:
+        print(modes)
+        name = input("Modulo?").replace(".py","")
     else:
-        name = input('Modulo?')
+        name = input("Modulo?").replace(".py","")
+    
 
     v = jjcli.qx(f"grep name '{name}'.py")
     print('debug',len(v))

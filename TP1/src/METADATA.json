@@ -1,11 +1,7 @@
 {
-    "name1": "Afonso Ferreira",
-    "email1": "pg52669@alunos.uminho.pt",
-	"number1": 52669,
-    "name2": "Joana Pereira",
-    "email2": "pg53895@alunos.uminho.pt",
-    "number2": 53895,
-    "name3": "Fernando Alves",
-    "email3": "pg54470@alunos.uminho.pt",
-    "number3": 54470
+    "authors": [
+        {"name": "Afonso Ferreira", "email": "pg52669@alunos.uminho.pt"},
+        {"name": "Fernando Alves", "email": "pg54470@alunos.uminho.pt"},
+        {"name": "Joana Pereira", "email": "pg53895@alunos.uminho.pt"}
+    ]
 }

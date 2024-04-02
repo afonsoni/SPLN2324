@@ -6,10 +6,16 @@
     [project]
     name = "sentilexpt"
     authors = [
+        
         {name = "Afonso Ferreira", email = "pg52669@alunos.uminho.pt"},
+        
+        {name = "Fernando Alves", email = "pg54470@alunos.uminho.pt"},
+        
+        {name = "Joana Pereira", email = "pg53895@alunos.uminho.pt"},
+        
     ]
 
-    version = "0.1.0"
+    version = "0.0.1"
 
     Classifiers = [
         "License :: OSI Approved :: MIT License",
@@ -23,7 +29,8 @@
         "jinja2",
         "vaderSentiment",
         "spacy",
-        "nltk"
+        "nltk",
+        "pt_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.7.0/pt_core_news_lg-3.7.0-py3-none-any.whl"
     ]
 
     [project.scripts]
