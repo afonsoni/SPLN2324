@@ -12,8 +12,28 @@ import re
 from nltk.tokenize import sent_tokenize
 
 import os
+import matplotlib.pyplot as plt
 
-__version__ = "0.1.0"
+__version__ = "0.0.1"
+
+lista = []
+
+# Boosters positivos
+positive_boosters = ['muito', 'demais', 'bastante', 'mais', 'tão', 'tanto', 'quanto', 'quão' ]
+
+# Boosters negativos
+negative_boosters = ['menos', 'pouco', 'apenas', 'somente', 'quase']
+
+# Boosters exclamação - Caso a frase seja positiva, acrescenta um, caso a frase seja negativa diminui um, caso seja neutra nao faz nada.
+exclamation_boosters= ['!']
+
+# Negadores
+negation_words = ['não', 'ninguém', 'num', 'nada', 'nenhum', 'nunca', 'jamais']
+
+# Carregar o modelo da língua portuguesa
+nlp = spacy.load("pt_core_news_lg")
+
+matcher = spacy.matcher.Matcher(nlp.vocab)
 
 # criar dicionário sentilexpt com as palavras e respetivas polaridades
 def sentiLexFlexToDict():
@@ -39,6 +59,9 @@ def sentiLexFlexToDict():
     return sorted_dict #SentiLex-Flex em Dict
     
 #print(sentiLexFlexToDict())
+
+# Carregar o dicionário SentiLexFlex
+senti_lex_dict = sentiLexFlexToDict()
 
 
 def custom_sent_tokenize(text):
@@ -87,26 +110,6 @@ def normalize(words):
     #return ' '.join(words)
     return words
 
-
-# Boosters positivos
-positive_boosters = ['muito', 'demais', 'bastante', 'mais', 'tão', 'tanto', 'quanto', 'quão' ]
-
-# Boosters negativos
-negative_boosters = ['menos', 'pouco', 'apenas', 'somente', 'quase']
-
-# Boosters exclamação - Caso a frase seja positiva, acrescenta um, caso a frase seja negativa diminui um, caso seja neutra nao faz nada.
-exclamation_boosters= ['!']
-
-# Negadores
-negation_words = ['não', 'ninguém', 'num', 'nada', 'nenhum', 'nunca', 'jamais']
-
-# Carregar o modelo da língua portuguesa
-nlp = spacy.load("pt_core_news_lg")
-
-matcher = spacy.matcher.Matcher(nlp.vocab)
-
-# Carregar o dicionário SentiLexFlex
-senti_lex_dict = sentiLexFlexToDict()
 
 def calculate_polarity_and_save(normalized, output_file):
     # Polaridade total do texto
@@ -179,6 +182,40 @@ def calculate_polarity_and_save(normalized, output_file):
         f.write(f"Total Negative Boosters: {total_negative_boosters}\n")
         f.write("Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.")
 
+# this function will update each output_HP polarity and save in a new folder "updated_outputHP"
+def update_text_polarity(file_paths):
+    # Function to extract polarity numbers from the text
+    def extract_polarity(text):
+        # Regular expression pattern to find polarity numbers
+        pattern = r"Total Polarity: (-?\d+)"
+        polarity_match = re.search(pattern, text)
+        if polarity_match:
+            return int(polarity_match.group(1))
+        else:
+            return None
+
+    # Function to read and process each text file
+    def process_text_file(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            text = file.read()
+            polarity = extract_polarity(text)
+            return polarity
+
+    # Process each file and store mean polarities
+    mean_polarities = []
+    for i, file_path in enumerate(file_paths):  # Add 'enumerate()' to iterate over indices and values
+        polarity = process_text_file(f"outputHP/{file_path}")
+        mean_polarities.append(polarity)
+
+    # Calculate the overall mean polarity
+    overall_mean_polarity = int(sum(mean_polarities) / len(mean_polarities))
+
+    for i, file_path in enumerate(file_paths):  # Add 'enumerate()' to iterate over indices and values
+        with open("updated_outputHP/updated_" + file_path, 'w', encoding='utf-8') as file:
+            new_polarity = mean_polarities[i] - overall_mean_polarity
+            file.write(f"Mean Polarity: {mean_polarities[i]}\n")
+            file.write(f"New Polarity (with mean in zero): {new_polarity}\n")
+            lista.append(new_polarity)
 
 def main():
 
@@ -232,6 +269,17 @@ def main():
         calculate_polarity_and_save(normalized, output_path)
         print(f"Terminado: {output_file}")
 
+    # Update text polarity
+    update_text_polarity(output_files)
+
+    x = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']
+
+    y = lista
+
+    plt.bar(x,y)
+    plt.xlabel('Capítulos')
+    plt.ylabel('Polaridade')
+    plt.savefig('BarPlot_new.png')
 
 if __name__ == '__main__':
     main()
