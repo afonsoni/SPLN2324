@@ -11,8 +11,6 @@ def read(filename):
 PT = read('../HP.txt')
 EN = read('../HP_ingles.txt')
 
-
-
 # Análise de sentimento em inglês
 analyzer = SentimentIntensityAnalyzer()
 sentimentos_ingles = [analyzer.polarity_scores(texto)["compound"] for texto in EN]

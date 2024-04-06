@@ -1,2 +1,2 @@
-Mean Polarity: -70
-New Polarity (with mean in zero): -25
+Mean Polarity: -68
+New Polarity (with mean in zero): -21

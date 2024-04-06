@@ -73,19 +73,6 @@ def custom_sent_tokenize(text):
         tokenized_sentences.extend(sent_tokenize(sentence))
     return tokenized_sentences
 
-#frases = [
-    #"Este filme é muito chato.",
-    #"Eu nunca vi algo tão bonito.", #problema pk apesar de ter negador sclhr nao faz sentido alterar a polaridade
-    #"Isso é menos interessante do que eu esperava.",
-    #"Ele é bastante inteligente.",
-    #"Nada me deixa mais feliz do que isso!", # problema
-    #"O Bernardo, quando encontra um gajo feio, vai à luta!",
-    #"O Bernardo, quando encontra um gajo feio, não vai à luta!",
-    #"O Bernardo é muito menos feio do que o João!",
-    #"O Tiago é pouco mais alto que o João!",
-#]
-#print(frases)
-
 def to_lowercase(sentences):
     """converter todos os caracteres para lowercase"""
     new_sentences = []
@@ -139,23 +126,23 @@ def calculate_polarity_and_save(normalized, output_file):
                 if token.text in exclamation_boosters:
                     exclamation = True
                 if token.text in senti_lex_dict.keys() or token.text in (positive_boosters + negative_boosters + negation_words):
-                    word_polarity = 0  # Inicializar a polaridade da palavra
+                    word_polarity = 0.0  # Inicializar a polaridade da palavra
                     # verificar se é um booster positivo ou negativo e a polaridade à sua direita
                     if token.text in positive_boosters:
                         for j in range(i+1,len(doc)):
                             if doc[j].text in senti_lex_dict.keys():
                                 total_positive_boosters += 1
-                                word_polarity += int(senti_lex_dict[doc[j].text.lower()])
+                                word_polarity += float(senti_lex_dict[doc[j].text.lower()])
                     elif token.text in negative_boosters:
                         for j in range(i+1,len(doc)):
                             if doc[j].text in senti_lex_dict.keys():
                                 total_negative_boosters += 1
-                                word_polarity -= int(senti_lex_dict[doc[j].text.lower()])
+                                word_polarity = float(senti_lex_dict[doc[j].text.lower()]) * -0.5
                     elif token.text in negation_words:
                         for j in range(i+1,len(doc)):
                             if doc[j].text in senti_lex_dict.keys():
                                 total_negations += 1
-                                word_polarity = int(senti_lex_dict[doc[j].text.lower()]) * -1
+                                word_polarity = float(senti_lex_dict[doc[j].text.lower()]) * -1
                     elif token.text in senti_lex_dict:
                         word_polarity = int(senti_lex_dict[token.text])
                         if int(senti_lex_dict[token.text]) > 0:
@@ -204,7 +191,7 @@ def update_text_polarity(file_paths):
     # Process each file and store mean polarities
     mean_polarities = []
     for i, file_path in enumerate(file_paths):  # Add 'enumerate()' to iterate over indices and values
-        polarity = process_text_file(f"outputHP/{file_path}")
+        polarity = process_text_file(f"output/{file_path}")
         mean_polarities.append(polarity)
 
     # Calculate the overall mean polarity
@@ -218,31 +205,7 @@ def update_text_polarity(file_paths):
             lista.append(new_polarity)
 
 def main():
-
-    frases = custom_sent_tokenize(open('corpus/HP_I.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_II.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_III.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_IV.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_V.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_VI.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_VII.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_VIII.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_IX.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_X.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XI.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XII.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XIII.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XIV.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XV.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XVI.txt', 'r').read())
-    frases = custom_sent_tokenize(open('corpus/HP_XVII.txt', 'r').read())
-
-    normalized = normalize(frases)
-
-    # print(normalized)
-
     # verificar se existe uma palavra ou frase no dicionário sentilexpt na frase tokenizada
-
     for palavra in senti_lex_dict.keys():
         if ' ' in palavra:
             pattern = []
@@ -250,16 +213,15 @@ def main():
                 pattern.append({"LOWER":pal})
             matcher.add(palavra, [pattern])
 
-
     # Criar a pasta outputHP se não existir
-    output_folder = "outputHP"
+    output_folder = "output"
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
     # Lista de arquivos HP
-    hp_files = ['corpus/HP_I.txt', 'corpus/HP_II.txt', 'corpus/HP_III.txt', 'corpus/HP_IV.txt', 'corpus/HP_V.txt', 'corpus/HP_VI.txt', 'corpus/HP_VII.txt', 'corpus/HP_VIII.txt', 'corpus/HP_IX.txt', 'corpus/HP_X.txt', 'corpus/HP_XI.txt', 'corpus/HP_XII.txt', 'corpus/HP_XIII.txt', 'corpus/HP_XIV.txt', 'corpus/HP_XV.txt', 'corpus/HP_XVI.txt', 'corpus/HP_XVII.txt']
+    hp_files = ['frases.txt', 'corpus/HP_I.txt', 'corpus/HP_II.txt', 'corpus/HP_III.txt', 'corpus/HP_IV.txt', 'corpus/HP_V.txt', 'corpus/HP_VI.txt', 'corpus/HP_VII.txt', 'corpus/HP_VIII.txt', 'corpus/HP_IX.txt', 'corpus/HP_X.txt', 'corpus/HP_XI.txt', 'corpus/HP_XII.txt', 'corpus/HP_XIII.txt', 'corpus/HP_XIV.txt', 'corpus/HP_XV.txt', 'corpus/HP_XVI.txt', 'corpus/HP_XVII.txt']
     # Nome dos arquivos de saída
-    output_files = ['output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt', 'output_HP_VII.txt', 'output_HP_VIII.txt', 'output_HP_IX.txt', 'output_HP_X.txt', 'output_HP_XI.txt', 'output_HP_XII.txt', 'output_HP_XIII.txt', 'output_HP_XIV.txt', 'output_HP_XV.txt', 'output_HP_XVI.txt', 'output_HP_XVII.txt']
+    output_files = ['output_frases.txt', 'output_HP_I.txt', 'output_HP_II.txt', 'output_HP_III.txt', 'output_HP_IV.txt', 'output_HP_V.txt', 'output_HP_VI.txt', 'output_HP_VII.txt', 'output_HP_VIII.txt', 'output_HP_IX.txt', 'output_HP_X.txt', 'output_HP_XI.txt', 'output_HP_XII.txt', 'output_HP_XIII.txt', 'output_HP_XIV.txt', 'output_HP_XV.txt', 'output_HP_XVI.txt', 'output_HP_XVII.txt']
 
     # Loop sobre cada arquivo HP
     for hp_file, output_file in zip(hp_files, output_files):
@@ -270,7 +232,7 @@ def main():
         print(f"Terminado: {output_file}")
 
     # Update text polarity
-    update_text_polarity(output_files)
+    update_text_polarity(output_files[1:])
 
     x = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']
 

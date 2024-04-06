@@ -81,9 +81,9 @@ Sum of sentence polarity: -3
 o gigante forçou a entrada na choupana baixando a cabeça para não bater no tecto
 Sentence: 'o gigante forçou a entrada na choupana baixando a cabeça para não bater no tecto'
 Polarity of the word 'gigante': 0
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'bater': 1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 inclinou-se apanhou a porta e colocou-a de novo com a maior facilidade nas dobradiças
 Sentence: 'inclinou-se apanhou a porta e colocou-a de novo com a maior facilidade nas dobradiças'
@@ -93,8 +93,8 @@ Sum of sentence polarity: 0
 o estrépito da tempestade diminuiu um pouco
 Sentence: 'o estrépito da tempestade diminuiu um pouco'
 Polarity of the word 'diminuiu': 1
-Polarity of the word 'pouco': 0
-Sum of sentence polarity: 1
+Polarity of the word 'pouco': 0.0
+Sum of sentence polarity: 1.0
 
 ele voltou-se para olhar bem para toda a família
 Sentence: 'ele voltou-se para olhar bem para toda a família'
@@ -106,9 +106,9 @@ Sum of sentence polarity: 0
 
 não foi uma viagem fácil
 Sentence: 'não foi uma viagem fácil'
-Polarity of the word 'não': 0
+Polarity of the word 'não': -0.0
 Polarity of the word 'fácil': 0
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 deu uma enorme passada em direcção ao sofá onde o dudley estava sentado a tremer de medo
 Sentence: 'deu uma enorme passada em direcção ao sofá onde o dudley estava sentado a tremer de medo'
@@ -160,9 +160,9 @@ Sum of sentence polarity: 0
  é engraçado pareces-te bastante com o teu pai mas os olhos são os da tua mãe
 Sentence: ' é engraçado pareces-te bastante com o teu pai mas os olhos são os da tua mãe'
 Polarity of the word 'engraçado': 1
-Polarity of the word 'bastante': 1
+Polarity of the word 'bastante': 1.0
 Polarity of the word 'são': 1
-Sum of sentence polarity: 3
+Sum of sentence polarity: 3.0
 
 o tio vernon fez um ruído áspero e estranho
 Sentence: 'o tio vernon fez um ruído áspero e estranho'
@@ -272,10 +272,10 @@ Sum of sentence polarity: 0
 
  eu não digo que não se moferecerem alguma coisa forte pra tomar
 Sentence: ' eu não digo que não se moferecerem alguma coisa forte pra tomar'
-Polarity of the word 'não': -1
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
+Polarity of the word 'não': -1.0
 Polarity of the word 'forte': 1
-Sum of sentence polarity: -1
+Sum of sentence polarity: -1.0
 
 os olhos detiveram-se no fogão de sala vazio com os pacotes de batatas fritas semiardidos
 Sentence: 'os olhos detiveram-se no fogão de sala vazio com os pacotes de batatas fritas semiardidos'
@@ -289,20 +289,20 @@ Sum of sentence polarity: 0
 
 inclinou-se sobre a lareira de tal modo que ninguém conseguia ver o que estava a fazer mas quando se afastou um segundo depois havia ali um lume forte que enchia a cabana de luz e harry sentiu o calor envolvêlo como se tivesse acabado de entrar num banho quente
 Sentence: 'inclinou-se sobre a lareira de tal modo que ninguém conseguia ver o que estava a fazer mas quando se afastou um segundo depois havia ali um lume forte que enchia a cabana de luz e harry sentiu o calor envolvêlo como se tivesse acabado de entrar num banho quente'
-Polarity of the word 'ninguém': 0
+Polarity of the word 'ninguém': -0.0
 Polarity of the word 'afastou': 0
 Polarity of the word 'forte': 1
 Polarity of the word 'acabado': -1
-Polarity of the word 'num': 0
+Polarity of the word 'num': -0.0
 Polarity of the word 'quente': 0
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 o gigante sentou-se no sofá que abateu com o seu peso e começou a tirar as mais diversas coisas dos bolsos do sobretudo uma chaleira de cobre uma embalagem amolgada de salsichas um atiçador de fogão um bule várias canecas rachadas e uma garrafa de um líquido âmbar da qual bebeu um trago antes de começar a fazer o chá
 Sentence: 'o gigante sentou-se no sofá que abateu com o seu peso e começou a tirar as mais diversas coisas dos bolsos do sobretudo uma chaleira de cobre uma embalagem amolgada de salsichas um atiçador de fogão um bule várias canecas rachadas e uma garrafa de um líquido âmbar da qual bebeu um trago antes de começar a fazer o chá'
 Polarity of the word 'gigante': 0
 Polarity of the word 'abateu': 1
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 1
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 1.0
 
 poucos minutos depois a cabana estava cheia do som e do cheirinho das salsichas a serem fritas
 Sentence: 'poucos minutos depois a cabana estava cheia do som e do cheirinho das salsichas a serem fritas'
@@ -311,16 +311,16 @@ Sum of sentence polarity: -1
 
 ninguém disse palavra enquanto o gigante fazia o seu trabalho mas quando ele fez deslizar para fora do ferro as primeiras seis salsichas sumarentas e ligeiramente tostadas o dudley mostrou-se inquieto
 Sentence: 'ninguém disse palavra enquanto o gigante fazia o seu trabalho mas quando ele fez deslizar para fora do ferro as primeiras seis salsichas sumarentas e ligeiramente tostadas o dudley mostrou-se inquieto'
-Polarity of the word 'ninguém': 1
+Polarity of the word 'ninguém': 1.0
 Polarity of the word 'gigante': 0
 Polarity of the word 'inquieto': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 o tio vernon disse-lhe secamente  não mexas em nada ele dáte dudley
 Sentence: 'o tio vernon disse-lhe secamente  não mexas em nada ele dáte dudley'
-Polarity of the word 'não': 0
-Polarity of the word 'nada': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'nada': 0.0
+Sum of sentence polarity: 0.0
 
 o gigante riu-se
 Sentence: 'o gigante riu-se'
@@ -329,30 +329,30 @@ Sum of sentence polarity: 0
 
  o grande pudim do teu filho não precisa de engordar mais dursley não te preocupes
 Sentence: ' o grande pudim do teu filho não precisa de engordar mais dursley não te preocupes'
-Polarity of the word 'não': 0
-Polarity of the word 'mais': 0
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'mais': 0.0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 passou as salsichas ao harry que estava com tanta fome que teve a impressão de nunca ter comido nada tão saboroso em toda a sua vida
 Sentence: 'passou as salsichas ao harry que estava com tanta fome que teve a impressão de nunca ter comido nada tão saboroso em toda a sua vida'
 Polarity of the word 'fome': -1
-Polarity of the word 'nunca': 0
-Polarity of the word 'nada': 0
-Polarity of the word 'tão': 0
-Sum of sentence polarity: -1
+Polarity of the word 'nunca': 0.0
+Polarity of the word 'nada': 0.0
+Polarity of the word 'tão': 0.0
+Sum of sentence polarity: -1.0
 
 não conseguia tirar os olhos do gigante
 Sentence: 'não conseguia tirar os olhos do gigante'
-Polarity of the word 'não': 0
+Polarity of the word 'não': -0.0
 Polarity of the word 'gigante': 0
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 por fim como ninguém lhe explicava o quer que fosse disse  desculpe mas eu ainda não sei quem o senhor é realmente
 Sentence: 'por fim como ninguém lhe explicava o quer que fosse disse  desculpe mas eu ainda não sei quem o senhor é realmente'
-Polarity of the word 'ninguém': 0
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'ninguém': 0.0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 o gigante tomou um gole de chá limpou a boca com a palma da mão
 Sentence: 'o gigante tomou um gole de chá limpou a boca com a palma da mão'
@@ -373,8 +373,8 @@ Sum of sentence polarity: 0
 
  er não  disse harry
 Sentence: ' er não  disse harry'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 hagrid ficou estarrecido
 Sentence: 'hagrid ficou estarrecido'
@@ -383,8 +383,8 @@ Sum of sentence polarity: -1
 
  desculpe  completou harry o mais rapidamente possível
 Sentence: ' desculpe  completou harry o mais rapidamente possível'
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 0
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 0.0
 
  desculpe
 Sentence: ' desculpe'
@@ -403,14 +403,14 @@ Sum of sentence polarity: 2
 
 eu sabia que não estavas a receber as cartas mas nunca pensei que nem sequer soubesses o que era hogwarts
 Sentence: 'eu sabia que não estavas a receber as cartas mas nunca pensei que nem sequer soubesses o que era hogwarts'
-Polarity of the word 'não': 0
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
 nunca tiveste curiosidade de saber onde os teus pais aprenderam tudo
 Sentence: 'nunca tiveste curiosidade de saber onde os teus pais aprenderam tudo'
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
  tudo o quê
 Sentence: ' tudo o quê'
@@ -435,8 +435,8 @@ Sum of sentence polarity: 0
 
 ele pusera-se de pé num salto
 Sentence: 'ele pusera-se de pé num salto'
-Polarity of the word 'num': 0
-Sum of sentence polarity: 0
+Polarity of the word 'num': 0.0
+Sum of sentence polarity: 0.0
 
 em toda a sua raiva parecia encher por completo a choupana
 Sentence: 'em toda a sua raiva parecia encher por completo a choupana'
@@ -455,27 +455,27 @@ Sum of sentence polarity: -2
 
  não sabe nada de nada
 Sentence: ' não sabe nada de nada'
-Polarity of the word 'não': 0
-Polarity of the word 'nada': 0
-Polarity of the word 'nada': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'nada': 0.0
+Polarity of the word 'nada': 0.0
+Sum of sentence polarity: 0.0
 
 harry achou que as coisas estavam a ir um pouco longe de mais
 Sentence: 'harry achou que as coisas estavam a ir um pouco longe de mais'
-Polarity of the word 'pouco': 0
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 0
+Polarity of the word 'pouco': 0.0
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 0.0
 
 também não era assim
 Sentence: 'também não era assim'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 ele tinha ido à escola e ao fim e ao cabo até nem tivera muito más notas
 Sentence: 'ele tinha ido à escola e ao fim e ao cabo até nem tivera muito más notas'
-Polarity of the word 'muito': -1
+Polarity of the word 'muito': -1.0
 Polarity of the word 'más': -1
-Sum of sentence polarity: -2
+Sum of sentence polarity: -2.0
 
  eu sei algumas coisas  disse
 Sentence: ' eu sei algumas coisas  disse'
@@ -513,9 +513,9 @@ Sum of sentence polarity: 0
 
 o tio vernon que ficara de repente muito pálido murmurou qualquer coisa que pareceu  mimblewimble
 Sentence: 'o tio vernon que ficara de repente muito pálido murmurou qualquer coisa que pareceu  mimblewimble'
-Polarity of the word 'muito': -1
+Polarity of the word 'muito': -1.0
 Polarity of the word 'pálido': -1
-Sum of sentence polarity: -2
+Sum of sentence polarity: -2.0
 
 hagrid olhou fixamente para harry
 Sentence: 'hagrid olhou fixamente para harry'
@@ -542,19 +542,19 @@ Sum of sentence polarity: 1
 
  tu não sabes
 Sentence: ' tu não sabes'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
  não sabes  hagrid passou os dedos pelos cabelos olhando para harry com um olhar desnorteado
 Sentence: ' não sabes  hagrid passou os dedos pelos cabelos olhando para harry com um olhar desnorteado'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'desnorteado': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
  tu não sabes o que és
 Sentence: ' tu não sabes o que és'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
  perguntou por fim
 Sentence: ' perguntou por fim'
@@ -566,8 +566,8 @@ Sum of sentence polarity: 0
 
  pare  disse num tom de comando
 Sentence: ' pare  disse num tom de comando'
-Polarity of the word 'num': 0
-Sum of sentence polarity: 0
+Polarity of the word 'num': 0.0
+Sum of sentence polarity: 0.0
 
  pare por aí se faz favor proíbo-o de contar ao rapaz seja o que for!
 Sentence: ' pare por aí se faz favor proíbo-o de contar ao rapaz seja o que for!'
@@ -576,11 +576,11 @@ Sum of sentence polarity: 0
 
 um homem mais corajoso do que vernon dursley teria perdido o animo perante o olhar de fúria incontida que hagrid lhe lançou
 Sentence: 'um homem mais corajoso do que vernon dursley teria perdido o animo perante o olhar de fúria incontida que hagrid lhe lançou'
-Polarity of the word 'mais': 1
+Polarity of the word 'mais': 1.0
 Polarity of the word 'corajoso': 1
 Polarity of the word 'perdido': -1
 Polarity of the word 'animo': 1
-Sum of sentence polarity: 2
+Sum of sentence polarity: 2.0
 
 quando falou cada uma das sílabas que pronunciava tremia de raiva
 Sentence: 'quando falou cada uma das sílabas que pronunciava tremia de raiva'
@@ -590,13 +590,13 @@ Sum of sentence polarity: -2
 
  você nunca lhe disse
 Sentence: ' você nunca lhe disse'
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
 nunca lhe disse o que estava escrito na carta que o dumbledore deixou pra ele
 Sentence: 'nunca lhe disse o que estava escrito na carta que o dumbledore deixou pra ele'
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
 eu tava presente
 Sentence: 'eu tava presente'
@@ -610,13 +610,13 @@ Sum of sentence polarity: 0
 
 e você nunca lha entregou em todos estes anos
 Sentence: 'e você nunca lha entregou em todos estes anos'
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
  nunca me entregou o quê
 Sentence: ' nunca me entregou o quê'
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
  perguntou harry ansiosamente
 Sentence: ' perguntou harry ansiosamente'
@@ -654,8 +654,8 @@ Sum of sentence polarity: 0
 
 apenas se ouvia o mar e os assobios do vento
 Sentence: 'apenas se ouvia o mar e os assobios do vento'
-Polarity of the word 'apenas': 0
-Sum of sentence polarity: 0
+Polarity of the word 'apenas': 0.0
+Sum of sentence polarity: 0.0
 
  eu sou o quê
 Sentence: ' eu sou o quê'
@@ -668,9 +668,9 @@ Sum of sentence polarity: 0
  um feiticeiro claro  disse hagrid sentando-se no sofá que chiou e se afundou mais um pouco
 Sentence: ' um feiticeiro claro  disse hagrid sentando-se no sofá que chiou e se afundou mais um pouco'
 Polarity of the word 'afundou': 1
-Polarity of the word 'mais': 0
-Polarity of the word 'pouco': 0
-Sum of sentence polarity: 1
+Polarity of the word 'mais': 0.0
+Polarity of the word 'pouco': 0.0
+Sum of sentence polarity: 1.0
 
  e um excelente feiticeiro arriscaria eu basta quaprendas algumas coisas
 Sentence: ' e um excelente feiticeiro arriscaria eu basta quaprendas algumas coisas'
@@ -680,8 +680,8 @@ Sum of sentence polarity: 1
 
 cuma mãe e um pai comos teus como poderias não o ser
 Sentence: 'cuma mãe e um pai comos teus como poderias não o ser'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 e acho que chegou a altura de leres a tua carta
 Sentence: 'e acho que chegou a altura de leres a tua carta'
@@ -746,8 +746,8 @@ Sum of sentence polarity: 0
 
 as perguntas estoiraram dentro da cabeça de harry como se fossem fogo-de-artíficio de tal modo que ele não conseguia decidir qual a pergunta que queria fazer em primeiro lugar
 Sentence: 'as perguntas estoiraram dentro da cabeça de harry como se fossem fogo-de-artíficio de tal modo que ele não conseguia decidir qual a pergunta que queria fazer em primeiro lugar'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 após alguns minutos balbuciou
 Sentence: 'após alguns minutos balbuciou'
@@ -778,10 +778,10 @@ Polarity of the word 'coruja': 0
 Polarity of the word 'coruja': 0
 Polarity of the word 'verdadeira': 1
 Polarity of the word 'viva': 1
-Polarity of the word 'bastante': -2
+Polarity of the word 'bastante': -2.0
 Polarity of the word 'emaranhada': -1
 Polarity of the word 'inquieta': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 com a língua entre os dentes escrevinhou uma nota que o harry conseguiu ler de baixo para cima
 Sentence: 'com a língua entre os dentes escrevinhou uma nota que o harry conseguiu ler de baixo para cima'
@@ -821,10 +821,10 @@ Sum of sentence polarity: 1
 
 em seguida voltou a sentar-se como se tivesse feito a coisa mais normal deste mundo como por exemplo uma chamada telefónica
 Sentence: 'em seguida voltou a sentar-se como se tivesse feito a coisa mais normal deste mundo como por exemplo uma chamada telefónica'
-Polarity of the word 'mais': 1
+Polarity of the word 'mais': 1.0
 Polarity of the word 'normal': 1
 Polarity of the word 'chamada': 0
-Sum of sentence polarity: 2
+Sum of sentence polarity: 2.0
 
 harry apercebeu-se de que estava de boca aberta e fechou-a apressadamente
 Sentence: 'harry apercebeu-se de que estava de boca aberta e fechou-a apressadamente'
@@ -838,14 +838,14 @@ Sum of sentence polarity: 0
  perguntou hagrid mas naquele momento o tio vernon ainda pálido mas mostrando-se muito zangado aproximou-se do lume
 Sentence: ' perguntou hagrid mas naquele momento o tio vernon ainda pálido mas mostrando-se muito zangado aproximou-se do lume'
 Polarity of the word 'pálido': -1
-Polarity of the word 'muito': -1
+Polarity of the word 'muito': -1.0
 Polarity of the word 'zangado': -1
-Sum of sentence polarity: -3
+Sum of sentence polarity: -3.0
 
  ele não vai  afirmou
 Sentence: ' ele não vai  afirmou'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 hagrid grunhiu
 Sentence: 'hagrid grunhiu'
@@ -910,9 +910,9 @@ Sum of sentence polarity: 0
 
 como seria possível que não o fosses sendo a maldita da minha irmã como era
 Sentence: 'como seria possível que não o fosses sendo a maldita da minha irmã como era'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'maldita': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 sim ela recebeu uma carta igual à tua e desapareceu para ir para essa escola  aparecia depois em casa nas férias com os bolsos cheios de ovas de rã transformando canecas em ratazanas
 Sentence: 'sim ela recebeu uma carta igual à tua e desapareceu para ir para essa escola  aparecia depois em casa nas férias com os bolsos cheios de ovas de rã transformando canecas em ratazanas'
@@ -927,8 +927,8 @@ Sum of sentence polarity: 0
 
 mas para o meu pai e para a minha mãe não
 Sentence: 'mas para o meu pai e para a minha mãe não'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 era a lily isto a lily aquilo eles orgulhavam-se de ter uma bruxa na família!
 Sentence: 'era a lily isto a lily aquilo eles orgulhavam-se de ter uma bruxa na família!'
@@ -950,11 +950,11 @@ Sum of sentence polarity: 0
 
 e é claro que eu sabia que irias ser tão estranho  tão anormal  como eles
 Sentence: 'e é claro que eu sabia que irias ser tão estranho  tão anormal  como eles'
-Polarity of the word 'tão': -2
+Polarity of the word 'tão': -2.0
 Polarity of the word 'estranho': -1
-Polarity of the word 'tão': -1
+Polarity of the word 'tão': -1.0
 Polarity of the word 'anormal': -1
-Sum of sentence polarity: -5
+Sum of sentence polarity: -5.0
 
 por fim acabou por fazer com que rebentassem com ela e tu vieste aterrar aqui!
 Sentence: 'por fim acabou por fazer com que rebentassem com ela e tu vieste aterrar aqui!'
@@ -971,15 +971,15 @@ Sum of sentence polarity: 0
 
 vocês disseram-me que eles tinham morrido num acidente de automóvel!
 Sentence: 'vocês disseram-me que eles tinham morrido num acidente de automóvel!'
-Polarity of the word 'num': 0
-Sum of sentence polarity: 0
+Polarity of the word 'num': 0.0
+Sum of sentence polarity: 0.0
  (with exclamation booster)
 
  acidente de automóvel  berrou hagrid dando um salto tão furioso que os dursleys voltaram a recuar para o canto da sala
 Sentence: ' acidente de automóvel  berrou hagrid dando um salto tão furioso que os dursleys voltaram a recuar para o canto da sala'
-Polarity of the word 'tão': -1
+Polarity of the word 'tão': -1.0
 Polarity of the word 'furioso': -1
-Sum of sentence polarity: -2
+Sum of sentence polarity: -2.0
 
  como poderia um acidente de automóvel matar lily e james potter
 Sentence: ' como poderia um acidente de automóvel matar lily e james potter'
@@ -1019,19 +1019,19 @@ Sum of sentence polarity: -1
 
  nunca esperei quisto acontecesse  disse num tom de voz baixo e triste
 Sentence: ' nunca esperei quisto acontecesse  disse num tom de voz baixo e triste'
-Polarity of the word 'nunca': 1
+Polarity of the word 'nunca': 1.0
 Polarity of the word 'quisto': 1
-Polarity of the word 'num': 1
+Polarity of the word 'num': 1.0
 Polarity of the word 'triste': -1
-Sum of sentence polarity: 2
+Sum of sentence polarity: 2.0
 
  não me passou pla cabeça quando dumbledore me disse que podia haver problemas contigo até que ponto esta gente seria capaz de te manter na ignorância
 Sentence: ' não me passou pla cabeça quando dumbledore me disse que podia haver problemas contigo até que ponto esta gente seria capaz de te manter na ignorância'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'problemas': -1
 Polarity of the word 'capaz': 1
 Polarity of the word 'ignorância': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 ah!
 Sentence: 'ah!'
@@ -1040,11 +1040,11 @@ Sum of sentence polarity: 0
 
 harry não sei se sou a pessoa certa pra te contar  mas alguém tem de te dizer  não podes ir para hogwarts sem saber de nada
 Sentence: 'harry não sei se sou a pessoa certa pra te contar  mas alguém tem de te dizer  não podes ir para hogwarts sem saber de nada'
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'certa': 1
-Polarity of the word 'não': 0
-Polarity of the word 'nada': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'nada': 0.0
+Sum of sentence polarity: 0.0
 
 lançou um olhar de nojo aos dursleys
 Sentence: 'lançou um olhar de nojo aos dursleys'
@@ -1054,10 +1054,10 @@ Sum of sentence polarity: -1
  bem é melhor contar-te tudo aquilo que sei  apesar de não poder explicar-te tudo algumas partes ainda são um perfeito mistério
 Sentence: ' bem é melhor contar-te tudo aquilo que sei  apesar de não poder explicar-te tudo algumas partes ainda são um perfeito mistério'
 Polarity of the word 'melhor': 0
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'são': 1
 Polarity of the word 'perfeito': 1
-Sum of sentence polarity: 1
+Sum of sentence polarity: 1.0
 
 sentou-se olhou para o fogo durante alguns segundos e em seguida disse  tudo começa penso eu com uma pessoa chamada mas é incrível que nem saibas o seu nome toda a gente no nosso mundo o conhece
 Sentence: 'sentou-se olhou para o fogo durante alguns segundos e em seguida disse  tudo começa penso eu com uma pessoa chamada mas é incrível que nem saibas o seu nome toda a gente no nosso mundo o conhece'
@@ -1077,9 +1077,9 @@ Sum of sentence polarity: -1
 
 ninguém gosta
 Sentence: 'ninguém gosta'
-Polarity of the word 'ninguém': 0
+Polarity of the word 'ninguém': -0.0
 Polarity of the word 'gosta': 0
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
  porquê
 Sentence: ' porquê'
@@ -1134,8 +1134,8 @@ Sum of sentence polarity: 0
 
  não consigo soletrar
 Sentence: ' não consigo soletrar'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 lá vai  voldemort  disse hagrid estremecendo
 Sentence: 'lá vai  voldemort  disse hagrid estremecendo'
@@ -1143,8 +1143,8 @@ Sum of sentence polarity: 0
 
  não me obriguem a repeti-lo
 Sentence: ' não me obriguem a repeti-lo'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 de qualquer modo este este feiticeiro há cerca de vinte anos começou a procurar seguidores
 Sentence: 'de qualquer modo este este feiticeiro há cerca de vinte anos começou a procurar seguidores'
@@ -1161,16 +1161,16 @@ Sum of sentence polarity: 0
 
 não se sabia em quem se podia confiar
 Sentence: 'não se sabia em quem se podia confiar'
-Polarity of the word 'não': 0
+Polarity of the word 'não': -0.0
 Polarity of the word 'confiar': 0
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 não arriscávamos tornar-nos amigos de feiticeiros desconhecidos ou bruxas aconteciam coisas pavorosas
 Sentence: 'não arriscávamos tornar-nos amigos de feiticeiros desconhecidos ou bruxas aconteciam coisas pavorosas'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'amigos': 1
 Polarity of the word 'pavorosas': -1
-Sum of sentence polarity: 1
+Sum of sentence polarity: 1.0
 
 ele tava a tomar as rédeas do poder
 Sentence: 'ele tava a tomar as rédeas do poder'
@@ -1196,8 +1196,8 @@ Sum of sentence polarity: -1
 
 nunca tentou aproximar-se da escola
 Sentence: 'nunca tentou aproximar-se da escola'
-Polarity of the word 'nunca': 0
-Sum of sentence polarity: 0
+Polarity of the word 'nunca': 0.0
+Sum of sentence polarity: 0.0
 
  ora a tua mãe e o teu pai eram dos melhores mágicos e feiticeiros que eu conheci
 Sentence: ' ora a tua mãe e o teu pai eram dos melhores mágicos e feiticeiros que eu conheci'
@@ -1212,10 +1212,10 @@ Sum of sentence polarity: 0
 
 suponho que o mistério está no facto de o quem nós sabemos nunca ter tentado aliciálos para o seu lado talvez soubesse que eles gostavam muito do dumbledore para quererem fosse o que fosse com o lado negro
 Sentence: 'suponho que o mistério está no facto de o quem nós sabemos nunca ter tentado aliciálos para o seu lado talvez soubesse que eles gostavam muito do dumbledore para quererem fosse o que fosse com o lado negro'
-Polarity of the word 'nunca': 0
+Polarity of the word 'nunca': -0.0
 Polarity of the word 'gostavam': 0
-Polarity of the word 'muito': 0
-Sum of sentence polarity: 0
+Polarity of the word 'muito': 0.0
+Sum of sentence polarity: 0.0
 
 talvez pensasse que podia persuadi-los ou afastálos do caminho
 Sentence: 'talvez pensasse que podia persuadi-los ou afastálos do caminho'
@@ -1231,9 +1231,9 @@ Sum of sentence polarity: 0
 
  desculpem  disse  mas é tão triste
 Sentence: ' desculpem  disse  mas é tão triste'
-Polarity of the word 'tão': -1
+Polarity of the word 'tão': -1.0
 Polarity of the word 'triste': -1
-Sum of sentence polarity: -2
+Sum of sentence polarity: -2.0
 
 eu conhecia o teu pai e a tua mãe e eram as melhores pessoas do mundo e
 Sentence: 'eu conhecia o teu pai e a tua mãe e eram as melhores pessoas do mundo e'
@@ -1257,20 +1257,20 @@ Sum of sentence polarity: 1
 
 mas não conseguiu
 Sentence: 'mas não conseguiu'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 nunca tiveste curiosidade em saber de onde vem essa cicatriz que tens na testa
 Sentence: 'nunca tiveste curiosidade em saber de onde vem essa cicatriz que tens na testa'
-Polarity of the word 'nunca': -1
+Polarity of the word 'nunca': -1.0
 Polarity of the word 'testa': 1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 não é um corte vulgar
 Sentence: 'não é um corte vulgar'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'vulgar': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 é a marca que fica quando uma poderosa maldição nos toca
 Sentence: 'é a marca que fica quando uma poderosa maldição nos toca'
@@ -1280,9 +1280,9 @@ Sum of sentence polarity: -1
 
 ele conseguiu liquidar os teus pais e a tua casa também mas não conseguiu fazer-te mal a ti e é por isso que tu és famoso harry
 Sentence: 'ele conseguiu liquidar os teus pais e a tua casa também mas não conseguiu fazer-te mal a ti e é por isso que tu és famoso harry'
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'famoso': 1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 foste o único a sobreviver ao seu desejo de matar
 Sentence: 'foste o único a sobreviver ao seu desejo de matar'
@@ -1291,14 +1291,14 @@ Sum of sentence polarity: 0
 e olha quele matou alguns dos melhores feiticeiros e bruxas da época os mc_kinnons os bones os prewettstu não passavas de um bebé e sobreviveste
 Sentence: 'e olha quele matou alguns dos melhores feiticeiros e bruxas da época os mc_kinnons os bones os prewettstu não passavas de um bebé e sobreviveste'
 Polarity of the word 'melhores': 0
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 na mente de harry passava-se algo muito doloroso
 Sentence: 'na mente de harry passava-se algo muito doloroso'
 Polarity of the word 'mente': -1
-Polarity of the word 'muito': 0
-Sum of sentence polarity: -1
+Polarity of the word 'muito': 0.0
+Sum of sentence polarity: -1.0
 
 à medida que a história de hagrid avançava ele voltava a ver a forte luz verde com maior clareza do que antes  e recordou-se de uma coisa pela primeira vez de uma gargalhada grande fria e cruel
 Sentence: 'à medida que a história de hagrid avançava ele voltava a ver a forte luz verde com maior clareza do que antes  e recordou-se de uma coisa pela primeira vez de uma gargalhada grande fria e cruel'
@@ -1338,19 +1338,19 @@ Sum of sentence polarity: 1
  ouve bem rapaz  disse rispidamente  eu admito que existe em ti algo de estranho nada que muito provavelmente uma boa sova não pudesse ter curado mas quanto ao que se disse sobre os teus pais é certo que eles eram esquisitos ninguém pode negálo e se queres saber a minha opinião o mundo ficou bastante melhor sem eles
 Sentence: ' ouve bem rapaz  disse rispidamente  eu admito que existe em ti algo de estranho nada que muito provavelmente uma boa sova não pudesse ter curado mas quanto ao que se disse sobre os teus pais é certo que eles eram esquisitos ninguém pode negálo e se queres saber a minha opinião o mundo ficou bastante melhor sem eles'
 Polarity of the word 'estranho': -1
-Polarity of the word 'nada': 0
-Polarity of the word 'muito': 3
+Polarity of the word 'nada': -0.0
+Polarity of the word 'muito': 3.0
 Polarity of the word 'boa': 1
 Polarity of the word 'sova': 1
-Polarity of the word 'não': 0
+Polarity of the word 'não': -0.0
 Polarity of the word 'curado': 1
-Polarity of the word 'quanto': 0
+Polarity of the word 'quanto': 0.0
 Polarity of the word 'certo': 1
 Polarity of the word 'esquisitos': -1
-Polarity of the word 'ninguém': 0
-Polarity of the word 'bastante': 0
+Polarity of the word 'ninguém': -0.0
+Polarity of the word 'bastante': 0.0
 Polarity of the word 'melhor': 0
-Sum of sentence polarity: 5
+Sum of sentence polarity: 5.0
 
 com tudo o que tinham e misturados com esse tipo de feitiços tiveram a morte macaca que eu sempre esperei que tivessem
 Sentence: 'com tudo o que tinham e misturados com esse tipo de feitiços tiveram a morte macaca que eu sempre esperei que tivessem'
@@ -1365,8 +1365,8 @@ Sum of sentence polarity: 0
 
 apontando-o ao tio vernon com se fosse uma espada disse  estou a avisar-te dursley olha que estou a avisar-te mais uma palavra e
 Sentence: 'apontando-o ao tio vernon com se fosse uma espada disse  estou a avisar-te dursley olha que estou a avisar-te mais uma palavra e'
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 0
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 0.0
 
 a ideia de ser trespassado pelo guarda-chuva de um gigante barbudo fez com que a coragem do tio vernon se desvanecesse de novo
 Sentence: 'a ideia de ser trespassado pelo guarda-chuva de um gigante barbudo fez com que a coragem do tio vernon se desvanecesse de novo'
@@ -1378,9 +1378,9 @@ Sum of sentence polarity: 0
 
 espalmou-se contra a parede e não abriu mais a boca
 Sentence: 'espalmou-se contra a parede e não abriu mais a boca'
-Polarity of the word 'não': 0
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 0.0
 
  é melhor assim  disse hagrid respirando pesadamente e voltando a sentar-se no sofá que desta vez ruiu por completo estatelando-se no chão
 Sentence: ' é melhor assim  disse hagrid respirando pesadamente e voltando a sentar-se no sofá que desta vez ruiu por completo estatelando-se no chão'
@@ -1410,9 +1410,9 @@ Sum of sentence polarity: 0
 
 uma noite tentou matar-te o que te torna ainda mais famoso
 Sentence: 'uma noite tentou matar-te o que te torna ainda mais famoso'
-Polarity of the word 'mais': 1
+Polarity of the word 'mais': 1.0
 Polarity of the word 'famoso': 1
-Sum of sentence polarity: 2
+Sum of sentence polarity: 2.0
 
 e esse é o maior mistério compreendes
 Sentence: 'e esse é o maior mistério compreendes'
@@ -1420,8 +1420,8 @@ Sum of sentence polarity: 0
 
 sele tava a ficar cada vez com mais poder porque desapareceu
 Sentence: 'sele tava a ficar cada vez com mais poder porque desapareceu'
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 0
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 0.0
 
  alguns dizem que morreu
 Sentence: ' alguns dizem que morreu'
@@ -1433,15 +1433,15 @@ Sum of sentence polarity: 0
 
 não sei se tinha alguma coisa de humano que pude se morrer
 Sentence: 'não sei se tinha alguma coisa de humano que pude se morrer'
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'humano': 1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 outros acham quinda anda por aí mas eu não acredito
 Sentence: 'outros acham quinda anda por aí mas eu não acredito'
-Polarity of the word 'não': 0
+Polarity of the word 'não': -0.0
 Polarity of the word 'acredito': 0
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 os que estavam do lado dele regressaram ao nosso
 Sentence: 'os que estavam do lado dele regressaram ao nosso'
@@ -1454,8 +1454,8 @@ Sum of sentence polarity: -1
 
 não sabemos o que fariam se ele regressasse
 Sentence: 'não sabemos o que fariam se ele regressasse'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
  a maior parte calcula que ele esteja algures por aí mas que tendo perdido todos os poderes se sinta demasiado fraco para continuar
 Sentence: ' a maior parte calcula que ele esteja algures por aí mas que tendo perdido todos os poderes se sinta demasiado fraco para continuar'
@@ -1469,10 +1469,10 @@ Sum of sentence polarity: 0
 
 aconteceu algo naquela noite com quele não contava  eu não sei o que foi ninguém sabe mas qualquer coisa em ti acabou com ele
 Sentence: 'aconteceu algo naquela noite com quele não contava  eu não sei o que foi ninguém sabe mas qualquer coisa em ti acabou com ele'
-Polarity of the word 'não': 0
-Polarity of the word 'não': 0
-Polarity of the word 'ninguém': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'não': 0.0
+Polarity of the word 'ninguém': 0.0
+Sum of sentence polarity: 0.0
 
 hagrid olhou para harry com calor e respeito no olhar mas este em vez de se sentir satisfeito e orgulhoso o que sentiu foi que devia haver ali um tremendo engano
 Sentence: 'hagrid olhou para harry com calor e respeito no olhar mas este em vez de se sentir satisfeito e orgulhoso o que sentiu foi que devia haver ali um tremendo engano'
@@ -1518,8 +1518,8 @@ Sum of sentence polarity: -1
 
 eu não devo ser um feiticeiro
 Sentence: 'eu não devo ser um feiticeiro'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 para sua grande surpresa hagrid riu-se
 Sentence: 'para sua grande surpresa hagrid riu-se'
@@ -1527,16 +1527,16 @@ Sum of sentence polarity: 0
 
  não és um feiticeiro hein
 Sentence: ' não és um feiticeiro hein'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 nunca fizeste acontecer coisas estranhas quando estavas com medo ou zangado
 Sentence: 'nunca fizeste acontecer coisas estranhas quando estavas com medo ou zangado'
-Polarity of the word 'nunca': 1
+Polarity of the word 'nunca': 1.0
 Polarity of the word 'estranhas': -1
 Polarity of the word 'medo': -1
 Polarity of the word 'zangado': -1
-Sum of sentence polarity: -2
+Sum of sentence polarity: -2.0
 
 harry olhou para o fogo
 Sentence: 'harry olhou para o fogo'
@@ -1551,13 +1551,13 @@ Polarity of the word 'zangado': -1
 Polarity of the word 'perseguido': -1
 Polarity of the word 'ridículo': -1
 Polarity of the word 'batera': 1
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'valente': 1
 Polarity of the word 'susto': -1
 Polarity of the word 'consciência': 1
 Polarity of the word 'soltando': 1
 Polarity of the word 'boa': 1
-Sum of sentence polarity: -2
+Sum of sentence polarity: -2.0
 
 harry olhou de novo para hagrid a sorrir e viu que ele irradiava alegria
 Sentence: 'harry olhou de novo para hagrid a sorrir e viu que ele irradiava alegria'
@@ -1574,21 +1574,21 @@ Sum of sentence polarity: 0
 
  harry potter não ser um feiticeiro  vais ver como te tornarás famoso em hogwarts
 Sentence: ' harry potter não ser um feiticeiro  vais ver como te tornarás famoso em hogwarts'
-Polarity of the word 'não': -1
+Polarity of the word 'não': -1.0
 Polarity of the word 'famoso': 1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
 mas o tio vernon não ia desistir assim do pé para a mão
 Sentence: 'mas o tio vernon não ia desistir assim do pé para a mão'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'desistir': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
  não lhe disse já que ele não vai
 Sentence: ' não lhe disse já que ele não vai'
-Polarity of the word 'não': 0
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
  repetiu com uma voz sibilante
 Sentence: ' repetiu com uma voz sibilante'
@@ -1605,9 +1605,9 @@ Sum of sentence polarity: -1
 
  se ele quiser ir não é um muggle como você que vai impedi-lo  rosnou hagrid
 Sentence: ' se ele quiser ir não é um muggle como você que vai impedi-lo  rosnou hagrid'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'rosnou': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
 
  impedir o filho de lily e james potter de ir para hogwarts!
 Sentence: ' impedir o filho de lily e james potter de ir para hogwarts!'
@@ -1640,11 +1640,11 @@ Sum of sentence polarity: 1
 
  eu não vou pagar para um velho idiota lhe ensinar truques de magia!
 Sentence: ' eu não vou pagar para um velho idiota lhe ensinar truques de magia!'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'velho': -1
 Polarity of the word 'idiota': -1
 Polarity of the word 'truques de magia': -1
-Sum of sentence polarity: -3
+Sum of sentence polarity: -3.0
  (with exclamation booster)
 
  gritou o tio vernon
@@ -1653,17 +1653,17 @@ Sum of sentence polarity: 0
 
 mas desta vez tinha ido longe de mais
 Sentence: 'mas desta vez tinha ido longe de mais'
-Polarity of the word 'mais': 0
-Sum of sentence polarity: 0
+Polarity of the word 'mais': 0.0
+Sum of sentence polarity: 0.0
 
 hagrid pegou no guarda-chuva ergueu-o acima da cabeça do muggle e gritou bem alto  nunca  vociferou  nunca mais insultes na minha frente albus dumbledore!
 Sentence: 'hagrid pegou no guarda-chuva ergueu-o acima da cabeça do muggle e gritou bem alto  nunca  vociferou  nunca mais insultes na minha frente albus dumbledore!'
 Polarity of the word 'alto': 0
-Polarity of the word 'nunca': 1
-Polarity of the word 'nunca': 1
-Polarity of the word 'mais': -1
+Polarity of the word 'nunca': 1.0
+Polarity of the word 'nunca': 1.0
+Polarity of the word 'mais': -1.0
 Polarity of the word 'insultes': -1
-Sum of sentence polarity: 0
+Sum of sentence polarity: 0.0
  (with exclamation booster)
 
 baixou o guarda-chuva cortando o ar com uma vergastada e apontou-o ao dudley  houve um flash de luz violeta um som que parecia o de um foguete um forte grunhido e no momento seguinte o dudley parecia estar a dançar aos saltos com as mãos agarradas ao rabo gordo e a gritar com dores
@@ -1694,19 +1694,19 @@ Sum of sentence polarity: 0
 
  não devia ter-me descontrolado  disse pesarosamente  mas de qualquer modo não funcionou
 Sentence: ' não devia ter-me descontrolado  disse pesarosamente  mas de qualquer modo não funcionou'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'descontrolado': -1
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
 queria transformálo num porco mas ele já é tão parecido que não havia muito a fazer
 Sentence: 'queria transformálo num porco mas ele já é tão parecido que não havia muito a fazer'
-Polarity of the word 'num': 1
+Polarity of the word 'num': 1.0
 Polarity of the word 'porco': -1
-Polarity of the word 'tão': 0
-Polarity of the word 'não': 0
-Polarity of the word 'muito': 0
-Sum of sentence polarity: 0
+Polarity of the word 'tão': 0.0
+Polarity of the word 'não': 0.0
+Polarity of the word 'muito': 0.0
+Sum of sentence polarity: 0.0
 
 lançou um olhar envergonhado a harry com os olhos baixos sob as sobrancelhas farfalhudas
 Sentence: 'lançou um olhar envergonhado a harry com os olhos baixos sob as sobrancelhas farfalhudas'
@@ -1715,26 +1715,26 @@ Sum of sentence polarity: -1
 
  agradecia-te que não contasses isto a ninguém lá em hogwarts  disse
 Sentence: ' agradecia-te que não contasses isto a ninguém lá em hogwarts  disse'
-Polarity of the word 'não': 0
-Polarity of the word 'ninguém': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Polarity of the word 'ninguém': 0.0
+Sum of sentence polarity: 0.0
 
  eu não tou autorizado a fazer feitiços por assim dizer
 Sentence: ' eu não tou autorizado a fazer feitiços por assim dizer'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'autorizado': 1
 Polarity of the word 'feitiços': -1
-Sum of sentence polarity: 1
+Sum of sentence polarity: 1.0
 
 a minha função era seguir-te e fazer com que recebesses as cartas e coisas assim um dos motivos pelos quais eu quis tanto aceitar o trabalho
 Sentence: 'a minha função era seguir-te e fazer com que recebesses as cartas e coisas assim um dos motivos pelos quais eu quis tanto aceitar o trabalho'
-Polarity of the word 'tanto': 0
-Sum of sentence polarity: 0
+Polarity of the word 'tanto': 0.0
+Sum of sentence polarity: 0.0
 
  porque é que não podes fazer magia
 Sentence: ' porque é que não podes fazer magia'
-Polarity of the word 'não': 0
-Sum of sentence polarity: 0
+Polarity of the word 'não': 0.0
+Sum of sentence polarity: 0.0
 
  perguntou harry
 Sentence: ' perguntou harry'
@@ -1748,8 +1748,8 @@ Sum of sentence polarity: 0
 
 eles tiraram-me a varinha e quase tudo
 Sentence: 'eles tiraram-me a varinha e quase tudo'
-Polarity of the word 'quase': 0
-Sum of sentence polarity: 0
+Polarity of the word 'quase': 0.0
+Sum of sentence polarity: 0.0
 
 mas dumbledore deixou-me ficar como encarregado
 Sentence: 'mas dumbledore deixou-me ficar como encarregado'
@@ -1784,12 +1784,12 @@ Sum of sentence polarity: 0
 
 não te espantes salguma coisa se mexer acho que ainda tenho alguns roedores num dos bolsos
 Sentence: 'não te espantes salguma coisa se mexer acho que ainda tenho alguns roedores num dos bolsos'
-Polarity of the word 'não': 1
+Polarity of the word 'não': 1.0
 Polarity of the word 'roedores': -1
-Polarity of the word 'num': 0
-Sum of sentence polarity: 0
+Polarity of the word 'num': 0.0
+Sum of sentence polarity: 0.0
 
-Total Polarity: -59
+Total Polarity: -59.0
 
 Total Words: 387
 

@@ -1,0 +1,120 @@
+eu tenho uma camisola verde
+Sentence: 'eu tenho uma camisola verde'
+Sum of sentence polarity: 0
+
+a minha camisola verde é bonita
+Sentence: 'a minha camisola verde é bonita'
+Polarity of the word 'bonita': 1
+Sum of sentence polarity: 1
+
+a minha camisola verde é muito bonita
+Sentence: 'a minha camisola verde é muito bonita'
+Polarity of the word 'muito': 1.0
+Polarity of the word 'bonita': 1
+Sum of sentence polarity: 2.0
+
+a camisola da joana é feia
+Sentence: 'a camisola da joana é feia'
+Polarity of the word 'feia': -1
+Sum of sentence polarity: -1
+
+o joão azevedo é burro
+Sentence: 'o joão azevedo é burro'
+Polarity of the word 'burro': -1
+Sum of sentence polarity: -1
+
+o joão azevedo é muito burro!
+Sentence: 'o joão azevedo é muito burro!'
+Polarity of the word 'muito': -1.0
+Polarity of the word 'burro': -1
+Sum of sentence polarity: -3.0
+ (with exclamation booster)
+
+quando a minha mãe viu o joão azevedo até torceu o nariz
+Sentence: 'quando a minha mãe viu o joão azevedo até torceu o nariz'
+Polarity of the word 'torceu o nariz': -1
+Sum of sentence polarity: -1
+
+o joão azevedo é um porco fascista!
+Sentence: 'o joão azevedo é um porco fascista!'
+Polarity of the word 'porco': -1
+Polarity of the word 'fascista': -1
+Sum of sentence polarity: -3
+ (with exclamation booster)
+
+ele teve aquilo que merecia por ser burro e fascista
+Sentence: 'ele teve aquilo que merecia por ser burro e fascista'
+Polarity of the word 'burro': -1
+Polarity of the word 'fascista': -1
+Sum of sentence polarity: -2
+
+o vítor é idiota mas é um bom rapaz
+Sentence: 'o vítor é idiota mas é um bom rapaz'
+Polarity of the word 'idiota': -1
+Polarity of the word 'bom': 1
+Sum of sentence polarity: 0
+
+a minha camisola não é tão feia como a tua
+Sentence: 'a minha camisola não é tão feia como a tua'
+Polarity of the word 'não': 1.0
+Polarity of the word 'tão': -1.0
+Polarity of the word 'feia': -1
+Sum of sentence polarity: -1.0
+
+ninguém sabe que ganhei a lotaria
+Sentence: 'ninguém sabe que ganhei a lotaria'
+Polarity of the word 'ninguém': -1.0
+Polarity of the word 'ganhei': 1
+Sum of sentence polarity: 0.0
+
+tenho apenas pensamentos parvos na minha mente contudo sou capaz de ver os problemas raciais existentes
+Sentence: 'tenho apenas pensamentos parvos na minha mente contudo sou capaz de ver os problemas raciais existentes'
+Polarity of the word 'apenas': 0.5
+Polarity of the word 'parvos': -1
+Polarity of the word 'mente': -1
+Polarity of the word 'capaz': 1
+Polarity of the word 'problemas': -1
+Sum of sentence polarity: -1.5
+
+estas últimas eleições deixaram muito a desejar fiquei pasmado triste e deprimido
+Sentence: 'estas últimas eleições deixaram muito a desejar fiquei pasmado triste e deprimido'
+Polarity of the word 'deixaram muito a desejar': -1
+Polarity of the word 'pasmado': -1
+Polarity of the word 'triste': -1
+Polarity of the word 'deprimido': -1
+Sum of sentence polarity: -4
+
+a felicidade reside nas pequenas coisas um sorriso sincero um abraço apertado um olhar cheio de ternura
+Sentence: 'a felicidade reside nas pequenas coisas um sorriso sincero um abraço apertado um olhar cheio de ternura'
+Polarity of the word 'felicidade': 1
+Polarity of the word 'sincero': 1
+Polarity of the word 'ternura': 1
+Sum of sentence polarity: 3
+
+a tristeza é uma visita indesejada mas também uma oportunidade para crescermos e nos tornarmos mais fortes
+Sentence: 'a tristeza é uma visita indesejada mas também uma oportunidade para crescermos e nos tornarmos mais fortes'
+Polarity of the word 'tristeza': -1
+Polarity of the word 'indesejada': -1
+Polarity of the word 'mais': 1.0
+Polarity of the word 'fortes': 1
+Sum of sentence polarity: 0.0
+
+a coragem não é a ausência de medo mas sim a determinação de seguir em frente mesmo quando o coração está a tremer
+Sentence: 'a coragem não é a ausência de medo mas sim a determinação de seguir em frente mesmo quando o coração está a tremer'
+Polarity of the word 'coragem': 1
+Polarity of the word 'não': 1.0
+Polarity of the word 'medo': -1
+Polarity of the word 'determinação': 1
+Polarity of the word 'tremer': -1
+Sum of sentence polarity: 1.0
+
+Total Polarity: -10.5
+
+Total Words: 40
+
+Total Positive Words: 11
+Total Negative Words: 21
+Total Negations: 5
+Total Positive Boosters: 4
+Total Negative Boosters: 4
+Retira as tuas ilações, oh palhaço. Não te vou dar tudo de mão beijada.
