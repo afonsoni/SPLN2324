@@ -204,6 +204,8 @@ def update_text_polarity(file_paths):
             file.write(f"New Polarity (with mean in zero): {new_polarity}\n")
             lista.append(new_polarity)
 
+    return mean_polarities, lista  # Return both mean_polarities and lista
+
 def main():
     # verificar se existe uma palavra ou frase no dicionário sentilexpt na frase tokenizada
     for palavra in senti_lex_dict.keys():
@@ -232,16 +234,23 @@ def main():
         print(f"Terminado: {output_file}")
 
     # Update text polarity
-    update_text_polarity(output_files[1:])
+    mean_polarities, lista = update_text_polarity(output_files[1:])
 
     x = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']
 
-    y = lista
-
-    plt.bar(x,y)
+    # Plot mean_polarities
+    plt.bar(x, mean_polarities)
     plt.xlabel('Capítulos')
-    plt.ylabel('Polaridade')
-    plt.savefig('BarPlot_new.png')
+    plt.ylabel('Polaridade de Cada Capítulo')
+    plt.savefig('BarPlot_Mean_Cap.png')
+    plt.clf()  # Clear current plot
 
+    # Plot lista
+    plt.bar(x, lista)
+    plt.xlabel('Capítulos')
+    plt.ylabel('Polaridade Com Mean a Zero')
+    plt.savefig('BarPlot_With_Mean_to_Zero.png')
+    plt.clf()  # Clear current plot
+    
 if __name__ == '__main__':
     main()

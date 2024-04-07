@@ -1,11 +1,11 @@
 import os
 import matplotlib.pyplot as plt
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from LeIA import SentimentIntensityAnalyzer
 
 # Função para ler o texto de um arquivo
 def read(filename):
     with open(filename, 'r', encoding='utf-8') as file:
-        texto = file.read()
+       texto = file.read()
     return texto
 
 # Função para ler os capítulos de uma lista de arquivos
@@ -37,16 +37,16 @@ def main():
         return
 
     # Análise de sentimento em inglês para todos os capítulos
-    sentimentos_ingles = [analyzer.polarity_scores(texto)["compound"] for texto in chapters]
+    sentimentos_ingles = [analyzer.polarity_scores(texto)["polarity"] for texto in chapters]
 
     # Plotar gráfico de barras para a polaridade de todos os capítulos
     plt.figure(figsize=(8, 6))
     plt.bar(range(1, len(sentimentos_ingles)+1), sentimentos_ingles, color='blue', alpha=0.7)
-    plt.title('Polaridade de cada Capítulo em Inglês (Vader)')
+    plt.title('Polaridade de cada Capítulo em Inglês (LeIA)')
     plt.xlabel('Capítulo')
     plt.ylabel('Polaridade')
     plt.xticks(range(1, len(chapter_files)+1), ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII'])
-    plt.savefig('BarPlot_Vader_All_Chapters_Polarity.png') 
+    plt.savefig('BarPlot_LeIA_All_Chapters_Polarity.png') 
 
 if __name__ == "__main__":
     main()
