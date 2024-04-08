@@ -1,11 +1,11 @@
 import os
 import matplotlib.pyplot as plt
-from LeIA import SentimentIntensityAnalyzer
+from leia import SentimentIntensityAnalyzer
 
 # Função para ler o texto de um arquivo
 def read(filename):
     with open(filename, 'r', encoding='utf-8') as file:
-       texto = file.read()
+        texto = file.read()
     return texto
 
 # Função para ler os capítulos de uma lista de arquivos
@@ -22,7 +22,7 @@ def read_all_chapters(file_paths):
 
 def main():
     # Lista de caminhos para cada arquivo de capítulo
-    chapter_files = [f"HP_EN/HP_EN_{roman}.txt" for roman in ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']]
+    chapter_files = [f"corpus/HP_{roman}.txt" for roman in ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']]
 
     # Inicializar o Sentiment Intensity Analyzer
     analyzer = SentimentIntensityAnalyzer()
@@ -36,13 +36,13 @@ def main():
         print(f"Número de capítulos esperados: {len(chapter_files)}, Número de capítulos lidos: {len(chapters)}")
         return
 
-    # Análise de sentimento em inglês para todos os capítulos
-    sentimentos_ingles = [analyzer.polarity_scores(texto)["polarity"] for texto in chapters]
+    # Análise de sentimento para todos os capítulos
+    sentimentos_ingles = [analyzer.polarity_scores(chapter)['compound'] for chapter in chapters]
 
     # Plotar gráfico de barras para a polaridade de todos os capítulos
     plt.figure(figsize=(8, 6))
     plt.bar(range(1, len(sentimentos_ingles)+1), sentimentos_ingles, color='blue', alpha=0.7)
-    plt.title('Polaridade de cada Capítulo em Inglês (LeIA)')
+    plt.title('Polaridade de cada Capítulo (LeIA)')
     plt.xlabel('Capítulo')
     plt.ylabel('Polaridade')
     plt.xticks(range(1, len(chapter_files)+1), ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII'])
