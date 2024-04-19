@@ -4,111 +4,111 @@ Sum of sentence polarity: 0
 
 a minha camisola verde é bonita
 Sentence: 'a minha camisola verde é bonita'
-Polarity of the word 'bonita': 1
-Sum of sentence polarity: 1
+Polarity of the word 'bonita': 1.2
+Sum of sentence polarity: 1.2
 
 a minha camisola verde é muito bonita
 Sentence: 'a minha camisola verde é muito bonita'
-Polarity of the word 'muito': 1.0
-Polarity of the word 'bonita': 1
-Sum of sentence polarity: 2.0
+Polarity of the word 'muito': 1.5
+Polarity of the word 'bonita': 1.2
+Sum of sentence polarity: 2.7
 
 a camisola da joana é feia
 Sentence: 'a camisola da joana é feia'
-Polarity of the word 'feia': -1
-Sum of sentence polarity: -1
+Polarity of the word 'feia': -0.8
+Sum of sentence polarity: -0.8
 
 o joão azevedo é burro
 Sentence: 'o joão azevedo é burro'
-Polarity of the word 'burro': -1
-Sum of sentence polarity: -1
+Polarity of the word 'burro': -0.8
+Sum of sentence polarity: -0.8
 
 o joão azevedo é muito burro!
 Sentence: 'o joão azevedo é muito burro!'
-Polarity of the word 'muito': -1.0
-Polarity of the word 'burro': -1
-Sum of sentence polarity: -3.0
+Polarity of the word 'muito': -1.5
+Polarity of the word 'burro': -0.8
+Sum of sentence polarity: -3.3
  (with exclamation booster)
 
 quando a minha mãe viu o joão azevedo até torceu o nariz
 Sentence: 'quando a minha mãe viu o joão azevedo até torceu o nariz'
-Polarity of the word 'torceu o nariz': -1
-Sum of sentence polarity: -1
+Polarity of the word 'torceu o nariz': -0.8
+Sum of sentence polarity: -0.8
 
 o joão azevedo é um porco fascista!
 Sentence: 'o joão azevedo é um porco fascista!'
-Polarity of the word 'porco': -1
-Polarity of the word 'fascista': -1
-Sum of sentence polarity: -3
+Polarity of the word 'porco': -0.8
+Polarity of the word 'fascista': -0.8
+Sum of sentence polarity: -2.6
  (with exclamation booster)
 
 ele teve aquilo que merecia por ser burro e fascista
 Sentence: 'ele teve aquilo que merecia por ser burro e fascista'
-Polarity of the word 'burro': -1
-Polarity of the word 'fascista': -1
-Sum of sentence polarity: -2
+Polarity of the word 'burro': -0.8
+Polarity of the word 'fascista': -0.8
+Sum of sentence polarity: -1.6
 
 o vítor é idiota mas é um bom rapaz
 Sentence: 'o vítor é idiota mas é um bom rapaz'
-Polarity of the word 'idiota': -1
-Polarity of the word 'bom': 1
-Sum of sentence polarity: 0
+Polarity of the word 'idiota': -0.8
+Polarity of the word 'bom': 1.2
+Sum of sentence polarity: 0.3999999999999999
 
 a minha camisola não é tão feia como a tua
 Sentence: 'a minha camisola não é tão feia como a tua'
-Polarity of the word 'não': 1.0
-Polarity of the word 'tão': -1.0
-Polarity of the word 'feia': -1
-Sum of sentence polarity: -1.0
+Polarity of the word 'não': -0.5
+Polarity of the word 'tão': -1.5
+Polarity of the word 'feia': -0.8
+Sum of sentence polarity: -2.8
 
 ninguém sabe que ganhei a lotaria
 Sentence: 'ninguém sabe que ganhei a lotaria'
-Polarity of the word 'ninguém': -1.0
-Polarity of the word 'ganhei': 1
-Sum of sentence polarity: 0.0
+Polarity of the word 'ninguém': 0.5
+Polarity of the word 'ganhei': 1.2
+Sum of sentence polarity: 1.7
 
 tenho apenas pensamentos parvos na minha mente contudo sou capaz de ver os problemas raciais existentes
 Sentence: 'tenho apenas pensamentos parvos na minha mente contudo sou capaz de ver os problemas raciais existentes'
-Polarity of the word 'apenas': 0.5
-Polarity of the word 'parvos': -1
-Polarity of the word 'mente': -1
-Polarity of the word 'capaz': 1
-Polarity of the word 'problemas': -1
-Sum of sentence polarity: -1.5
+Polarity of the word 'apenas': -1.0
+Polarity of the word 'parvos': -0.8
+Polarity of the word 'mente': -0.8
+Polarity of the word 'capaz': 1.2
+Polarity of the word 'problemas': -0.8
+Sum of sentence polarity: -2.2
 
 estas últimas eleições deixaram muito a desejar fiquei pasmado triste e deprimido
 Sentence: 'estas últimas eleições deixaram muito a desejar fiquei pasmado triste e deprimido'
-Polarity of the word 'deixaram muito a desejar': -1
-Polarity of the word 'pasmado': -1
-Polarity of the word 'triste': -1
-Polarity of the word 'deprimido': -1
-Sum of sentence polarity: -4
+Polarity of the word 'deixaram muito a desejar': -0.8
+Polarity of the word 'pasmado': -0.8
+Polarity of the word 'triste': -0.8
+Polarity of the word 'deprimido': -0.8
+Sum of sentence polarity: -3.2
 
 a felicidade reside nas pequenas coisas um sorriso sincero um abraço apertado um olhar cheio de ternura
 Sentence: 'a felicidade reside nas pequenas coisas um sorriso sincero um abraço apertado um olhar cheio de ternura'
-Polarity of the word 'felicidade': 1
-Polarity of the word 'sincero': 1
-Polarity of the word 'ternura': 1
-Sum of sentence polarity: 3
+Polarity of the word 'felicidade': 1.2
+Polarity of the word 'sincero': 1.2
+Polarity of the word 'ternura': 1.2
+Sum of sentence polarity: 3.5999999999999996
 
 a tristeza é uma visita indesejada mas também uma oportunidade para crescermos e nos tornarmos mais fortes
 Sentence: 'a tristeza é uma visita indesejada mas também uma oportunidade para crescermos e nos tornarmos mais fortes'
-Polarity of the word 'tristeza': -1
-Polarity of the word 'indesejada': -1
-Polarity of the word 'mais': 1.0
-Polarity of the word 'fortes': 1
-Sum of sentence polarity: 0.0
+Polarity of the word 'tristeza': -0.8
+Polarity of the word 'indesejada': -0.8
+Polarity of the word 'mais': 1.5
+Polarity of the word 'fortes': 1.2
+Sum of sentence polarity: 1.0999999999999999
 
 a coragem não é a ausência de medo mas sim a determinação de seguir em frente mesmo quando o coração está a tremer
 Sentence: 'a coragem não é a ausência de medo mas sim a determinação de seguir em frente mesmo quando o coração está a tremer'
-Polarity of the word 'coragem': 1
-Polarity of the word 'não': 1.0
-Polarity of the word 'medo': -1
-Polarity of the word 'determinação': 1
-Polarity of the word 'tremer': -1
-Sum of sentence polarity: 1.0
+Polarity of the word 'coragem': 1.2
+Polarity of the word 'não': -0.5
+Polarity of the word 'medo': -0.8
+Polarity of the word 'determinação': 1.2
+Polarity of the word 'tremer': -0.8
+Sum of sentence polarity: 0.2999999999999998
 
-Total Polarity: -10.5
+Total Polarity: -7.099999999999999
 
 Total Words: 40
 
