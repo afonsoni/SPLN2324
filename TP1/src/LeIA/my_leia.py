@@ -1,6 +1,6 @@
 import os
 import matplotlib.pyplot as plt
-from leia import SentimentIntensityAnalyzer
+from leia import SentimentIntensityAnalyzer  # Presumindo que leia é a biblioteca correta
 
 # Função para ler o texto de um arquivo
 def read(filename):
@@ -20,11 +20,19 @@ def read_all_chapters(file_paths):
             print(f"O arquivo {file_path} não foi encontrado.")
     return chapters
 
+# Função para calcular a soma dos sentimentos de um capítulo
+def calculate_sentiment_sum(text, analyzer):
+    # Segmenta o texto em sentenças
+    sentences = text.split('.')
+    # Calcula a soma dos scores 'compound' das sentenças
+    sentiment_sum = sum(analyzer.polarity_scores(sentence)['compound'] for sentence in sentences if sentence.strip())
+    return sentiment_sum
+
 def main():
     # Lista de caminhos para cada arquivo de capítulo
     chapter_files = [f"corpus/HP_{roman}.txt" for roman in ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII']]
 
-    # Inicializar o Sentiment Intensity Analyzer
+    # Inicializar o Sentiment Intensity Analyzer do LeiA
     analyzer = SentimentIntensityAnalyzer()
 
     # Ler os textos de todos os capítulos
@@ -36,17 +44,18 @@ def main():
         print(f"Número de capítulos esperados: {len(chapter_files)}, Número de capítulos lidos: {len(chapters)}")
         return
 
-    # Análise de sentimento para todos os capítulos
-    sentimentos_ingles = [analyzer.polarity_scores(chapter)['compound'] for chapter in chapters]
+    # Calcular a soma dos sentimentos para cada capítulo
+    sentimentos_soma = [calculate_sentiment_sum(chapter, analyzer) for chapter in chapters]
 
-    # Plotar gráfico de barras para a polaridade de todos os capítulos
+    # Plotar o gráfico de barras
     plt.figure(figsize=(8, 6))
-    plt.bar(range(1, len(sentimentos_ingles)+1), sentimentos_ingles, color='blue', alpha=0.7)
+    plt.bar(range(1, len(sentimentos_soma)+1), sentimentos_soma, color='blue', alpha=0.7)
     plt.title('Polaridade de cada Capítulo (LeIA)')
     plt.xlabel('Capítulo')
     plt.ylabel('Polaridade')
     plt.xticks(range(1, len(chapter_files)+1), ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII'])
-    plt.savefig('BarPlot_LeIA_All_Chapters_Polarity.png') 
+    plt.tight_layout()  # Para ajustar caso haja sobreposição de elementos no gráfico
+    plt.savefig('BarPlot_LeIA_All_Chapters_Polarity_Sum.png')
 
 if __name__ == "__main__":
     main()
